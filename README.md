@@ -26,9 +26,9 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](club_dinosaur.png)
 
-"a smart dinosaur reading a book"
+"a smart dinosaur reading docs"
 
-![](smart_dinosaur.png)
+![](smart_dinosaur_docs.png)
 
 "a dinosaur trying, but failing to get money"
 
