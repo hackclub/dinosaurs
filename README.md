@@ -47,3 +47,7 @@ _The Dinosaur Who Can Never Look Back_
 "dino teaching"
 
 ![](dino_teaching.png)
+
+"dino handing docs"
+
+![](dino_teaching.png)
