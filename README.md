@@ -43,3 +43,7 @@ _The Dinosaur Who Can Never Look Back_
 "dinosaur doing code stuff"
 
 ![](code_dinosaur.png)
+
+"dino teaching"
+
+![](dino_teaching.png)
