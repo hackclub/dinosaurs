@@ -50,4 +50,8 @@ _The Dinosaur Who Can Never Look Back_
 
 "dino handing docs"
 
-![](dino_teaching.png)
+![](dino_handing_docs.png)
+
+"party orpheus"
+
+![](party_orpheus.png)
