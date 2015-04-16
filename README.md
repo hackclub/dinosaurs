@@ -44,6 +44,8 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](code_dinosaur.png)
 
+![](code_dinosaur.svg)
+
 "dino teaching"
 
 ![](dino_teaching.png)
