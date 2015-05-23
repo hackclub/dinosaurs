@@ -57,3 +57,8 @@ _The Dinosaur Who Can Never Look Back_
 "party orpheus"
 
 ![](party_orpheus.png)
+
+
+"dino winning"
+
+![](dino_winning.png)
