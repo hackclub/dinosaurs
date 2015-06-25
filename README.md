@@ -62,3 +62,8 @@ _The Dinosaur Who Can Never Look Back_
 "dino winning"
 
 ![](dino_winning.png)
+
+"two dinosaurs stacked underneath a trench coat pretending to be a classic
+human. top dinosaur is prophet orpheus about to hit up the club"
+
+![](undercover_dinosaurs.png)
