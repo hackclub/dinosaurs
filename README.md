@@ -58,7 +58,6 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](party_orpheus.png)
 
-
 "dino winning"
 
 ![](dino_winning.png)
@@ -71,7 +70,25 @@ human. top dinosaur is prophet orpheus about to hit up the club"
 "dinosaur trying to contribute to open source but can't because its arms are too
 short"
 
-![](contributing_dinosaur.png)
+"confused dino"
+
+![](confused_dinosaur.png)
+
+"dinosaur coming from the future to destroy humanity"
+
+![](dinosaur_coming_from_the_future_to_destroy_humanity.png)
+
+"dino sealing letters"
+
+![](dinosaur_sealing_letters_with_wax.png)
+
+"dino waving hello"
+
+![](dinosaur_waving.png)
+
+"dinosaur starting a dino-as-a-service start-up"
+
+![](dinosaur_logo.png)
 
 "i have failed"
 
