@@ -1,6 +1,6 @@
 # dinosaurs
 
-hackEDU dinosaur mascot.
+Hack Club dinosaur mascot.
 
 _Created by http://nathanielthealligator.tumblr.com/_
 
