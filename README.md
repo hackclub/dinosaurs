@@ -67,3 +67,11 @@ _The Dinosaur Who Can Never Look Back_
 human. top dinosaur is prophet orpheus about to hit up the club"
 
 ![](undercover_dinosaurs.png)
+
+"i have failed"
+
+![](i_have_failed.png)
+
+"handstand"
+
+![](handstand.png)
