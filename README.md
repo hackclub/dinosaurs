@@ -70,6 +70,8 @@ human. top dinosaur is prophet orpheus about to hit up the club"
 "dinosaur trying to contribute to open source but can't because its arms are too
 short"
 
+![](contributing_dinosaur.png)
+
 "confused dino"
 
 ![](confused_dinosaur.png)
