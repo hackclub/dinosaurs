@@ -96,6 +96,10 @@ short"
 
 ![](i_have_failed.png)
 
+"you promised me answers duck"
+
+![](dinosaur_interrogate_rubber_duck.png)
+
 "handstand"
 
 ![](handstand.png)
