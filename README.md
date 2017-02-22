@@ -96,6 +96,10 @@ short"
 
 ![](i_have_failed.png)
 
+"you promised me answers duck"
+
+![](dinosaur_interrogate_rubber_duck.png)
+
 "dinosaur dressing up as a teenage mutant ninja turtle"
 
 ![](dinosaur_ninja.png)
