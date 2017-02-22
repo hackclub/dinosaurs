@@ -1,6 +1,6 @@
 # dinosaurs
 
-Hack Club dinosaur mascot.
+Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosaur. Prophet Orpheus is always getting into crazy adventures, from stealing food to going to the moon. He is usually drawn in black and white in limited drawing programs like MS Paint or Pinta.
 
 _Created by http://nathanielthealligator.tumblr.com/_
 
@@ -99,6 +99,10 @@ short"
 "robber dino"
 
 ![](robber_dino.png)
+
+"dinosaur dressing up as a teenage mutant ninja turtle"
+
+![](dinosaur_ninja.png)
 
 "handstand"
 
