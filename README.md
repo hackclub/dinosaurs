@@ -104,6 +104,10 @@ short"
 
 ![](dinosaur_ninja.png)
 
+"dinosaur sweating bullets"
+
+![](dinosaur_sweating_bullets.png)
+
 "handstand"
 
 ![](handstand.png)
