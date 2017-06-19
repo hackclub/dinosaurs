@@ -96,7 +96,7 @@ short"
 
 "you promised me answers duck"
 
-![](dinosaur_interrogate_rubber_duck.png)
+![](dinosaur_holding_rubber_duck.png)
 
 "dinosaur dressing up as a teenage mutant ninja turtle"
 
