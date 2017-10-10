@@ -112,4 +112,4 @@ short"
 
 "8bit"
 
-![](dino.gif)
+![](8bitdino.png)
