@@ -106,10 +106,10 @@ short"
 
 ![](dinosaur_sweating_bullets.png)
 
+"8-bit"
+
+![](8-bit_dino.png)
+
 "handstand"
 
 ![](handstand.png)
-
-"8bit"
-
-![](8bitdino.png)
