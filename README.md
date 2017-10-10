@@ -109,3 +109,7 @@ short"
 "handstand"
 
 ![](handstand.png)
+
+"8bit"
+
+![](8bitdino.png)
