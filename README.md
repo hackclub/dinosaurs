@@ -32,6 +32,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](smart_dinosaur_docs.png)
 
+"a dinosaur motivating someone"
+
+![](motivational_dinosaur.png)
+
 "a dinosaur trying, but failing to get money"
 
 ![](money_dinosaur_1.png)
