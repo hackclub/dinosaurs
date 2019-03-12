@@ -58,6 +58,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](dino_handing_docs.png)
 
+"birthday dino"
+
+![](birthday_dino.jpg)
+
 "party orpheus"
 
 ![](party_orpheus.png)
