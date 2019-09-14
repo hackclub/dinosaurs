@@ -58,6 +58,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](dino_handing_docs.png)
 
+"cake dino"
+
+![](cake_dino.png)
+
 "birthday dino"
 
 ![](birthday_dino.jpg)
