@@ -128,6 +128,10 @@ short"
 
 ![](handstand.png)
 
+"reddit dino"
+
+![](reddit-dino.png)
+
 "at the arcade"
 
 ![](arcade_dino.png)
