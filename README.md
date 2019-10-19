@@ -127,3 +127,7 @@ short"
 "handstand"
 
 ![](handstand.png)
+
+"at the arcade"
+
+![](arcade_dino.png)
