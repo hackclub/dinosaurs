@@ -131,3 +131,11 @@ short"
 "Old Dino"
 
 ![](Ancient&#32;Orpheus.png)
+
+"reddit dino"
+
+![](reddit-dino.png)
+
+"at the arcade"
+
+![](arcade_dino.png)
