@@ -144,3 +144,7 @@ short"
 "at the arcade"
 
 ![](arcade_dino.png)
+
+"leaping dino"
+
+![](leaping_dino.png)
