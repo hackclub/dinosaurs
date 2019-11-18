@@ -12,12 +12,12 @@ _Created by http://nathanielthealligator.tumblr.com/_
 
 _The Dinosaur Who Can Never Look Back_
 
-    or else that means acknowledging her past and accepting the fate of the dinosaurs
-    right now, she is still able to exist through the engagement of modern constructions
+    or else that means acknowledging [her] past and accepting the fate of the dinosaurs
+    right now, [she] is still able to exist through the engagement of modern constructions
     like reading books and chasing after money
     only ever living in the present
-    engaging with the idea that she's still alive
-    Much like her Greek namesake, who couldn't give up on the idea that his wife is dead
+    engaging with the idea that [she's] still alive
+    Much like [her] Greek namesake, who couldn't give up on the idea that his wife is dead
     until he is finally forced to "look back"
 
 -- <cite>nathanielthealligator</cite>
