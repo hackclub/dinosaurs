@@ -148,3 +148,7 @@ short"
 "leaping dino"
 
 ![](leaping_dino.png)
+
+"a 3d model dino can be found in orpheus.blend. here's a preview."
+
+![](orpheus_blend_preview.png)
