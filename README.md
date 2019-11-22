@@ -148,3 +148,6 @@ short"
 "leaping dino"
 
 ![](leaping_dino.png)
+
+"dino drawing a dino"
+![](dino-drawing)
