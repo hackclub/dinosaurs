@@ -150,3 +150,7 @@ short"
 "leaping dino"
 
 ![](leaping_dino.png)
+
+"dino5"
+
+![](dino5.png)
