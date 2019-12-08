@@ -151,6 +151,6 @@ short"
 
 ![](leaping_dino.png)
 
-"andrewgcodesandrewgcodes-bunnydino"
+"andrewgcodes-bunnydino"
 
-![](andrewgcodesandrewgcodes-bunnydino.png)
+![](andrewgcodes-bunnydino.png)
