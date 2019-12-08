@@ -150,3 +150,6 @@ short"
 "leaping dino"
 
 ![](leaping_dino.png)
+
+"confuzzled dino"
+![](dino.png)
