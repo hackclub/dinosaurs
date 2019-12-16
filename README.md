@@ -154,3 +154,19 @@ short"
 "confuzzled dino"
 
 ![](confuzzled-dino.png)
+
+"nervous dino"
+
+![](nervous_dino.gif)
+
+"pirate-dino"
+
+![](pirate-dino.png)
+
+"oopheus"
+
+![](oopheus.png)
+
+"andrewgcodes-bunnydino"
+
+![](andrewgcodes-bunnydino.png)
