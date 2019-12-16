@@ -130,7 +130,6 @@ short"
 
 ![](handstand.png)
 
-
 "dinosaur trying to draw a dinosaur"
 
 ![](jspaint-dino.png)
@@ -150,6 +149,10 @@ short"
 "leaping dino"
 
 ![](leaping_dino.png)
+
+"dino drawing a dino
+
+![](drawing-dino.png)
 
 "confuzzled dino"
 
