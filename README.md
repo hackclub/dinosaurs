@@ -151,6 +151,10 @@ short"
 
 ![](leaping_dino.png)
 
+"nervous dino"
+
+![](nervous_dino.gif)
+
 "pirate-dino"
 
 ![](pirate-dino.png)
