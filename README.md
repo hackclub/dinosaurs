@@ -151,6 +151,10 @@ short"
 
 ![](leaping_dino.png)
 
+"pirate-dino"
+
+![](pirate-dino.png)
+
 "oopheus"
 
 ![](oopheus.png)
