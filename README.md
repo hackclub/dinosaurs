@@ -173,3 +173,10 @@ short"
 "andrewgcodes-bunnydino"
 
 ![](andrewgcodes-bunnydino.png)
+
+"harry dino"
+![](harry-dino.png)
+
+"pokerface dino"
+
+![](poker-face-dino.jpg)
