@@ -151,6 +151,10 @@ short"
 
 ![](leaping_dino.png)
 
+"oopheus"
+
+![](oopheus.png)
+
 "andrewgcodes-bunnydino"
 
 ![](andrewgcodes-bunnydino.png)
