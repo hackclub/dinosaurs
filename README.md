@@ -152,4 +152,5 @@ short"
 ![](leaping_dino.png)
 
 "confuzzled dino"
-![](dino.png)
+
+![](confuzzled-dino.png)
