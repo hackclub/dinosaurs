@@ -151,6 +151,10 @@ short"
 
 ![](leaping_dino.png)
 
+"confuzzled dino"
+
+![](confuzzled-dino.png)
+
 "nervous dino"
 
 ![](nervous_dino.gif)
