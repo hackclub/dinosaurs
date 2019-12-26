@@ -184,3 +184,7 @@ short"
 "iamcpdev-mama-orpheus-and-smol-orpheus"
 
 ![](iamcpdev-mama-orpheus-and-smol-orpheus.png)
+
+"dinosaur coding on an ipad"
+
+![](ipad_dino.JPG)
