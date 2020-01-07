@@ -188,3 +188,7 @@ short"
 "dinosaur coding on an ipad"
 
 ![](ipad_dino.JPG)
+
+"polytroper-chick-hat-dino"
+
+![](polytroper-chick-hat-dino.png)
