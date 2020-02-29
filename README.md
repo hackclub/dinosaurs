@@ -365,3 +365,6 @@ harshithap2000-dai_deprivation"
 "pirate dino sailing through the web"
 
 ![](DotBlue01-dino.png)
+
+"When the dino wants a hug"
+![](Catseye124-dino-hugs.png)
