@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Blazeleo-Dede-the-dino.png"
+
+![](Blazeleo-Dede-the-dino.png)
+
 "kshitij-cell-CoderDino.png"
 
 ![](kshitij-cell-CoderDino.png)
