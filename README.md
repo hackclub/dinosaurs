@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"Resolution-1-King-Dino.png"
+
+![](Resolution-1-King-Dino.png)
