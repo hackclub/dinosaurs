@@ -366,6 +366,10 @@ harshithap2000-dai_deprivation"
 
 ![](DotBlue01-dino.png)
 
+"Mr Adiletta"
+
+![](Mr Adiletta.png)
+
 "Xravarion-dinoo"
 
 ![](Xravarion-dinoo.png)
