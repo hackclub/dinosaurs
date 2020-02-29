@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"DarkSchokolade-wildwestdino"
+
+![](DarkSchokolade-wildwestdino.png)
