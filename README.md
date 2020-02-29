@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"rib44-Yo-Dyno"
+
+![](rib44-Yo-Dyno.png)
