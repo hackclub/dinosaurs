@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Sumi5Dawn-stickerwala"
+
+![](Sumi5Dawn-stickerwala.png)
+
 "rib44-Yo-Dyno"
 
 ![](rib44-Yo-Dyno.png)
