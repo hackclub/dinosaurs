@@ -196,3 +196,6 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"rishik-m-Sailor-dino.png"
+![](rishik-m-Sailor-dino.png)
