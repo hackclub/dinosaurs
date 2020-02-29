@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"SAMURAii-7-Captain-Dino"
+
+![](SAMURAii-7-Captain-Dino.png)
+
 "HarshilReddy-Dj-Dino"
 
 ![](HarshilReddy-Dj-Dino.png)
