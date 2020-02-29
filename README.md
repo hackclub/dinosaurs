@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"rudyt7-dino.png"
+
+![](rudyt7-dino.png)
+
 "MihirK018-mkdino.png"
 
 ![](MihirK018-mkdino.png)
