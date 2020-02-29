@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"Blazeleo-Dede-the-dino.png"
+
+![](Blazeleo-Dede-the-dino.png)
