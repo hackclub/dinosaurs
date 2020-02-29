@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"Piyush-Aneja-dino.png"
+
+![](Piyush-Aneja-dino.png)
