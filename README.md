@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Piyush-Aneja-dino.png"
+
+![](Piyush-Aneja-dino.png)
+
 "Resolution-1-King-Dino.png"
 
 ![](Resolution-1-King-Dino.png)
