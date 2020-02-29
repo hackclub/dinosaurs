@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"skd273-rocker-dino.png"
+
+![](skd273-rocker-dino.png)
+
 "rishik-m-Sailor-dino.png"
 
 ![](rishik-m-Sailor-dino.png)
