@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Resolution-1-King-Dino.png"
+
+![](Resolution-1-King-Dino.png)
+
 "Prateekg2050-thug-dino.png"
 
 ![](Prateekg2050-thug-dino.png)
