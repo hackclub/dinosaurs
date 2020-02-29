@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Dinoser on Fire"
+
+![](Enmandligvaesen-Dragon_on_fire.png)
+
 "Sumukhy-dino"
 
 ![](Sumukhy-dino.png)
