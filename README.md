@@ -365,3 +365,6 @@ harshithap2000-dai_deprivation"
 "pirate dino sailing through the web"
 
 ![](DotBlue01-dino.png)
+
+"confused ~cat~ dino being yelled at"
+![](ComradeKrona-Woman-Yelling-at-Dino.png)
