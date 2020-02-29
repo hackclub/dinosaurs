@@ -199,5 +199,5 @@ short"
 
 "damcrazy-dino"
 
-![](damcrazy-dino.png)
+![](damcrazy-dinoxd.png)
 
