@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"tanmays1124-super-saiyan-dino.png"
+
+![](tanmays1124-super-saiyan-dino.png)
