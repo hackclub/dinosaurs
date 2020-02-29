@@ -366,7 +366,7 @@ harshithap2000-dai_deprivation"
 
 ![](DotBlue01-dino.png)
 
-"20leunge-scorpdino"
+"scorp-dino"
 
 ![](20leunge-scorpdino.png)
 
@@ -380,7 +380,7 @@ harshithap2000-dai_deprivation"
 
 "Mr Adiletta"
 
-![](Mr Adiletta.png)
+![](Mr_Adiletta.png)
 
 "Xravarion-dinoo"
 
@@ -400,7 +400,7 @@ harshithap2000-dai_deprivation"
 
 "Aaronpk47-dino"
 
-![](Aaronpk47-dino.png)
+![](Aaronpk47-dinodad.png)
 
 "neelnayar23-dino"
 
@@ -410,9 +410,9 @@ harshithap2000-dai_deprivation"
 
 ![](Pinklady28001-Love-dino.png)
 
-"marsx03-orpheus-&-rubber-duck-buddy-:D"
+"orpheus & rubber duck buddy :D"
 
-![](marsx03-orpheus-&-rubber-duck-buddy-:D.png)
+![](marsx03-orpheus-&-rubber-duck-buddy.png)
 
 "When the dino wants a hug"
 
