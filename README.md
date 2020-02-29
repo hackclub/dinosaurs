@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"Sumi5Dawn-stickerwala"
+
+![](Sumi5Dawn-stickerwala.png)
