@@ -365,3 +365,7 @@ harshithap2000-dai_deprivation"
 "pirate dino sailing through the web"
 
 ![](DotBlue01-dino.png)
+
+"Specimen209-I-cant-spell-tbh"
+
+![](Specimen209-I-cant-spell-tbh.png)
