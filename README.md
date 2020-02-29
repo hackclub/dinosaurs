@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Sathvik2311-dino"
+
+![](Sathvik2311-dino.png)
+
 "Rashish1-dino"
 
 ![](Rashish1-dino.png)
