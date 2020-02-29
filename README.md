@@ -220,3 +220,7 @@ short"
 "DarkSchokolade-wildwestdino"
 
 ![](DarkSchokolade-wildwestdino.png)
+
+"pirate dino sailing through the web"
+
+![](DotBlue01-dino.png)
