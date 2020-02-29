@@ -366,6 +366,22 @@ harshithap2000-dai_deprivation"
 
 ![](DotBlue01-dino.png)
 
+"Aaronpk47-dino"
+
+![](Aaronpk47-dino.png)
+
+"neelnayar23-dino"
+
+![](neelnayar23-dino.png)
+
+"Love dino"
+
+![](Pinklady28001-Love-dino.png)
+
+"marsx03-orpheus-&-rubber-duck-buddy-:D"
+
+![](marsx03-orpheus-&-rubber-duck-buddy-:D.png)
+
 "When the dino wants a hug"
 
 ![](Catseye124-dino-hugs.png)
