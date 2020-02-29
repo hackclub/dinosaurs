@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"nikhil-kuma-dino.png"
+
+![](nikhil-kuma-dino.png)
