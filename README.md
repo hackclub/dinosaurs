@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Sumukhy-dino"
+
+![](Sumukhy-dino.png)
+
 "somyasriv16-dino_attention"
 
 ![](somyasriv16-dino_attention.png)
