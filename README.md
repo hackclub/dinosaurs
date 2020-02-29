@@ -242,7 +242,7 @@ short"
 
 ![](rishik-m-Sailor-dino.png)
 
-"rudyt7-dino.png"
+"dino hungry for code"
 
 ![](rudyt7-dino.png)
 
@@ -254,7 +254,7 @@ short"
 
 ![](mims1234-Hackinorause.png)
 
-"Blazeleo-Dede-the-dino.png"
+"feels bad dino"
 
 ![](Blazeleo-Dede-the-dino.png)
 
@@ -262,7 +262,7 @@ short"
 
 ![](kshitij-cell-CoderDino.png)
 
-"Sammy62613-SAmmy-sed-internet-dino"
+"dino sad without internet"
 
 ![](Sammy62613-SAmmy-sed-internet-dino.png)
 
@@ -282,9 +282,9 @@ short"
 
 ![](creator-aditya-dino-hackerboi.png)
 
-"raghav18482-dino (2).png"
+"raghav18482-dino.png"
 
-![](raghav18482-dino (2).png)
+![](raghav18482-dino.png)
 
 "Dheemanth-gowda-Arpit"
 
@@ -310,7 +310,7 @@ harshithap2000-dai_deprivation"
 
 ![](SAMURAii-7-Captain-Dino.png)
 
-"HarshilReddy-Dj-Dino"
+"dj dino"
 
 ![](HarshilReddy-Dj-Dino.png)
 
@@ -322,11 +322,11 @@ harshithap2000-dai_deprivation"
 
 ![](rib44-Yo-Dyno.png)
 
-"techiee619-dino"
+"dino getting a syntax error"
 
 ![](techiee619-dino.png)
 
-"Dinoser on Fire"
+"dino on fire"
 
 ![](Enmandligvaesen-Dragon_on_fire.png)
 
@@ -338,9 +338,9 @@ harshithap2000-dai_deprivation"
 
 ![](somyasriv16-dino_attention.png)
 
-"harshraj21-harshrajdino"
+"harshraj21-mydino"
 
-![](harshraj21-harshrajdino.png)
+![](harshraj21-mydino.png)
 
 "pizza lover"
 
