@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"somyasriv16-dino_attention"
+
+![](somyasriv16-dino_attention.png)
+
 "harshraj21-harshrajdino"
 
 ![](harshraj21-harshrajdino.png)
