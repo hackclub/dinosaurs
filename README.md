@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Sammy62613-SAmmy-sed-internet-dino"
+
+![](Sammy62613-SAmmy-sed-internet-dino.png)
+
 "appy9972-dino-in-space-jpg.png"
 
 ![](appy9972-dino-in-space-jpg.png)
