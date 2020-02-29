@@ -216,3 +216,7 @@ short"
 "Vasudev-2308-VDX-dino"
 
 ![](Vasudev-2308-VDX-dino.png)
+
+"DarkSchokolade-wildwestdino"
+
+![](DarkSchokolade-wildwestdino.png)
