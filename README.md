@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"techiee619-dino"
+
+![](techiee619-dino.png)
+
 "Dinoser on Fire"
 
 ![](Enmandligvaesen-Dragon_on_fire.png)
