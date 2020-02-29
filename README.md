@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"Sumukhy-dino"
+
+![](Sumukhy-dino.png)
