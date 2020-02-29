@@ -1,6 +1,6 @@
 # dinosaurs
 
-![](Dinos.jpg)
+![](necrosis2010-chillnibs.png)
 
 Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosaur. Prophet Orpheus is always getting into crazy adventures, from stealing food to going to the moon. She is usually drawn in black and white in limited drawing programs like MS Paint or Pinta.
 
@@ -196,3 +196,6 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+.png
+"necrosis2010-chillnibs"
+![](necrosis2010-chillnibs.png)
