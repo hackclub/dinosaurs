@@ -366,6 +366,10 @@ harshithap2000-dai_deprivation"
 
 ![](DotBlue01-dino.png)
 
+"SrihanAnand-The-Dino-Dave.png"
+
+![](SrihanAnand-The-Dino-Dave.png)
+
 "Gamborlhini-top-hat-dino"
 
 ![](Gamborlhini-top-hat-dino.png)
