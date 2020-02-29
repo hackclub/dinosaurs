@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Prateekg2050-thug-dino.png"
+
+![](Prateekg2050-thug-dino.png)
+
 "nikhil-kuma-dino.png"
 
 ![](nikhil-kuma-dino.png)
