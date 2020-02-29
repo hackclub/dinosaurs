@@ -22,7 +22,7 @@ _The Dinosaur Who Can Never Look Back_
     Much like [her] Greek namesake, who couldn't give up on the idea that his wife is dead
     until he is finally forced to "look back"
 
--- <cite>nathanielthealligator</cite>
+
 
 ---
 
@@ -365,3 +365,7 @@ harshithap2000-dai_deprivation"
 "pirate dino sailing through the web"
 
 ![](DotBlue01-dino.png)
+
+"nukanuka-Zebra-Dino"
+
+![](nukanuka-Zebra-Dino.png)
