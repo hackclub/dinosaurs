@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"Rashish1-dino"
+
+![](Rashish1-dino.png)
+
 "SAMURAii-7-Captain-Dino"
 
 ![](SAMURAii-7-Captain-Dino.png)
