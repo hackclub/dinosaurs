@@ -369,3 +369,7 @@ harshithap2000-dai_deprivation"
 "marsx03-orpheus-&-rubber-duck-buddy-:D"
 
 ![](marsx03-orpheus-&-rubber-duck-buddy-:D.png)
+
+"When the dino wants a hug"
+
+![](Catseye124-dino-hugs.png)
