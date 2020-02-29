@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"rib44-Yo-Dyno"
+
+![](rib44-Yo-Dyno.png)
+
 "techiee619-dino"
 
 ![](techiee619-dino.png)
