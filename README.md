@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png"
+
+![](PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png)
