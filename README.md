@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"tanmays1124-super-saiyan-dino.png"
+
+![](tanmays1124-super-saiyan-dino.png)
+
 "skd273-rocker-dino.png"
 
 ![](skd273-rocker-dino.png)
