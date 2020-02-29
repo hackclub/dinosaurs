@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"nikhil-kuma-dino.png"
+
+![](nikhil-kuma-dino.png)
+
 "tanmays1124-super-saiyan-dino.png"
 
 ![](tanmays1124-super-saiyan-dino.png)
