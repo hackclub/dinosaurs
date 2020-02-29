@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"Sammy62613-SAmmy-sed-internet-dino"
+
+![](Sammy62613-SAmmy-sed-internet-dino.png)
