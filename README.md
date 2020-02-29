@@ -366,6 +366,10 @@ harshithap2000-dai_deprivation"
 
 ![](DotBlue01-dino.png)
 
+"nukanuka-Zebra-Dino"
+
+![](nukanuka-Zebra-Dino.png)
+
 "confused ~cat~ dino being yelled at"
 
 ![](ComradeKrona-Woman-Yelling-at-Dino.png)
