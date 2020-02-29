@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"Sathvik2311-dino"
+
+![](Sathvik2311-dino.png)
