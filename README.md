@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"techiee619-dino"
+
+![](techiee619-dino.png)
