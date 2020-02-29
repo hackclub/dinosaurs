@@ -217,6 +217,10 @@ short"
 
 ![](Vasudev-2308-VDX-dino.png)
 
+"DarkSchokolade-wildwestdino"
+
+![](DarkSchokolade-wildwestdino.png)
+
 "pirate dino sailing through the web"
 
 ![](DotBlue01-dino.png)
