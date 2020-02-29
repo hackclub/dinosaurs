@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"somyasriv16-dino_attention"
+
+![](somyasriv16-dino_attention.png)
