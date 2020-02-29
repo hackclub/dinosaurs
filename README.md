@@ -196,3 +196,6 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+"Rashish1-dino"
+
+![](Rashish1-dino.png)
