@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"Prateekg2050-thug-dino.png"
+
+![](Prateekg2050-thug-dino.png)
