@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png"
+
+![](PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png)
+
 "Sujanram-dino.png"
 
 ![](Sujanram-dino.png)
