@@ -197,6 +197,10 @@ short"
 
 ![](polytroper-bug.png)
 
+"damcrazy-dino"
+
+![](damcrazy-dinoxd.png)
+
 "Sathvik2311-dino"
 
 ![](Sathvik2311-dino.png)
