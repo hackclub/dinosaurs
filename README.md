@@ -445,3 +445,7 @@ harshithap2000-dai_deprivation"
 "orpheus-fixing-bugs"
 
 ![](orpheus-fixing-bugs.png)
+
+"Cursed Dino"
+
+![](cursed-dino.jpg)
