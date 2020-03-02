@@ -448,10 +448,8 @@ harshithap2000-dai_deprivation"
 
 "Cursed Dino"
 
-![](harshraj21-harshrajdino.png)
+![](cursed-dino.jpg)
 
 "ncase-Thicc-Orpheus"
 
 ![](ncase-Thicc-Orpheus.png)
-
-![](cursed-dino.jpg)
