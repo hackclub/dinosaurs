@@ -1,6 +1,6 @@
 # dinosaurs
 
-![](Dinos.jpg)
+![](dinos/Dinos.jpg)
 
 Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosaur. Prophet Orpheus is always getting into crazy adventures, from stealing food to going to the moon. She is usually drawn in black and white in limited drawing programs like MS Paint or Pinta.
 
@@ -28,436 +28,436 @@ _The Dinosaur Who Can Never Look Back_
 
 "club dinosaur"
 
-![](club_dinosaur.png)
+![](dinos/club_dinosaur.png)
 
 "a smart dinosaur reading docs"
 
-![](smart_dinosaur_docs.png)
+![](dinos/smart_dinosaur_docs.png)
 
 "a dinosaur motivating someone"
 
-![](motivational_dinosaur.png)
+![](dinos/motivational_dinosaur.png)
 
 "a dinosaur trying, but failing to get money"
 
-![](money_dinosaur_1.png)
+![](dinos/money_dinosaur_1.png)
 
-![](money_dinosaur_2.png)
+![](dinos/money_dinosaur_2.png)
 
 "a dinosaur stealing food from a restaurant"
 
-![](restaurant_dinosaur.png)
+![](dinos/restaurant_dinosaur.png)
 
 "dinosaur doing code stuff"
 
-![](code_dinosaur.png)
+![](dinos/code_dinosaur.png)
 
 "dino teaching"
 
-![](dino_teaching.png)
+![](dinos/dino_teaching.png)
 
 "dino handing docs"
 
-![](dino_handing_docs.png)
+![](dinos/dino_handing_docs.png)
 
 "cake dino"
 
-![](cake_dino.png)
+![](dinos/cake_dino.png)
 
 "birthday dino"
 
-![](birthday_dino.jpg)
+![](dinos/birthday_dino.jpg)
 
 "party orpheus"
 
-![](party_orpheus.png)
+![](dinos/party_orpheus.png)
 
 "dino winning"
 
-![](dino_winning.png)
+![](dinos/dino_winning.png)
 
 "two dinosaurs stacked underneath a trench coat pretending to be a classic
 human. top dinosaur is prophet orpheus about to hit up the club"
 
-![](undercover_dinosaurs.png)
+![](dinos/undercover_dinosaurs.png)
 
 "dinosaur trying to contribute to open source but can't because its arms are too
 short"
 
-![](contributing_dinosaur.png)
+![](dinos/contributing_dinosaur.png)
 
 "confused dino"
 
-![](confused_dinosaur.png)
+![](dinos/confused_dinosaur.png)
 
 "dinosaur coming from the future to destroy humanity"
 
-![](dinosaur_coming_from_the_future_to_destroy_humanity.png)
+![](dinos/dinosaur_coming_from_the_future_to_destroy_humanity.png)
 
 "dino sealing letters"
 
-![](dinosaur_sealing_letters_with_wax.png)
+![](dinos/dinosaur_sealing_letters_with_wax.png)
 
 "dino waving hello"
 
-![](dinosaur_waving.png)
+![](dinos/dinosaur_waving.png)
 
 "dinosaur starting a dino-as-a-service start-up"
 
-![](dinosaur_logo.png)
+![](dinos/dinosaur_logo.png)
 
 "i have failed"
 
-![](i_have_failed.png)
+![](dinos/i_have_failed.png)
 
 "you promised me answers duck"
 
-![](dinosaur_holding_rubber_duck.png)
+![](dinos/dinosaur_holding_rubber_duck.png)
 
 "dinosaur dressing up as a teenage mutant ninja turtle"
 
-![](dinosaur_ninja.png)
+![](dinos/dinosaur_ninja.png)
 
 "dinosaur sweating bullets"
 
-![](dinosaur_sweating_bullets.png)
+![](dinos/dinosaur_sweating_bullets.png)
 
 "8-bit"
 
-![](8-bit_dino.png)
+![](dinos/8-bit_dino.png)
 
 "handstand"
 
-![](handstand.png)
+![](dinos/handstand.png)
 
 "dinosaur trying to draw a dinosaur"
 
-![](jspaint-dino.png)
+![](dinos/jspaint-dino.png)
 
 "Old Dino"
 
-![](Ancient&#32;Orpheus.png)
+![](dinos/Ancient&#32;Orpheus.png)
 
 "reddit dino"
 
-![](reddit-dino.png)
+![](dinos/reddit-dino.png)
 
 "at the arcade"
 
-![](arcade_dino.png)
+![](dinos/arcade_dino.png)
 
 "leaping dino"
 
-![](leaping_dino.png)
+![](dinos/leaping_dino.png)
 
 "dino drawing a dino
 
-![](drawing-dino.png)
+![](dinos/drawing-dino.png)
 
 "confuzzled dino"
 
-![](confuzzled-dino.png)
+![](dinos/confuzzled-dino.png)
 
 "nervous dino"
 
-![](nervous_dino.gif)
+![](dinos/nervous_dino.gif)
 
 "pirate-dino"
 
-![](pirate-dino.png)
+![](dinos/pirate-dino.png)
 
 "oopheus"
 
-![](oopheus.png)
+![](dinos/oopheus.png)
 
 "andrewgcodes-bunnydino"
 
-![](andrewgcodes-bunnydino.png)
+![](dinos/andrewgcodes-bunnydino.png)
 
 "harry dino"
 
-![](harry-dino.png)
+![](dinos/harry-dino.png)
 
 "pokerface dino"
 
-![](poker-face-dino.jpg)
+![](dinos/poker-face-dino.jpg)
 
 "iamcpdev-mama-orpheus-and-smol-orpheus"
 
-![](iamcpdev-mama-orpheus-and-smol-orpheus.png)
+![](dinos/iamcpdev-mama-orpheus-and-smol-orpheus.png)
 
 "dinosaur coding on an ipad"
 
-![](ipad_dino.JPG)
+![](dinos/ipad_dino.JPG)
 
 "polytroper-chick-hat-dino"
 
-![](polytroper-chick-hat-dino.png)
+![](dinos/polytroper-chick-hat-dino.png)
 
 "polytroper-bug"
 
-![](polytroper-bug.png)
+![](dinos/polytroper-bug.png)
 
 "F1-P1-ARRAY.png"
 
-![](F1-P1-ARRAY.png)
+![](dinos/F1-P1-ARRAY.png)
 
 "PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png"
 
-![](PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png)
+![](dinos/PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png)
 
 "Sujanram-dino.png"
 
-![](Sujanram-dino.png)
+![](dinos/Sujanram-dino.png)
 
 "necrosis2010-chillnibs.png"
 
-![](necrosis2010-chillnibs.png)
+![](dinos/necrosis2010-chillnibs.png)
 
 "Piyush-Aneja-dino.png"
 
-![](Piyush-Aneja-dino.png)
+![](dinos/Piyush-Aneja-dino.png)
 
 "Resolution-1-King-Dino.png"
 
-![](Resolution-1-King-Dino.png)
+![](dinos/Resolution-1-King-Dino.png)
 
 "Prateekg2050-thug-dino.png"
 
-![](Prateekg2050-thug-dino.png)
+![](dinos/Prateekg2050-thug-dino.png)
 
 "nikhil-kuma-dino.png"
 
-![](nikhil-kuma-dino.png)
+![](dinos/nikhil-kuma-dino.png)
 
 "tanmays1124-super-saiyan-dino.png"
 
-![](tanmays1124-super-saiyan-dino.png)
+![](dinos/tanmays1124-super-saiyan-dino.png)
 
 "skd273-rocker-dino.png"
 
-![](skd273-rocker-dino.png)
+![](dinos/skd273-rocker-dino.png)
 
 "rishik-m-Sailor-dino.png"
 
-![](rishik-m-Sailor-dino.png)
+![](dinos/rishik-m-Sailor-dino.png)
 
 "dino hungry for code"
 
-![](rudyt7-dino.png)
+![](dinos/rudyt7-dino.png)
 
 "MihirK018-mkdino.png"
 
-![](MihirK018-mkdino.png)
+![](dinos/MihirK018-mkdino.png)
 
 "mims1234-Hackinorause"
 
-![](mims1234-Hackinorause.png)
+![](dinos/mims1234-Hackinorause.png)
 
 "feels bad dino"
 
-![](Blazeleo-Dede-the-dino.png)
+![](dinos/Blazeleo-Dede-the-dino.png)
 
 "kshitij-cell-CoderDino.png"
 
-![](kshitij-cell-CoderDino.png)
+![](dinos/kshitij-cell-CoderDino.png)
 
 "dino sad without internet"
 
-![](Sammy62613-SAmmy-sed-internet-dino.png)
+![](dinos/Sammy62613-SAmmy-sed-internet-dino.png)
 
 "appy9972-dino-in-space-jpg.png"
 
-![](appy9972-dino-in-space-jpg.png)
+![](dinos/appy9972-dino-in-space-jpg.png)
 
 "roydeva026-dinohacker.png"
 
-![](roydeva026-dinohacker.png)
+![](dinos/roydeva026-dinohacker.png)
 
 "neeshad10feb-dino.png"
 
-![](neeshad10feb-dino.png)
+![](dinos/neeshad10feb-dino.png)
 
 "creator-aditya-dino-hackerboi"
 
-![](creator-aditya-dino-hackerboi.png)
+![](dinos/creator-aditya-dino-hackerboi.png)
 
 "raghav18482-dino.png"
 
-![](raghav18482-dino.png)
+![](dinos/raghav18482-dino.png)
 
 "Dheemanth-gowda-Arpit"
 
-![](Dheemanth-gowda-Arpit.png)
+![](dinos/Dheemanth-gowda-Arpit.png)
 
 harshithap2000-dai_deprivation"
 
-![](harshithap2000-dai_deprivation.png)
+![](dinos/harshithap2000-dai_deprivation.png)
 
 "damcrazy-dino"
 
-![](damcrazy-dinoxd.png)
+![](dinos/damcrazy-dinoxd.png)
 
 "Sathvik2311-dino"
 
-![](Sathvik2311-dino.png)
+![](dinos/Sathvik2311-dino.png)
 
 "Rashish1-dino"
 
-![](Rashish1-dino.png)
+![](dinos/Rashish1-dino.png)
 
 "SAMURAii-7-Captain-Dino"
 
-![](SAMURAii-7-Captain-Dino.png)
+![](dinos/SAMURAii-7-Captain-Dino.png)
 
 "dj dino"
 
-![](HarshilReddy-Dj-Dino.png)
+![](dinos/HarshilReddy-Dj-Dino.png)
 
 "Sumi5Dawn-stickerwala"
 
-![](Sumi5Dawn-stickerwala.png)
+![](dinos/Sumi5Dawn-stickerwala.png)
 
 "rib44-Yo-Dyno"
 
-![](rib44-Yo-Dyno.png)
+![](dinos/rib44-Yo-Dyno.png)
 
 "dino getting a syntax error"
 
-![](techiee619-dino.png)
+![](dinos/techiee619-dino.png)
 
 "dino on fire"
 
-![](Enmandligvaesen-Dragon_on_fire.png)
+![](dinos/Enmandligvaesen-Dragon_on_fire.png)
 
 "Sumukhy-dino"
 
-![](Sumukhy-dino.png)
+![](dinos/Sumukhy-dino.png)
 
 "somyasriv16-dino_attention"
 
-![](somyasriv16-dino_attention.png)
+![](dinos/somyasriv16-dino_attention.png)
 
 "harshraj21-mydino"
 
-![](harshraj21-mydino.png)
+![](dinos/harshraj21-mydino.png)
 
 "pizza lover"
 
-![](FAIZAHALI-pizzalover.png)
+![](dinos/FAIZAHALI-pizzalover.png)
 
 "ironman9945-DINO"
 
-![](ironman9945-DINO.png)
+![](dinos/ironman9945-DINO.png)
 
 "F1-P1-FURRY-HACKCLUBNMIT"
 
-![](F1-P1-FURRY.png)
+![](dinos/F1-P1-FURRY.png)
 
 "Vasudev-2308-VDX-dino"
 
-![](Vasudev-2308-VDX-dino.png)
+![](dinos/Vasudev-2308-VDX-dino.png)
 
 "DarkSchokolade-wildwestdino"
 
-![](DarkSchokolade-wildwestdino.png)
+![](dinos/DarkSchokolade-wildwestdino.png)
 
 "pirate dino sailing through the web"
 
-![](DotBlue01-dino.png)
+![](dinos/DotBlue01-dino.png)
 
 "scorp-dino"
 
-![](20leunge-scorpdino.png)
+![](dinos/20leunge-scorpdino.png)
 
 "SrihanAnand-The-Dino-Dave.png"
 
-![](SrihanAnand-The-Dino-Dave.png)
+![](dinos/SrihanAnand-The-Dino-Dave.png)
 
 "Gamborlhini-top-hat-dino"
 
-![](Gamborlhini-top-hat-dino.png)
+![](dinos/Gamborlhini-top-hat-dino.png)
 
 "Mr Adiletta"
 
-![](Mr_Adiletta.png)
+![](dinos/Mr_Adiletta.png)
 
 "Xravarion-dinoo"
 
-![](Xravarion-dinoo.png)
+![](dinos/Xravarion-dinoo.png)
 
 "leanachrist3703-dino.png"
 
-![](leanachrist3703-dino.png)
+![](dinos/leanachrist3703-dino.png)
 
 "nukanuka-Zebra-Dino"
 
-![](nukanuka-Zebra-Dino.png)
+![](dinos/nukanuka-Zebra-Dino.png)
 
 "confused ~cat~ dino being yelled at"
 
-![](ComradeKrona-Woman-Yelling-at-Dino.png)
+![](dinos/ComradeKrona-Woman-Yelling-at-Dino.png)
 
 "Aaronpk47-dino"
 
-![](Aaronpk47-dinodad.png)
+![](dinos/Aaronpk47-dinodad.png)
 
 "neelnayar23-dino"
 
-![](neelnayar23-dino.png)
+![](dinos/neelnayar23-dino.png)
 
 "Love dino"
 
-![](Pinklady28001-Love-dino.png)
+![](dinos/Pinklady28001-Love-dino.png)
 
 "orpheus & rubber duck buddy :D"
 
-![](marsx03-orpheus-&-rubber-duck-buddy.png)
+![](dinos/marsx03-orpheus-&-rubber-duck-buddy.png)
 
 "When the dino wants a hug"
 
-![](Catseye124-dino-hugs.png)
+![](dinos/Catseye124-dino-hugs.png)
 
 "it's my birthday"
 
-![](emmanueluc322-ItsmyBirthday.png)
+![](dinos/emmanueluc322-ItsmyBirthday.png)
 
 "Specimen209-I-cant-spell-tbh"
 
-![](Specimen209-I-cant-spell-tbh.png)
+![](dinos/Specimen209-I-cant-spell-tbh.png)
 
 "hkatzdev-Queen-Orpheus"
 
-![](hkatzdev-Queen-Orpheus.png)
+![](dinos/hkatzdev-Queen-Orpheus.png)
 
 "cryptid #63"
 
-![](pixelyunicorn-crpytid-63.png)
+![](dinos/pixelyunicorn-crpytid-63.png)
 
 "iamcpdev-rasta-dino"
 
-![](iamcpdev-rasta-dino.png)
+![](dinos/iamcpdev-rasta-dino.png)
 
 "ReeseBess-You-Dont-Own-Me"
 
-![](ReeseBess-You-Dont-Own-Me.png)
+![](dinos/ReeseBess-You-Dont-Own-Me.png)
 
 "orpheus-fixing-bugs"
 
-![](orpheus-fixing-bugs.png)
+![](dinos/orpheus-fixing-bugs.png)
 
 "Cursed Dino"
 
-![](cursed-dino.jpg)
+![](dinos/cursed-dino.jpg)
 
 "ncase-Thicc-Orpheus"
 
-![](ncase-Thicc-Orpheus.png)
+![](dinos/ncase-Thicc-Orpheus.png)
 
 "orpheus-nodemaster"
 
-![](orpheus-nodemaster.png)
+![](dinos/orpheus-nodemaster.png)
 
 "Baby Dino"
 
-![](baby-dino.png)
+![](dinos/baby-dino.png)
