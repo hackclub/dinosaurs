@@ -1,4 +1,4 @@
-# dinosaurs
+# Hey, Orpheus!
 
 ![](dinos/Dinos.jpg)
 
@@ -454,10 +454,10 @@ harshithap2000-dai_deprivation"
 
 ![](dinos/ncase-Thicc-Orpheus.png)
 
-"orpheus-nodemaster"
+### orpheus-nodemaster
 
 ![](dinos/orpheus-nodemaster.png)
 
-"Baby Dino"
+### Baby Dino
 
 ![](dinos/baby-dino.png)
