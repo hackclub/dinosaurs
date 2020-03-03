@@ -1,0 +1,17 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: 24px;
+}
+.line {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+p {
+  text-align: left;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
