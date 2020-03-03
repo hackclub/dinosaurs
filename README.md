@@ -21,3 +21,22 @@ _The Dinosaur Who Can Never Look Back_
     until he is finally forced to "look back"
 
 -- <cite>nathanielthealligator</cite>
+
+---
+
+**Add Your Own Dinos**
+
+One of the best things about Orpheus is the amount of different versions of her there are. Each version of Orpheus is made by a creative individual who likes to have fun. If you would like to submit your own dino, follow the guide below!
+
+* Draw Your Dino: Use something like MS Paint or another limited drawing program to create your dino.
+* Name Your Dino: Give your drawing a creative name! Is the dino in your drawing doing something interesting? Wearing something cool? Every dino deserves a name.
+* Upload Your Dino: Create a branch the repository. Once you have done that, upload your dino to the dinos folder in that branch.
+* Add it to The Site: Once uploaded, add your dino to the website. Open up the `dinos.html` file on your branch, scroll down to the bottom, and above the `</div>` tag enter the following:
+
+    `<hr>`
+    
+    `<h3>Your Dino Name</h3>`
+    
+    `<img src="dinos/your-dino.png" width="50%>`
+* Create a Pull Request: Once you have entered the information on the html file, save it, and open a Pull Request. When creating your PR, make to be compare your branch to the base. Submit your request.
+* Success: You're all done! Once your PR is approved your dino will appear on the site.
