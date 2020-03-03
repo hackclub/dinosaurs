@@ -100,15 +100,13 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
-### two dinosaurs stacked underneath a trench coat pretending to be a classic
-human. top dinosaur is prophet orpheus about to hit up the club
+### two dinosaurs stacked underneath a trench coat pretending to be a classic human. top dinosaur is prophet orpheus about to hit up the club
 
 ![](dinos/undercover_dinosaurs.png)
 
 ---
 
-### dinosaur trying to contribute to open source but can't because its arms are too
-short
+### dinosaur trying to contribute to open source but can't because its arms are too short
 
 ![](dinos/contributing_dinosaur.png)
 
