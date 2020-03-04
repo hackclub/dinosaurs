@@ -461,3 +461,7 @@ harshithap2000-dai_deprivation"
 "adrianoapj_dino_looking_to_a_hc_poster"
 
 ![](adrianoapj_dino_looking_to_a_hc_poster.png)
+
+"hacktoberfest-dino"
+
+![](hacktoberfest-dino.png)
