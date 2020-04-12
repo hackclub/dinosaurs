@@ -488,4 +488,4 @@ harshithap2000-dai_deprivation"
 
 "Orpheus Skellington"
 
-![](Orpheus Skellington.jpg)
+![](Orpheus%20Skellington.jpg)
