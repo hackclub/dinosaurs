@@ -493,3 +493,7 @@ harshithap2000-dai_deprivation"
 "vitruvian dino"
 
 ![](vitruvian-dino.png)
+
+"lcy1254_dino_by_cy"
+
+![](lcy1254_dino_by_cy.png)
