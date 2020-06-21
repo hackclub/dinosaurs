@@ -538,9 +538,14 @@ harshithap2000-dai_deprivation"
 
 ![](sarthaktexas_cowboydino.png)
 
+"phultquist_dino"
+
+![](phultquist_dino.png)
+
 "unenthused dino"
 
 ![](odensc_unenthused_dino.png)
 
 "blueprint dino"
+
 ![](blueprint.png)
