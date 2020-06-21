@@ -541,3 +541,6 @@ harshithap2000-dai_deprivation"
 "unenthused dino"
 
 ![](odensc_unenthused_dino.png)
+
+"blueprint dino"
+![](blueprint.png)
