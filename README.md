@@ -549,3 +549,7 @@ harshithap2000-dai_deprivation"
 "blueprint dino"
 
 ![](blueprint.png)
+
+"TheOnlyGhostwolf_owo_dino"
+
+![](TheOnlyGhostwolf_owo_dino.png)
