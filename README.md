@@ -573,3 +573,9 @@ harshithap2000-dai_deprivation"
 "kunalbotla_dino"
 
 ![](kunalbotla_dino.png)
+
+"Orpheus the Riveter Speech Bubble"
+![](orpheus-the-riveter-speechbubble.png)
+
+"Orpheus the Riveter Surprised"
+![](orpheus-the-riveter-surprised-bubble.png)
