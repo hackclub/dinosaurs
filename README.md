@@ -582,3 +582,6 @@ harshithap2000-dai_deprivation"
 
 "Orpheus the Riveter Surprised"
 ![](orpheus-the-riveter-surprised-bubble.png)
+
+"Confused Login Orpheus"
+![](confused-login-orpheus.jpg)
