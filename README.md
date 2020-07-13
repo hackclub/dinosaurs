@@ -126,6 +126,9 @@ short"
 
 ![](8-bit_dino.png)
 
+"pog_dino"
+
+![](qmogh_pog_dino.png)
 "handstand"
 
 ![](handstand.png)
