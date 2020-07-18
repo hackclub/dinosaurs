@@ -593,3 +593,7 @@ harshithap2000-dai_deprivation"
 "dino with a pearl earring"
 
 ![](dino_with_a_pearl_earring.png)
+
+"dinothemino is beging tortured by a hand"
+
+![](NOVA52_dinothemino.png)
