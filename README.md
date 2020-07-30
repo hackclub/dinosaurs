@@ -32,6 +32,10 @@ _The Dinosaur Who Can Never Look Back_
 
 "a smart dinosaur reading docs"
 
+"s1ntaxe770r_boomer_dino"
+
+![](s1ntaxe770r_boomer_dino.png)
+
 ![](smart_dinosaur_docs.png)
 
 "a dinosaur motivating someone"
