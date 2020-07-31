@@ -601,3 +601,7 @@ harshithap2000-dai_deprivation"
 "s1ntaxe770r_boomer_dino"
 
 ![](s1ntaxe770r_boomer_dino.png)
+
+"deathlyface_dino"
+
+![](deathlyface_dino.png)
