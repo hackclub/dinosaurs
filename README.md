@@ -621,3 +621,7 @@ harshithap2000-dai_deprivation"
 "arekminajj_smart_dino"
 
 ![](arekminajj_smart_dino.png)
+
+"Garrett's Bucktooth Dinosaur"
+
+![](garrett_lane_bucktooth_dino.png)
