@@ -613,3 +613,7 @@ harshithap2000-dai_deprivation"
 "starptr_dino"
 
 ![](starptr_dino.png)
+
+"arekminajj_retarded_dino"
+
+![](arekminajj_retarded_dino.png)
