@@ -617,3 +617,27 @@ harshithap2000-dai_deprivation"
 "kayleyseow_OrpheusAndHearts"
 
 ![](kayleyseow_OrpheusAndHearts.png)
+
+"Blushing dino with a hairdo and necklace"
+
+![](smarter23_blushing_dino.png)
+
+"arekminajj_smart_dino"
+
+![](arekminajj_smart_dino.png)
+
+"Garrett's Bucktooth Dinosaur"
+
+![](garrett_lane_bucktooth_dino.png)
+
+"naseeb_dino"
+
+![](naseeb_dino.png)
+
+"AkhilGKrishnan_dino"
+
+![](AkhilGKrishnan_dino.png)
+
+"Fogeinator_dino"
+
+![](Fogeinator_dino.png)
