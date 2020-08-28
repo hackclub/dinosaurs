@@ -118,6 +118,10 @@ short"
 
 ![](dinosaur_ninja.png)
 
+"dino from the office"
+
+![](orpheus-ms.png)
+
 "dinosaur sweating bullets"
 
 ![](dinosaur_sweating_bullets.png)
