@@ -649,3 +649,7 @@ harshithap2000-dai_deprivation"
 "ImJustChew_saddino"
 
 ![](ImJustChew_saddino.png)
+
+"dino doing the drake template"
+
+![](drake-template-dino.png)
