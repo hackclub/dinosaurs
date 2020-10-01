@@ -657,3 +657,7 @@ harshithap2000-dai_deprivation"
 "Orpheus making a leap to the Moon!🚀"
 
 ![](Orpheus_Sat.png)
+
+"Orpheus annoyed by too many PRs on GitHub because of Hacktoberfest"
+
+![](dino-reviewing-GitHub-PRs.png)
