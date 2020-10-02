@@ -661,3 +661,7 @@ harshithap2000-dai_deprivation"
 "Orpheus annoyed by too many PRs on GitHub because of Hacktoberfest"
 
 ![](dino-reviewing-GitHub-PRs.png)
+
+"It's that time of year again! Hacktoberfest, but this time, with wayyy too many PR's"
+
+![](kayleyseow_Orpheus_Hacktober_Edition.png)
