@@ -677,3 +677,7 @@ harshithap2000-dai_deprivation"
 "tada-dino"
 
 ![](tada-dino.jpg)
+
+"Nerdy Dino"
+
+![](quackduck_nerdy_dino.png)
