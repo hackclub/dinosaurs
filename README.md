@@ -678,6 +678,14 @@ harshithap2000-dai_deprivation"
 
 ![](tada-dino.jpg)
 
+"Nerdy Dino"
+
+![](quackduck_nerdy_dino.png)
+
+"tanishq_soni_dino_airlines"
+
+![](tanishq_soni_dino_airlines.png)
+
 "vbrns_dino"
 
 ![](vbrns_dino.png)
