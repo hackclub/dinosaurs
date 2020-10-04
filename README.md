@@ -1,6 +1,6 @@
-# dinosaurs
+# Hack Club dinosaurs
 
-![](Dinos.jpg)
+![Cover photo](Dinos.jpg)
 
 Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosaur. Prophet Orpheus is always getting into crazy adventures, from stealing food to going to the moon. She is usually drawn in black and white in limited drawing programs like MS Paint or Pinta.
 
@@ -653,6 +653,42 @@ harshithap2000-dai_deprivation"
 "dino doing the drake template"
 
 ![](drake-template-dino.png)
+
+"Orpheus making a leap to the Moon!🚀"
+
+![](Orpheus_Sat.png)
+
+"Orpheus annoyed by too many PRs on GitHub because of Hacktoberfest"
+
+![](dino-reviewing-GitHub-PRs.png)
+
+"It's that time of year again! Hacktoberfest, but this time, with wayyy too many PR's"
+
+![](kayleyseow_Orpheus_Hacktober_Edition.png)
+
+"rutujak24_rutuja_dino"
+
+![](rutujak24_rutuja_dino.png)
+
+"coffee-dino"
+
+![](coffee-dino.jpg)
+
+"tada-dino"
+
+![](tada-dino.jpg)
+
+"Nerdy Dino"
+
+![](quackduck_nerdy_dino.png)
+
+"tanishq_soni_dino_airlines"
+
+![](tanishq_soni_dino_airlines.png)
+
+"vbrns_dino"
+
+![](vbrns_dino.png)
 
 "An angel dino"
 
