@@ -689,3 +689,7 @@ harshithap2000-dai_deprivation"
 "vbrns_dino"
 
 ![](vbrns_dino.png)
+
+"An angel dino"
+
+![](lnabegu_a_better_angel_dino.png)
