@@ -653,3 +653,7 @@ harshithap2000-dai_deprivation"
 "dino doing the drake template"
 
 ![](drake-template-dino.png)
+
+"An angel dino"
+
+![](lnabegu_a_better_angel_dino.png)
