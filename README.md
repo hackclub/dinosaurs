@@ -697,3 +697,7 @@ harshithap2000-dai_deprivation"
 "dragon dino"
 
 ![](dragon_dino.png)
+
+"googol88_sad_cowboy_dino"
+
+![](googol88_sad_cowboy_dino.png)
