@@ -709,3 +709,7 @@ harshithap2000-dai_deprivation"
 "blessed scratch dino"
 
 ![](nythrox-blessed-scratch-dino.png)
+
+"xya_sad_dino_in_a_bow_tie"
+
+![](xya_sad_dino_in_a_bow_tie.png)
