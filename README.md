@@ -705,3 +705,7 @@ harshithap2000-dai_deprivation"
 "a sad web dev dino"
 
 ![](nythrox-webdev_dino.png)
+
+"blessed scratch dino"
+
+![](nythrox-blessed-scratch-dino.png)
