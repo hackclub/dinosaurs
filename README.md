@@ -701,3 +701,7 @@ harshithap2000-dai_deprivation"
 "googol88_sad_cowboy_dino"
 
 ![](googol88_sad_cowboy_dino.png)
+
+"a sad web dev dino"
+
+![](nythrox-webdev_dino.png)
