@@ -733,3 +733,7 @@ harshithap2000-dai_deprivation"
 "saneduck_dino"
 
 ![](saneduck_dino.png)
+
+"tanishq_soni_richie_rich_dino"
+
+![](tanishq_soni_richie_rich_dino.png)
