@@ -741,3 +741,7 @@ harshithap2000-dai_deprivation"
 "naseeb0_dino"
 
 ![](naseeb0_dino.png)
+
+"there is 1 dino among us"
+
+![](dino-emergency-meeting.png)
