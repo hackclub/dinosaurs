@@ -745,3 +745,7 @@ harshithap2000-dai_deprivation"
 "there is 1 dino among us"
 
 ![](dino-emergency-meeting.png)
+
+"agarmu_toothy_dino"
+
+![](agarmu_toothy_dino.png)
