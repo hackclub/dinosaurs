@@ -137,6 +137,10 @@ short"
 
 ![](handstand.png)
 
+"Joker Dino"
+
+![](Joker_dino.png)
+
 "dinosaur trying to draw a dinosaur"
 
 ![](jspaint-dino.png)
