@@ -752,3 +752,6 @@ harshithap2000-dai_deprivation"
 
 "Evil Dinosaur >:D"
 ![](hkatzdev_evil_dino_png.png)
+
+"Dinosaur with an idea"
+![](idea-dino.png)
