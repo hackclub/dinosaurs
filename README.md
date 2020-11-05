@@ -752,3 +752,7 @@ harshithap2000-dai_deprivation"
 
 "Evil Dinosaur >:D"
 ![](hkatzdev_evil_dino_png.png)
+
+"GurshanBrar_Tank_Dino"
+
+![](GurshanBrar_Tank_Dino.png)
