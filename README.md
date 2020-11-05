@@ -752,3 +752,6 @@ harshithap2000-dai_deprivation"
 
 "Evil Dinosaur >:D"
 ![](hkatzdev_evil_dino_png.png)
+
+"cole_wilson_dino"
+![](cole_wilson_dino.png)
