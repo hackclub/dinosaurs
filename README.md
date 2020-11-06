@@ -751,7 +751,21 @@ harshithap2000-dai_deprivation"
 ![](agarmu_toothy_dino.png)
 
 "Evil Dinosaur >:D"
+
 ![](hkatzdev_evil_dino_png.png)
 
+"Dinosaur with an idea"
+
+![](idea-dino.png)
+
+"GurshanBrar_Tank_Dino"
+
+![](GurshanBrar_Tank_Dino.png)
+
+"Dino the 2nd"
+
+![](radiantly_dinoThe2nd.png)
+
 "cole_wilson_dino"
+
 ![](cole_wilson_dino.png)
