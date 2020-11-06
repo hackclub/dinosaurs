@@ -765,3 +765,7 @@ harshithap2000-dai_deprivation"
 "Dino the 2nd"
 
 ![](radiantly_dinoThe2nd.png)
+
+"cole_wilson_dino"
+
+![](cole_wilson_dino.png)
