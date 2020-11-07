@@ -137,6 +137,10 @@ short"
 
 ![](handstand.png)
 
+"Joker Dino"
+
+![](Joker_dino.png)
+
 "dinosaur trying to draw a dinosaur"
 
 ![](jspaint-dino.png)
@@ -769,3 +773,7 @@ harshithap2000-dai_deprivation"
 "cole_wilson_dino"
 
 ![](cole_wilson_dino.png)
+
+"wollygfx_dino"
+
+![](orph.png)
