@@ -778,6 +778,17 @@ harshithap2000-dai_deprivation"
 
 ![](orph.png)
 
+
+"aaryanporwal_dino_with_a_crown"
+
+![](aaryanporwal_dino_with_a_crown.png)
+
+"Orpheus Hacks"
+
+![](20200929_125907486_iOS.png)
+
+jlevy-dev-patch-1
 "jlevy_dev_dino"
 
 ![](jlevy_dev_dino.png)
+
