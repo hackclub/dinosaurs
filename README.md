@@ -778,7 +778,6 @@ harshithap2000-dai_deprivation"
 
 ![](orph.png)
 
-
 "aaryanporwal_dino_with_a_crown"
 
 ![](aaryanporwal_dino_with_a_crown.png)
@@ -787,8 +786,18 @@ harshithap2000-dai_deprivation"
 
 ![](20200929_125907486_iOS.png)
 
-jlevy-dev-patch-1
 "jlevy_dev_dino"
 
 ![](jlevy_dev_dino.png)
 
+"shibam17_Mr_Dino"
+
+![](shibam17_Mr_Dino.png)
+
+"giridhar7632_rock_age_dino_jpg"
+
+![](giridhar7632_rock_age_dino_jpg.png)
+
+"riturajjain2000_U_know_him___"
+
+![](riturajjain2000_U_know_him___.png)
