@@ -814,18 +814,18 @@ harshithap2000-dai_deprivation"
 
 ![](santa_orpheus.png)
 
-"Joyful_Orpheus"
+"Joyful Orpheus"
 
 ![](alialiwa2005_Joyful_Orpheus.png)
 
-"Smiling_Eyes_Orpheus"
+"Smiling Eyes Orpheus"
 
 ![](alialiwa2005_Smiling_Eyes_Orpheus.png)
 
-"Winking_Orpheus"
+"Winking Orpheus"
 
 ![](alialiwa2005_Winking_Orpheus.png)
 
-"Arts_and_Crafts_Orpheus"
+"Arts and Crafts Orpheus"
 
 ![](alialiwa2005_Arts_and_Crafts_Orpheus.png)
