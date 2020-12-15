@@ -829,3 +829,7 @@ harshithap2000-dai_deprivation"
 "Arts and Crafts Orpheus"
 
 ![](alialiwa2005_Arts_and_Crafts_Orpheus.png)
+
+"cfanoulis_heckpheus"
+
+![confused orpheus, drawn by @cfanoulis](cfanoulis_heckpheus.png)
