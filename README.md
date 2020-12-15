@@ -833,3 +833,9 @@ harshithap2000-dai_deprivation"
 "cfanoulis_heckpheus"
 
 ![confused orpheus, drawn by @cfanoulis](cfanoulis_heckpheus.png)
+
+"It's a Diplodoculus"
+
+![drawn by @Devnol](Devnol_Diplodoculus.png)
+
+
