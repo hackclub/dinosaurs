@@ -841,6 +841,6 @@ harshithap2000-dai_deprivation"
 
 "John's Dino!"
 
-![](JohnLins_John_s_dino(1).png)
+![](JohnLins_John_s_dino (1).png)
 
 
