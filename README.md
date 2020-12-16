@@ -814,19 +814,19 @@ harshithap2000-dai_deprivation"
 
 ![](santa_orpheus.png)
 
-"Joyful Orpheus"
+"Joyful Orpheus by Ali A. Saleh"
 
 ![](alialiwa2005_Joyful_Orpheus.png)
 
-"Smiling Eyes Orpheus"
+"Smiling Eyes Orpheus by Ali A. Saleh"
 
 ![](alialiwa2005_Smiling_Eyes_Orpheus.png)
 
-"Winking Orpheus"
+"Winking Orpheus by Ali A. Saleh"
 
 ![](alialiwa2005_Winking_Orpheus.png)
 
-"Arts and Crafts Orpheus"
+"Arts and Crafts Orpheus by Ali A. Saleh"
 
 ![](alialiwa2005_Arts_and_Crafts_Orpheus.png)
 
@@ -837,5 +837,9 @@ harshithap2000-dai_deprivation"
 "It's a Diplodoculus"
 
 ![drawn by @Devnol](Devnol_Diplodoculus.png)
+
+"In Love Orpheus by Ali A. Saleh"
+
+![](In_Love_Orpheus.png)
 
 
