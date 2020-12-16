@@ -840,5 +840,5 @@ harshithap2000-dai_deprivation"
 
 "In Love Orpheus by Ali A. Saleh"
 
-![](In Love Orpheus.svg)
+![](In_Love_Orpheus.svg)
 
