@@ -839,3 +839,8 @@ harshithap2000-dai_deprivation"
 ![drawn by @Devnol](Devnol_Diplodoculus.png)
 
 
+"John's Dino!"
+
+![](JohnLins_John_s_dino(1).png)
+
+
