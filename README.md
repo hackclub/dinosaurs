@@ -818,11 +818,11 @@ harshithap2000-dai_deprivation"
 
 ![](alialiwa2005_Joyful_Orpheus.png)
 
-"Smiling Eyes Orpheus by Ali A. Saleh"
+"Smiling Eyes Orpheus by Ali A. Saleh 😄"
 
 ![](alialiwa2005_Smiling_Eyes_Orpheus.png)
 
-"Winking Orpheus by Ali A. Saleh"
+"Winking Orpheus by Ali A. Saleh 😉"
 
 ![](alialiwa2005_Winking_Orpheus.png)
 
@@ -838,12 +838,15 @@ harshithap2000-dai_deprivation"
 
 ![drawn by @Devnol](Devnol_Diplodoculus.png)
 
-"In Love Orpheus by Ali A. Saleh"
+"In Love Orpheus by Ali A. Saleh 😍"
 
 ![](In_Love_Orpheus.png)
 
-"Star-Struck Orpheus by Ali A. Saleh"
+"Star-Struck Orpheus by Ali A. Saleh 🤩"
 
 ![](Star-Struck_Orpheus.png)
+
+"Upside-Down Orpheus by Ali A. Saleh 🙃"
+![](Upside-Down_Orpheus.png)
 
 
