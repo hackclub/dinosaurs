@@ -842,4 +842,8 @@ harshithap2000-dai_deprivation"
 
 ![](In_Love_Orpheus.png)
 
+"Star-Struck Orpheus by Ali A. Saleh"
+
+![](Star-Struck_Orpheus.png)
+
 
