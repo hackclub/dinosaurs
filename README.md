@@ -849,7 +849,5 @@ harshithap2000-dai_deprivation"
 "Upside-Down Orpheus by Ali A. Saleh 🙃"
 ![](Upside-Down_Orpheus.png)
 
-
 "Christmas Dino by @Swarnya246"
-![](christmas dino.png)
-
+![](christmas_dino.png)
