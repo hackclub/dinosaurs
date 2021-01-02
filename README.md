@@ -851,3 +851,7 @@ harshithap2000-dai_deprivation"
 
 "Christmas Dino by @Swarnya246"
 ![](christmas_dino.png)
+
+"safinsingh_classy_dino"
+
+![](safinsingh_classy_dino.png)
