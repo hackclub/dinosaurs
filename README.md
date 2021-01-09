@@ -883,3 +883,7 @@ harshithap2000-dai_deprivation"
 "sohamb117_dinopogmonstrosity"
 
 ![](sohamb117_dinopogmonstrosity.png)
+
+"hirschi_savannah_Smudge_dino"
+
+![](hirschi_savannah_Smudge_dino.png)
