@@ -872,6 +872,14 @@ harshithap2000-dai_deprivation"
 
 ![](zfogg_dino_zfo_gg.png)
 
+"eilla1_dino"
+
+![](eilla1_dino.png)
+
+"ricey_dino"
+
+![](ricey_dino.png)
+
 "sohamb117_dinopogmonstrosity"
 
 ![](sohamb117_dinopogmonstrosity.png)
