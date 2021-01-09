@@ -875,3 +875,7 @@ harshithap2000-dai_deprivation"
 "eilla1_dino"
 
 ![](eilla1_dino.png)
+
+"ricey_dino"
+
+![](ricey_dino.png)
