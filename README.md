@@ -887,3 +887,7 @@ harshithap2000-dai_deprivation"
 "sporeball_catpheus"
 
 ![](sporeball_catpheus.png)
+
+"hirschi_savannah_Smudge_dino"
+
+![](hirschi_savannah_Smudge_dino.png)
