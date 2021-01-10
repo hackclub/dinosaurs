@@ -884,10 +884,14 @@ harshithap2000-dai_deprivation"
 
 ![](sohamb117_dinopogmonstrosity.png)
 
+"hirschi_savannah_Smudge_dino"
+
+![](hirschi_savannah_Smudge_dino.png)
+
 "sporeball_catpheus"
 
 ![](sporeball_catpheus.png)
 
-"hirschi_savannah_Smudge_dino"
+"ClaireBookworm's Sir Dino, the legendary businessman!"
 
-![](hirschi_savannah_Smudge_dino.png)
+![](ClaireBookworm_sir_dino.png)
