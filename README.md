@@ -868,6 +868,10 @@ harshithap2000-dai_deprivation"
 
 ![](SConaway_sconaway_dino.png)
 
+"dino trying and failing to dab"
+
+![](dabbing_dino.jpg)
+
 "zfogg_dino_zfo_gg"
 
 ![](zfogg_dino_zfo_gg.png)
