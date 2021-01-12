@@ -830,6 +830,10 @@ harshithap2000-dai_deprivation"
 
 ![](alialiwa2005_Arts_and_Crafts_Orpheus.png)
 
+"dino lost its tail"
+
+![](dino_lost_tail.jpg)
+
 "cfanoulis_heckpheus"
 
 ![confused orpheus, drawn by @cfanoulis](cfanoulis_heckpheus.png)
