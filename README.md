@@ -921,3 +921,11 @@ harshithap2000-dai_deprivation"
 "orpheus_playing_hockey"
 
 ![](orpheus-playing-hockey.png)
+
+"when the X is just right dino"
+
+![](when_the_dino_is_just_right.png)
+
+"when the X is just right dino v2"
+
+![](when_the_dino_is_just_right_v2.png)
