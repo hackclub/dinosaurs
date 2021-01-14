@@ -929,3 +929,7 @@ harshithap2000-dai_deprivation"
 "when the X is just right dino v2"
 
 ![](when_the_dino_is_just_right_v2.png)
+
+"ok dino"
+
+![](ok-dino.jpg)
