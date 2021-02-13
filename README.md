@@ -259,6 +259,10 @@ short"
 
 "MihirK018-mkdino.png"
 
+"makuzaverite_dino"
+
+![](makuzaverite_dino.png)
+
 ![](MihirK018-mkdino.png)
 
 "mims1234-Hackinorause"
