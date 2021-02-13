@@ -32,7 +32,6 @@ _The Dinosaur Who Can Never Look Back_
 
 "a smart dinosaur reading docs"
 
-
 ![](smart_dinosaur_docs.png)
 
 "a dinosaur motivating someone"
