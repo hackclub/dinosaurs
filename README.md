@@ -259,6 +259,10 @@ short"
 
 "MihirK018-mkdino.png"
 
+"makuzaverite_dino"
+
+![](makuzaverite_dino.png)
+
 ![](MihirK018-mkdino.png)
 
 "mims1234-Hackinorause"
@@ -942,6 +946,22 @@ harshithap2000-dai_deprivation"
 
 ![](abby9664_comrade_dino.png)
 
+"Oxygemo_that_propeller_hat_thing_dino"
+
+![](Oxygemo_that_propeller_hat_thing_dino.png)
+
+"akisblack_happii_dino_akis"
+
+![](akisblack_happii_dino_akis.png)
+
+"mushahidq_good_t_rex"
+
+![](mushahidq_good_t_rex.png)
+
+"Midou36O_dino_birthday"
+
+![](Midou36O_dino_birthday.png)
+
 "juliegoat_flapper"
 
 ![](juliegoat_flapper.png)
@@ -949,3 +969,7 @@ harshithap2000-dai_deprivation"
 "BetsyZhang10_Heartnosed_Dino"
 
 ![](BetsyZhang10_Heartnosed_Dino.png)
+
+"VanshGehlot_dino"
+
+![](VanshGehlot_dino.png)
