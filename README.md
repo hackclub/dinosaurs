@@ -32,6 +32,8 @@ _The Dinosaur Who Can Never Look Back_
 
 "a smart dinosaur reading docs"
 
+
+
 ![](smart_dinosaur_docs.png)
 
 "a dinosaur motivating someone"
@@ -945,3 +947,7 @@ harshithap2000-dai_deprivation"
 "juliegoat_flapper"
 
 ![](juliegoat_flapper.png)
+
+"VanshGehlot_dino"
+
+![](VanshGehlot_dino.png)
