@@ -27,6 +27,9 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"malakar-soham-dino_smirk"
+
+![](dino_smirk.png)
 
 "club dinosaur"
 
