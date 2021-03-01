@@ -975,3 +975,7 @@ harshithap2000-dai_deprivation"
 "VanshGehlot_dino"
 
 ![](VanshGehlot_dino.png)
+
+"tejasag_dino"
+
+![](tejasag_tejas_hackclub_dino.png)
