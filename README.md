@@ -27,6 +27,9 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"malakar-soham-dino_smirk"
+
+![](dino_smirk.png)
 
 "club dinosaur"
 
@@ -890,6 +893,10 @@ harshithap2000-dai_deprivation"
 
 "zfogg_dino_zfo_gg"
 
+"jakiki6_jakob"
+
+![](jakiki6_jakob.png)
+
 ![](zfogg_dino_zfo_gg.png)
 
 "eilla1_dino"
@@ -979,3 +986,23 @@ harshithap2000-dai_deprivation"
 "TejasCreative_dino"
 
 ![](TejasCreative_dino.png)
+
+"nilaRam_DinoToTheRescue"
+
+![](nilaRam_DinoToTheRescue.png)
+
+"bellesea_smol_brain_dino"
+
+![](bellesea_smol_brain_dino.png)
+
+"aidenybai_notlikethis"
+
+![](aidenybai_notlikethis.png)
+
+"umutambyi_gad_tartooin_dino"
+
+![](umutambyi_gad_tartooin_dino.png)
+
+"tejasag_dino"
+
+![](tejasag_tejas_hackclub_dino.png)
