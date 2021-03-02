@@ -980,6 +980,10 @@ harshithap2000-dai_deprivation"
 
 ![](VanshGehlot_dino.png)
 
+"umutambyi_gad_tartooin_dino"
+
+![](umutambyi_gad_tartooin_dino.png)
+
 "tejasag_dino"
 
 ![](tejasag_tejas_hackclub_dino.png)
