@@ -1014,3 +1014,7 @@ harshithap2000-dai_deprivation"
 "tejasag_dino"
 
 ![](tejasag_tejas_hackclub_dino.png)
+
+"ririgireddy_dino"
+
+![](ririgireddy_dino.png)
