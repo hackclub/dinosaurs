@@ -1018,3 +1018,6 @@ harshithap2000-dai_deprivation"
 "ririgireddy_dino"
 
 ![](ririgireddy_dino.png)
+
+"stonks orpheus"
+![](stonks.png)
