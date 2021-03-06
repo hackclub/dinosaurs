@@ -1021,3 +1021,8 @@ harshithap2000-dai_deprivation"
 
 "stonks orpheus"
 ![](stonks.png)
+
+
+"dino meets MAC"
+
+![](kdgyimah_kdgyimah_2.png)
