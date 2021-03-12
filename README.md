@@ -1026,3 +1026,7 @@ harshithap2000-dai_deprivation"
 "dino meets MAC"
 
 ![](kdgyimah_kdgyimah_2.png)
+
+"broken_dino"
+
+![](sampoder_dino-2.png)
