@@ -39,6 +39,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](smart_dinosaur_docs.png)
 
+"a classy dinosaur!"
+
+![](FrenzyExists_ClassyDino.png)
+
 "a dinosaur motivating someone"
 
 ![](motivational_dinosaur.png)
