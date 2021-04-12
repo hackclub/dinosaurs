@@ -1054,3 +1054,7 @@ harshithap2000-dai_deprivation"
 "suubh_dino"
 
 ![](suubh_dino.png)
+
+"Confused Dino with tie"
+
+![](Ivicia_dino.png)
