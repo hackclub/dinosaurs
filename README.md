@@ -123,6 +123,10 @@ short"
 
 ![](dinosaur_holding_rubber_duck.png)
 
+"l3gacyb3ta's childhood nightmare"
+
+![](l3gacyb3ta_Piratedino.png)
+
 "dinosaur dressing up as a teenage mutant ninja turtle"
 
 ![](dinosaur_ninja.png)
