@@ -1123,3 +1123,10 @@ harshithap2000-dai_deprivation"
 
 ![](thejaswin123_dino.png)
 
+"dino hatching"
+
+![](hatching-pic.png)
+
+"dino with heart pounding"
+
+![](thump.jpg)
