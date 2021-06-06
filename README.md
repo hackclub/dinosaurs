@@ -1130,3 +1130,11 @@ harshithap2000-dai_deprivation"
 "Harry Potter Dino"
 
 ![harry potter dino](cole_wilson_harrypotter.png)
+
+"frykher_dinocool"
+
+![](frykher_dinocool.png)
+
+"dinoSUS"
+
+![](NebuDev14_dinosus.png)
