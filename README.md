@@ -1131,6 +1131,10 @@ harshithap2000-dai_deprivation"
 
 ![](thump.jpg)
 
+"frykher_dinocool"
+
+![](frykher_dinocool.png)
+
 "dinoSUS"
 
 ![](NebuDev14_dinosus.png)
