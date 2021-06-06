@@ -787,10 +787,6 @@ harshithap2000-dai_deprivation"
 
 ![](radiantly_dinoThe2nd.png)
 
-"cole_wilson_dino"
-
-![](cole_wilson_dino.png)
-
 "wollygfx_dino"
 
 ![](orph.png)
@@ -1130,6 +1126,10 @@ harshithap2000-dai_deprivation"
 "dino with heart pounding"
 
 ![](thump.jpg)
+
+"Harry Potter Dino"
+
+![harry potter dino](cole_wilson_harrypotter.png)
 
 "frykher_dinocool"
 
