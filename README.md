@@ -39,10 +39,6 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](smart_dinosaur_docs.png)
 
-"zatch3301_zatch"
-
-![](zatch3301_zatch.png)
-
 "a classy dinosaur!"
 
 ![](FrenzyExists_ClassyDino.png)
@@ -1166,3 +1162,7 @@ harshithap2000-dai_deprivation"
 "Did my Pull Request get merged yet?"
 
 ![](weeklyd3_dino.png)
+
+"zatch3301_zatch"
+
+![](zatch3301_zatch.png)
