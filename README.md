@@ -39,6 +39,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](smart_dinosaur_docs.png)
 
+"zatch3301_zatch"
+
+![](zatch3301_zatch.png)
+
 "a classy dinosaur!"
 
 ![](FrenzyExists_ClassyDino.png)
