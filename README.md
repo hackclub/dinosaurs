@@ -115,6 +115,10 @@ short"
 
 ![](dinosaur_logo.png)
 
+"what the dino doin'?"
+
+![](dino_in_a_box_v2.png)
+
 "i have failed"
 
 ![](i_have_failed.png)
