@@ -35,6 +35,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](club_dinosaur.png)
 
+"cool dino wearing sunglasses"
+
+![](vedant_kakde_cool_dino.png)
+
 "a smart dinosaur reading docs"
 
 ![](smart_dinosaur_docs.png)
