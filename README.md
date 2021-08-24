@@ -1236,4 +1236,4 @@ harshithap2000-dai_deprivation"
 
 "SmokinSpectre_Dino"
 
-![](SmokinSpectre_Dino)
+![](SmokinSpectre_Dino.jpg)
