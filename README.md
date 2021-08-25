@@ -1237,3 +1237,7 @@ harshithap2000-dai_deprivation"
 "SmokinSpectre_Dino"
 
 ![](SmokinSpectre_Dino.jpg)
+
+"Heisendino"
+
+![](acoolstraw_heisendino.png)
