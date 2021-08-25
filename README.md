@@ -1237,3 +1237,11 @@ harshithap2000-dai_deprivation"
 "ItsTobez_Tobys_Dino"
 
 ![](ItsTobez_Tobys_Dino.png)
+
+"SmokinSpectre_Dino"
+
+![](SmokinSpectre_Dino.jpg)
+
+"Heisendino"
+
+![](acoolstraw_heisendino.png)
