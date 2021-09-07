@@ -131,6 +131,10 @@ short"
 
 ![](dinosaur_holding_rubber_duck.png)
 
+"hyper dino wave"
+
+![](hyper-dino-wave.gif)
+
 "l3gacyb3ta's childhood nightmare"
 
 ![](l3gacyb3ta_Piratedino.png)
