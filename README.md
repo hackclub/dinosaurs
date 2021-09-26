@@ -94,6 +94,14 @@ human. top dinosaur is prophet orpheus about to hit up the club"
 
 ![](undercover_dinosaurs.png)
 
+"tired dino"
+
+![](tired-dino.png)
+
+"aaaaaaaa dino"
+
+![](aaaaa-dino.png)
+
 "dinosaur trying to contribute to open source but can't because its arms are too
 short"
 
