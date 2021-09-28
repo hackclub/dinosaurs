@@ -27,6 +27,7 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+
 "malakar-soham-dino_smirk"
 
 ![](dino_smirk.png)
@@ -1265,6 +1266,10 @@ harshithap2000-dai_deprivation"
 "tarikcoskun_xXx_The_COOL_Dino_xXx"
 
 ![](tarikcoskun_xXx_The_COOL_Dino_xXx.png)
+
+"ungarmichael_Chad_dino"
+
+![](ungarmichael_Chad_dino.png)
 
 "Falguni_M_yuki_s_dino"
 
