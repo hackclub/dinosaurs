@@ -94,6 +94,14 @@ human. top dinosaur is prophet orpheus about to hit up the club"
 
 ![](undercover_dinosaurs.png)
 
+"tired dino"
+
+![](tired-dino.png)
+
+"aaaaaaaa dino"
+
+![](aaaaa-dino.png)
+
 "dinosaur trying to contribute to open source but can't because its arms are too
 short"
 
@@ -1261,3 +1269,23 @@ harshithap2000-dai_deprivation"
 "Terrorboy_dino_basic"
 
 ![](Terrorboy_dino_basic.png)
+
+"KukretiShubham_dino"
+
+![](KukretiShubham_dino.png)
+
+"Zeo_shark_study_dino"
+
+![](Zeo_shark_study_dino.png)
+
+"niilasoika_Niilas_s_Dino"
+
+![](niilasoika_Niilas_s_Dino.png)
+
+"AdemCanCertel_dino"
+
+![](AdemCanCertel_dino.png)
+
+"Marcraphael12_codingZorus"
+
+![](Marcraphael12_codingZorus.png)
