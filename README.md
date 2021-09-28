@@ -28,8 +28,6 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
-
-
 "malakar-soham-dino_smirk"
 
 ![](dino_smirk.png)
@@ -96,6 +94,14 @@ _The Dinosaur Who Can Never Look Back_
 human. top dinosaur is prophet orpheus about to hit up the club"
 
 ![](undercover_dinosaurs.png)
+
+"tired dino"
+
+![](tired-dino.png)
+
+"aaaaaaaa dino"
+
+![](aaaaa-dino.png)
 
 "dinosaur trying to contribute to open source but can't because its arms are too
 short"
@@ -1261,7 +1267,34 @@ harshithap2000-dai_deprivation"
 
 ![](tarikcoskun_xXx_The_COOL_Dino_xXx.png)
 
-
 "ungarmichael_Chad_dino"
 
 ![](ungarmichael_Chad_dino.png)
+
+"Falguni_M_yuki_s_dino"
+
+![](Falguni_M_yuki_s_dino.png)
+
+"Terrorboy_dino_basic"
+
+![](Terrorboy_dino_basic.png)
+
+"KukretiShubham_dino"
+
+![](KukretiShubham_dino.png)
+
+"Zeo_shark_study_dino"
+
+![](Zeo_shark_study_dino.png)
+
+"niilasoika_Niilas_s_Dino"
+
+![](niilasoika_Niilas_s_Dino.png)
+
+"AdemCanCertel_dino"
+
+![](AdemCanCertel_dino.png)
+
+"Marcraphael12_codingZorus"
+
+![](Marcraphael12_codingZorus.png)
