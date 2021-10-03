@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"rithulkamesh_sniping_dino"
+
+![](rithulkamesh_sniping_dino.png)
+
 "malakar-soham-dino_smirk"
 
 ![](dino_smirk.png)
