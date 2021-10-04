@@ -1338,3 +1338,7 @@ harshithap2000-dai_deprivation"
 "Guchii_VeryNiceDino"
 
 ![](Guchii_VeryNiceDino.png)
+
+"strange_dino_with_hair"
+
+![](strange_dino_with_hair.png)
