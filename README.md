@@ -70,6 +70,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](code_dinosaur.png)
 
+"cool dinosaur with sunglasses"
+
+![](cooll-dino.png)
+
 "dino teaching"
 
 ![](dino_teaching.png)
