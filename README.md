@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"iipranavii_dino"
+
+![](iipranavii_minimalist_dino.png)
+
 "rithulkamesh_sniping_dino"
 
 ![](rithulkamesh_sniping_dino.png)
