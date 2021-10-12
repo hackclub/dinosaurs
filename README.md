@@ -1374,3 +1374,7 @@ harshithap2000-dai_deprivation"
 "dhruvsaxena1998_sherif_dino_howdy"
 
 ![](dhruvsaxena1998_sherif_dino_howdy.png)
+
+"cole_wilson_detective_dino"
+
+![](cole_wilson_detective_dino.png)
