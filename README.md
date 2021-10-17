@@ -1394,3 +1394,7 @@ harshithap2000-dai_deprivation"
 "ashwinexe_dinoASH"
 
 ![](ashwinexe_dinoASH.png)
+
+"johan_dino_hacktober"
+
+![](dino-hacktober.png)
