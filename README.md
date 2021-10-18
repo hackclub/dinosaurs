@@ -1401,3 +1401,7 @@ harshithap2000-dai_deprivation"
 "johan_dino_hacktober"
 
 ![](dino-hacktober.png)
+
+"Hardly_Human_it_is_a_dino"
+
+![](Hardly_Human_it_is_a_dino.png)
