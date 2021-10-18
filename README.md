@@ -31,10 +31,6 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](Wishy_S_dino.png)
 
-"iipranavii_dino"
-
-![](iipranavii_minimalist_dino.png)
-
 "rithulkamesh_sniping_dino"
 
 ![](rithulkamesh_sniping_dino.png)
@@ -1405,3 +1401,7 @@ harshithap2000-dai_deprivation"
 "Hardly_Human_it_is_a_dino"
 
 ![](Hardly_Human_it_is_a_dino.png)
+
+"iipranavii_dino"
+
+![](iipranavii_minimalist_dino.png)
