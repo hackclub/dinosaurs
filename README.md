@@ -81,6 +81,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](dino_teaching.png)
 
+"dino_with_a_cap"
+
+![](notandrewdev_dino_with_a_cap.png)
+
 "dino handing docs"
 
 ![](dino_handing_docs.png)
