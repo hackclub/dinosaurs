@@ -1487,4 +1487,3 @@ harshithap2000-dai_deprivation"
 
 ![](Payalsmita_dino.png)
 
-Below “Commit changes”, type
