@@ -1017,7 +1017,7 @@ harshithap2000-dai_deprivation"
 
 "BetsyZhang10_Heartnosed_Dino"
 
-![](Heartnosed\ Dino.png)
+![](Heartnosed_Dino.png)
 
 "VanshGehlot_dino"
 
