@@ -1017,7 +1017,7 @@ harshithap2000-dai_deprivation"
 
 "BetsyZhang10_Heartnosed_Dino"
 
-![](BetsyZhang10_Heartnosed_Dino.png)
+![](Heartnosed_Dino.png)
 
 "VanshGehlot_dino"
 
@@ -1060,8 +1060,8 @@ harshithap2000-dai_deprivation"
 ![](ririgireddy_dino.png)
 
 "stonks orpheus"
-![](stonks.png)
 
+![](stonks.png)
 
 "dino meets MAC"
 
@@ -1229,11 +1229,11 @@ harshithap2000-dai_deprivation"
 
 "ashish_patwal_OLAY"
 
-![](ashish_patwal_OLAY.png)
+![](olay.png)
 
 "adityarawat1337x_chiru"
 
-![](adityarawat1337x_chiru.png)
+![](chiru.png)
 
 "arianna_conductor_dino"
 
