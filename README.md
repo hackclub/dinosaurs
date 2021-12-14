@@ -1527,3 +1527,7 @@ harshithap2000-dai_deprivation"
 "Sejal_shh_dino"
 
 ![](Sejal_shh_dino.png)
+
+"Bharadwaj's weird dino"
+
+![](bharadwajduggaraju_dino.png)
