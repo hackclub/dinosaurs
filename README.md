@@ -1530,4 +1530,4 @@ harshithap2000-dai_deprivation"
 
 "Bharadwaj's weird dino"
 
-![](bharadwajduggaraju_dino.png)
+![](bharadwajduggaraju_dino_.png)
