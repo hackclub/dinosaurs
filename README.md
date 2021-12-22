@@ -1550,4 +1550,4 @@ harshithap2000-dai_deprivation"
 
 "thelocococo_cross_dino"
 
-![](thelocococo_cross_dino.png)
+![](cross_dino.png)
