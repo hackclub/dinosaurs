@@ -1527,3 +1527,35 @@ harshithap2000-dai_deprivation"
 "Sejal_shh_dino"
 
 ![](Sejal_shh_dino.png)
+
+"Bharadwaj's weird dino"
+
+![](bharadwajduggaraju_dino_.png)
+
+"ravithemore_dinooo"
+
+![](ravithemore_dinooo.png)
+
+"Swastyy_Dinooss"
+
+![](Swastyy_Dinooss.png)
+
+"viki4545_dino"
+
+![](viki4545_dino.png)
+
+"elouanhaquin_weird_kind_of_harry_potter_dandynosaur"
+
+![](elouanhaquin_weird_kind_of_harry_potter_dandynosaur.png)
+
+"thelocococo_cross_dino"
+
+![](cross_dino.png)
+
+"wahoo"
+
+![](wahoo.png)
+
+"TheBlapse_chirstmas_dino"
+
+![](TheBlapse_chirstmas_dino.png)
