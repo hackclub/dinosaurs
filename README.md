@@ -1471,6 +1471,6 @@ harshithap2000-dai_deprivation"
 
 ![](thehassantahir_dino.png)
 
-"ujjwalsittu_smile_dino.png"
+"ujjwalsittu_smile_dino"
 
 ![](ujjwalsittu_smile_dino.png)
