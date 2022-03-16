@@ -1697,3 +1697,7 @@ harshithap2000-dai_deprivation"
 "code08_ind_Aryan_dino"
 
 ![](code08_ind_Aryan_dino.png)
+
+"abbyfischler_deno"
+
+![](abbyfischler_deno.png)
