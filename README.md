@@ -27,10 +27,10 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+
 "KrishChopra22_dino"
 
 ![](KrishChopra22_dino.png)
-
 
 "Wishy_S_dino"
 
@@ -1705,3 +1705,11 @@ harshithap2000-dai_deprivation"
 "hackliv_sorta_emo_orpheus"
 
 ![](hackliv_sorta_emo_orpheus.png)
+
+"zachlatta_sock_puppet_orpheus"
+
+![](zachlatta_sock_puppet_orpheus.png)
+
+"jessicard_dinocorn"
+
+![](jessicard_dinocorn.png)
