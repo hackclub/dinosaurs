@@ -1702,6 +1702,10 @@ harshithap2000-dai_deprivation"
 
 ![](abbyfischler_deno.png)
 
+"sorta emo orpheus"
+
+![](hackliv_sorta_emo_orpheus.png)
+
 "zachlatta_sock_puppet_orpheus"
 
 ![](zachlatta_sock_puppet_orpheus.png)
