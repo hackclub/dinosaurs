@@ -1702,6 +1702,10 @@ harshithap2000-dai_deprivation"
 
 ![](abbyfischler_deno.png)
 
+"zachlatta_sock_puppet_orpheus"
+
+![](zachlatta_sock_puppet_orpheus.png)
+
 "jessicard_dinocorn"
 
 ![](jessicard_dinocorn.png)
