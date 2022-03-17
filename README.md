@@ -1706,6 +1706,14 @@ harshithap2000-dai_deprivation"
 
 ![](karamassie_sweetdino.png)
 
+"MelSmith104_evil_dino"
+
+![](MelSmith104_evil_dino.png)
+
+"sorta emo orpheus"
+
+![](hackliv_sorta_emo_orpheus.png)
+
 "zachlatta_sock_puppet_orpheus"
 
 ![](zachlatta_sock_puppet_orpheus.png)
