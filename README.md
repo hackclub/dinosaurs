@@ -1744,3 +1744,7 @@ harshithap2000-dai_deprivation"
 "Vitalik_Hakim_Ispy_Dino"
 
 ![](vitalik_dino.png)
+
+"mordy_python_Peace_Pirate_Dino"
+
+![](mordy_python_Peace_Pirate_Dino.png)
