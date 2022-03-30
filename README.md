@@ -1585,7 +1585,6 @@ harshithap2000-dai_deprivation"
 
 ![](889_dj_pirate_dino.png)
 
-
 "shashank_indukuri_dinoKing"
 
 ![](shashank_indukuri_dinoKing.png)
@@ -1732,7 +1731,7 @@ harshithap2000-dai_deprivation"
 
 "Mariannafairweather__1"
 
-![](Mariannafairweather__DINOCOP.png)
+![](Mariannafairweather_DINOCOP.png)
 
 "eliasroodrigues_dino_elf_emo"
 
