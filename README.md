@@ -1740,3 +1740,7 @@ harshithap2000-dai_deprivation"
 "minion3665_spacedino_orpheus"
 
 ![](Minion3665_spacedino_orpheus.png)
+
+"Vitalik_Hakim_Ispy_Dino"
+
+![](vitalik_dino.png)
