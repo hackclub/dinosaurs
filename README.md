@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"bcbro_dino_surprised"
+
+![](bcbro_dino.png)
+
 "KrishChopra22_dino"
 
 ![](KrishChopra22_dino.png)
