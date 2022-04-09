@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"Muhammad_Ahsan_Rasheed_Thug_Dino"
+
+![](Muhammad_Ahsan_Rasheed_Thug_Dino.png)
+
 "bcbro_dino_surprised"
 
 ![](bcbro_dino.png)
