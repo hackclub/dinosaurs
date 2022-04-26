@@ -1777,5 +1777,5 @@ harshithap2000-dai_deprivation"
 
 ![](chamanbravo_dino.png)
 
-"dinnosoierr"
+"bat_kryptonnyte_dino"
 ![](bat_kryptonyte_dino.png)
