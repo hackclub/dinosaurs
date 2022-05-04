@@ -1788,3 +1788,7 @@ harshithap2000-dai_deprivation"
 "RedProcessor_pirate_dino"
 
 ![](RedProcessor_pirate_dino.png)
+
+"nordic minimalistic dino"
+
+![](dubiels_dino.png)
