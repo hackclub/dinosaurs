@@ -1792,3 +1792,7 @@ harshithap2000-dai_deprivation"
 "nordic minimalistic dino"
 
 ![](dubiels_dino.png)
+
+"angry dino"
+
+![](angry-dino.jpg)
