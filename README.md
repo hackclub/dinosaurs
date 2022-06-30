@@ -27,9 +27,11 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+
 "teddyoweh_teddydino"
 
-![](teddyoweh_teddydino.png) 
+![](teddyoweh_teddydino.png)
+
 "Muhammad_Ahsan_Rasheed_Thug_Dino"
 
 ![](Muhammad_Ahsan_Rasheed_Thug_Dino.png)
