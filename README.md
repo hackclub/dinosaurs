@@ -1865,3 +1865,7 @@ harshithap2000-dai_deprivation"
 "NhanAZ_dino"
 
 ![](NhanAZ_dino.png)
+
+"cfanoulis_gandalf_orpheus"
+
+![](cfanoulis_gandalf_orpheus.png)
