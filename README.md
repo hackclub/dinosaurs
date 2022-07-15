@@ -1869,3 +1869,7 @@ harshithap2000-dai_deprivation"
 "cfanoulis_gandalf_orpheus"
 
 ![](cfanoulis_gandalf_orpheus.png)
+
+"CoolCoderSJ_dino"
+
+![](CoolCoderSJ_dino.png)
