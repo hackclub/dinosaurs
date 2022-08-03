@@ -28,6 +28,11 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"ramiz03_professor_dino"
+
+![](ramiz03_professor_dino.png)
+ 
+ 
 "teddyoweh_teddydino"
 
 ![](teddyoweh_teddydino.png)
