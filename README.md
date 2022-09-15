@@ -1957,3 +1957,15 @@ harshithap2000-dai_deprivation"
 "LucasHT22_dino"
 
 ![](LucasHT22_dino.png)
+
+"LucasHT22_dino_bald"
+
+![](LucasHT22_dino_bald.png)
+
+"LucasHT22_dino_bald"
+
+![](LucasHT22_dino_old.png)
+
+"LucasHT22_dino_magic"
+
+![](dino_magic.png)
