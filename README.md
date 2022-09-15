@@ -1920,7 +1920,7 @@ harshithap2000-dai_deprivation"
 
 "sanj_55_YE_THE_MONSTER"
 
-![](sanj_55_YE_THE_DINO.png)
+![](sanj_55_DINO.png)
 
 "jadecuriepark_tomatoglassesdino"
 
@@ -1937,10 +1937,6 @@ harshithap2000-dai_deprivation"
 "SamDev_7_yes_dino"
 
 ![](SamDev_7_yes_dino.png)
-
-"heshangambhir_Heshan_s_Dino"
-
-![](heshangambhir_Heshan_s_Dino.png)
 
 "hemantwasthere_dino"
 
