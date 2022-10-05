@@ -2018,6 +2018,10 @@ harshithap2000-dai_deprivation"
 
 ![](IgorKowalczyk_happy_dino.png)
 
+"LucasHT22_portuguese_dino"
+
+![](LucasHT22_portuguese_dino.png)
+
 "thrzl_dino"
 
 ![](thrzl_dino.png)
