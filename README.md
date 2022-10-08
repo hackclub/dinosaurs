@@ -2041,3 +2041,7 @@ harshithap2000-dai_deprivation"
 "sahitid_binary_dino"
 
 ![](sahitid_binary_dino.png)
+
+"vita_tran_programmer_dino"
+
+![](vitatran-programmer-dino.png)
