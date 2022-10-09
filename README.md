@@ -2045,3 +2045,11 @@ harshithap2000-dai_deprivation"
 "chef dino by JulianaSau 👩‍🍳"
 
 ![](JulianaSau_chef_dino.png)
+
+"vita_tran_programmer_dino"
+
+![](vitatran-programmer-dino.png)
+
+"kanika_saini_dino"
+
+![](kanika_saini_dino.png)
