@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"das_amit_yoshi_dino"
+
+![](das_amit_yoshi_dino.png)
+
 "Purple Dino"
 
 ![](/purple_dino.png)
@@ -2057,6 +2061,18 @@ harshithap2000-dai_deprivation"
 "kanika_saini_dino"
 
 ![](kanika_saini_dino.png)
+
+"duplixx_drunk_Dino"
+
+![](duplixx_drunk_Dino.png)
+
+"aryanrai2001_dino_t-rick"
+
+![](aryanrai2001_dino_t-rick.png)
+
+"theDeviser_cute_baby_dino"
+
+![](theDeviser_cute_baby_dino.png)
 
 "das-amit_weird-dino"
 
