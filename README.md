@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"Purple Dino"
+
+![](/purple_dino.png)
+
 "ramiz03_professor_dino"
 
 ![](ramiz03_professor_dino.png)
@@ -2042,6 +2046,20 @@ harshithap2000-dai_deprivation"
 
 ![](sahitid_binary_dino.png)
 
+
+"chef dino by JulianaSau 👩‍🍳"
+
+![](JulianaSau_chef_dino.png)
+
+"vita_tran_programmer_dino"
+
+![](vitatran-programmer-dino.png)
+
+"kanika_saini_dino"
+
+![](kanika_saini_dino.png)
+
 "Paramhans_Singh_winning_dino"
 
 ![](Paramhans_Singh_winning_dino.png)
+
