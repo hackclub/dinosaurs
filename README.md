@@ -34,7 +34,7 @@ _The Dinosaur Who Can Never Look Back_
 
 "A very chill dino"
 
-![](/markonije_chill.png)
+![](markonije_chill.png)
 
 "ramiz03_professor_dino"
 
