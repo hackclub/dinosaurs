@@ -27,6 +27,9 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"das_amit_yoshi_dino"
+
+![](das_amit_yoshi_dino.png)
 
 "Purple Dino"
 
