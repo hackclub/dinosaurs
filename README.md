@@ -36,6 +36,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](/purple_dino.png)
 
+"A very chill dino"
+
+![](markonije_chill.png)
+
 "ramiz03_professor_dino"
 
 ![](ramiz03_professor_dino.png)
@@ -2073,6 +2077,14 @@ harshithap2000-dai_deprivation"
 "theDeviser_cute_baby_dino"
 
 ![](theDeviser_cute_baby_dino.png)
+
+"palakg12_monster_dino"
+
+![](palakg12_monster_dino.png)
+
+"das-amit_weird-dino"
+
+![](weird-dino.png)
 
 "arslanmalik2003_dino-james"
 
