@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"das_amit_yoshi_dino"
+
+![](das_amit_yoshi_dino.png)
+
 "Purple Dino"
 
 ![](/purple_dino.png)
