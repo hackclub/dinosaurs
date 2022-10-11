@@ -28,9 +28,17 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"das_amit_yoshi_dino"
+
+![](das_amit_yoshi_dino.png)
+
 "Purple Dino"
 
 ![](/purple_dino.png)
+
+"A very chill dino"
+
+![](markonije_chill.png)
 
 "ramiz03_professor_dino"
 
@@ -2061,3 +2069,51 @@ harshithap2000-dai_deprivation"
 "sahitid_dalle_dino"
 
 ![](sahitid_dalle_dino.png)
+
+"duplixx_drunk_Dino"
+
+![](duplixx_drunk_Dino.png)
+
+"aryanrai2001_dino_t-rick"
+
+![](aryanrai2001_dino_t-rick.png)
+
+"theDeviser_cute_baby_dino"
+
+![](theDeviser_cute_baby_dino.png)
+
+"palakg12_monster_dino"
+
+![](palakg12_monster_dino.png)
+
+"das-amit_weird-dino"
+
+![](weird-dino.png)
+
+"arslanmalik2003_dino-james"
+
+![](arslanmalik2003_dino-james.png)
+
+"Akshatkamboj14_dinoking"
+
+![](Akshatkamboj14_dinoking.png)
+
+"Akshatkamboj14_dinoangry"
+
+![](Akshatkamboj14_dinoangry.png)
+
+"HIMANSHUATWORK_richdino"
+
+![](HIMANSHUATWORK_richdino.png)
+
+"lareithen_larei_thumbs_up"
+
+![](lareithen_larei_thumbs_up.png)
+
+"HackClub_JH_dino"
+
+![](HackClub_JH_dino.png)
+
+"kavania2002_kavanausauras"
+
+![](kavania2002_kavanausauras.png)
