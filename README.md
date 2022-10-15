@@ -36,6 +36,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](/purple_dino.png)
 
+"A very chill dino"
+
+![](markonije_chill.png)
+
 "ramiz03_professor_dino"
 
 ![](ramiz03_professor_dino.png)
@@ -2063,6 +2067,10 @@ harshithap2000-dai_deprivation"
 
 ![](kanika_saini_dino.png)
 
+"sahitid_dalle_dino"
+
+![](sahitid_dalle_dino.png)
+
 "duplixx_drunk_Dino"
 
 ![](duplixx_drunk_Dino.png)
@@ -2075,8 +2083,47 @@ harshithap2000-dai_deprivation"
 
 ![](theDeviser_cute_baby_dino.png)
 
+"palakg12_monster_dino"
+
+![](palakg12_monster_dino.png)
+
+"das-amit_weird-dino"
+
+![](weird-dino.png)
+
+"arslanmalik2003_dino-james"
+
+![](arslanmalik2003_dino-james.png)
+
+"Akshatkamboj14_dinoking"
+
+![](Akshatkamboj14_dinoking.png)
+
+"Akshatkamboj14_dinoangry"
+
+![](Akshatkamboj14_dinoangry.png)
+
+"Akshatkamboj14_dinoextreme"
+
+![](Akshatkamboj14_dinoextreme.png)
+
+"HIMANSHUATWORK_richdino"
+
+![](HIMANSHUATWORK_richdino.png)
+
+"lareithen_larei_thumbs_up"
+
+![](lareithen_larei_thumbs_up.png)
+
+"HackClub_JH_dino"
+
+![](HackClub_JH_dino.png)
+
+"kavania2002_kavanausauras"
+
+![](kavania2002_kavanausauras.png)
+
 "Paramhans_Singh_winning_dino"
 
 ![](Paramhans_Singh_winning_dino.png)
-
 
