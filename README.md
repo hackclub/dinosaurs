@@ -2122,6 +2122,14 @@ harshithap2000-dai_deprivation"
 
 ![](kavania2002_kavanausauras.png)
 
+"LucasHT22_inlovedino"
+
+![](LucasHT22_inlovedino.png)
+
+"LucasHT22_chaosdino"
+
+![](LucasHT22_chaosdino.png)
+
 "ANSHU10997_one_eye_dino"
 
 ![](ANSHU10997_one_eye_dino.png)
