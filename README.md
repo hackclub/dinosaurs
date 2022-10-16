@@ -2129,3 +2129,11 @@ harshithap2000-dai_deprivation"
 "LucasHT22_chaosdino"
 
 ![](LucasHT22_chaosdino.png)
+
+"ANSHU10997_one_eye_dino"
+
+![](ANSHU10997_one_eye_dino.png)
+
+"recursiveforte-dinoysus"
+
+![](recursiveforte-dinoysus.png)
