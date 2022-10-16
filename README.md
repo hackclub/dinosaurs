@@ -27,6 +27,10 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"Back Off Dino"
+
+![](backoff_dino.png)
+
 "Dragonair Dino"
 
 ![](das_amit_dragonair_dino.png)
@@ -2152,3 +2156,11 @@ harshithap2000-dai_deprivation"
 "LucasHT22_flydino"
 
 ![](LucasHT22_flydino.png)
+
+"PriyanganaGupta_sillysailordino"
+
+![](PriyanganaGupta_sillysailordino.png)
+
+"Faizan00parvez_unicorn_dinosaur"
+
+![](Faizan00parvez_unicorn_dinosaur.png)
