@@ -27,6 +27,9 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"Dragonair Dino"
+
+![](das_amit_dragonair_dino.png)
 
 "das_amit_yoshi_dino"
 
