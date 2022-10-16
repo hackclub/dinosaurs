@@ -27,6 +27,9 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"Dragonair Dino"
+
+![](das_amit_dragonair_dino.png)
 
 "das_amit_yoshi_dino"
 
@@ -2125,3 +2128,23 @@ harshithap2000-dai_deprivation"
 "aayushimathur6_dinoglasses"
 
 ![](aayushimathur6_dinoglasses.png)
+
+"aayushimathur6_dinocutie"
+
+![](aayushimathur6_dinocutie.png)
+
+"LucasHT22_inlovedino"
+
+![](LucasHT22_inlovedino.png)
+
+"LucasHT22_chaosdino"
+
+![](LucasHT22_chaosdino.png)
+
+"ANSHU10997_one_eye_dino"
+
+![](ANSHU10997_one_eye_dino.png)
+
+"recursiveforte-dinoysus"
+
+![](recursiveforte-dinoysus.png)
