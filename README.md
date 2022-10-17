@@ -27,6 +27,11 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+
+"Imo Dino"
+
+![](imo-dino.png)
+
 "Back Off Dino"
 
 ![](backoff_dino.png)
