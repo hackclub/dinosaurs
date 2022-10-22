@@ -27,6 +27,11 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+
+"Imo Dino"
+
+![](imo-dino.png)
+
 "Back Off Dino"
 
 ![](backoff_dino.png)
@@ -2168,3 +2173,23 @@ harshithap2000-dai_deprivation"
 "yamini210_yamini_dino"
 
 ![](yamini210_yamini_dino.png)
+
+"iamkunal9_iamkunal9_s_dino"
+
+![](iamkunal9_iamkunal9_s_dino.png)
+
+"BRUTALXFROST_moustache_dinosaur"
+
+![](BRUTALXFROST_moustache_dinosaur.png)
+
+"rachitag112_happy_dino"
+
+![](rachitag112_happy_dino.png)
+
+"dinasour.png"
+
+![](dinasour.png)
+
+"Vamps1975_vamp_dino"
+
+![](Vamps1975_vamp_dino.png)
