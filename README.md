@@ -32,6 +32,18 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](Muhammad_Ahsan_Rasheed_hacktoberfest.png)
 
+"Imo Dino"
+
+![](imo-dino.png)
+
+"Back Off Dino"
+
+![](backoff_dino.png)
+
+"Dragonair Dino"
+
+![](das_amit_dragonair_dino.png)
+
 "das_amit_yoshi_dino"
 
 ![](das_amit_yoshi_dino.png)
@@ -2125,3 +2137,75 @@ harshithap2000-dai_deprivation"
 "kavania2002_kavanausauras"
 
 ![](kavania2002_kavanausauras.png)
+
+"aayushimathur6_dinoglasses"
+
+![](aayushimathur6_dinoglasses.png)
+
+"aayushimathur6_dinocutie"
+
+![](aayushimathur6_dinocutie.png)
+
+"LucasHT22_inlovedino"
+
+![](LucasHT22_inlovedino.png)
+
+"LucasHT22_chaosdino"
+
+![](LucasHT22_chaosdino.png)
+
+"ANSHU10997_one_eye_dino"
+
+![](ANSHU10997_one_eye_dino.png)
+
+"recursiveforte-dinoysus"
+
+![](recursiveforte-dinoysus.png)
+
+"LucasHT22_flydino"
+
+![](LucasHT22_flydino.png)
+
+"PriyanganaGupta_sillysailordino"
+
+![](PriyanganaGupta_sillysailordino.png)
+
+"Faizan00parvez_unicorn_dinosaur"
+
+![](Faizan00parvez_unicorn_dinosaur.png)
+
+"yamini210_yamini_dino"
+
+![](yamini210_yamini_dino.png)
+
+"iamkunal9_iamkunal9_s_dino"
+
+![](iamkunal9_iamkunal9_s_dino.png)
+
+"BRUTALXFROST_moustache_dinosaur"
+
+![](BRUTALXFROST_moustache_dinosaur.png)
+
+"rachitag112_happy_dino"
+
+![](rachitag112_happy_dino.png)
+
+"dinasour.png"
+
+![](dinasour.png)
+
+"Vamps1975_vamp_dino"
+
+![](Vamps1975_vamp_dino.png)
+
+"PriyanganaGupta_dinosunio"
+
+![](PriyanganaGupta_dinosunio.png)
+
+"UttamBindal_dino_UB"
+
+![](UttamBindal_dino_UB.png)
+
+"aileencrivera_dino"
+
+![](aileencrivera_dino.png)
