@@ -28,7 +28,7 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
-![](deno-dino.png)
+![](deno-dino.jpg)
 
 "Deno Dino"
 
