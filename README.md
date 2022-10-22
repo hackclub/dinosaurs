@@ -28,9 +28,9 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
-![](deno-dino.jpg)
-
 "Deno Dino"
+
+![](deno-dino.jpg)
 
 "Muhammad_Ahsan_Rasheed_hacktoberfest"
 
