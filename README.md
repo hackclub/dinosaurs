@@ -27,7 +27,6 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
-
 "Deno Dino"
 
 ![](deno-dino.jpg)
@@ -2230,6 +2229,14 @@ harshithap2000-dai_deprivation"
 
 ![](WraitH17_dinoWraitH17.png)
 
+"harshverma1722_dino_png"
+
+![](harshverma1722_dino_png.png)
+
+"LucasHT22_dino_watching"
+
+![](LucasHT22_dino_watching.png)
+
 "prexio_science_dino"
 
 ![](prexio_science_dino.png)
@@ -2241,3 +2248,15 @@ harshithap2000-dai_deprivation"
 "hackermondev_strong_muscle_dino"
 
 ![](hackermondev_strong_muscle_dino.png)
+
+"cytronicoder_dino"
+
+![](cytronicoder_dino.png)
+
+"Ahkam1225_dino"
+
+![](Ahkam1225_dino.png) 
+
+"sulamanshahbukhari_dino"
+
+![](sulamanshahbukhari_dino.png)
