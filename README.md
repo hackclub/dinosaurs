@@ -31,6 +31,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](deno-dino.jpg)
 
+"gambhirsharma_dino"
+
+![](gambhirsharma_dino.png)
+
 "Muhammad_Ahsan_Rasheed_hacktoberfest"
 
 ![](Muhammad_Ahsan_Rasheed_hacktoberfest.png)
