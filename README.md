@@ -71,7 +71,7 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](Muhammad_Ahsan_Rasheed_Thug_Dino.png)
 
-"Arjunan Dec Dino"
+"Arjun Dino"
 
 ![](markonije_chill.png)
 
