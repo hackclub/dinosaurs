@@ -2267,5 +2267,4 @@ harshithap2000-dai_deprivation"
 
 "etendra2501_dino_dino"
 
-![](https://github.com/etendra2501/dinosaurs/blob/etendra2501_dino_dino/etendra2501_dino_dino.png)
-
+![](etendra2501_dino_dino.png)
