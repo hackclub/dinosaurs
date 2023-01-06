@@ -29,924 +29,924 @@ _The Dinosaur Who Can Never Look Back_
 ---
 "Deno Dino"
 
-![](deno-dino.jpg)
+![](./images/deno-dino.jpg)
 
 "Muhammad_Ahsan_Rasheed_hacktoberfest"
 
-![](Muhammad_Ahsan_Rasheed_hacktoberfest.png)
+![](./images/Muhammad_Ahsan_Rasheed_hacktoberfest.png)
 
 "Imo Dino"
 
-![](imo-dino.png)
+![](./images/imo-dino.png)
 
 "Back Off Dino"
 
-![](backoff_dino.png)
+![](./images/backoff_dino.png)
 
 "Dragonair Dino"
 
-![](das_amit_dragonair_dino.png)
+![](./images/das_amit_dragonair_dino.png)
 
 "das_amit_yoshi_dino"
 
-![](das_amit_yoshi_dino.png)
+![](./images/das_amit_yoshi_dino.png)
 
 "Purple Dino"
 
-![](/purple_dino.png)
+![](./images//purple_dino.png)
 
 "A very chill dino"
 
-![](markonije_chill.png)
+![](./images/markonije_chill.png)
 
 "ramiz03_professor_dino"
 
-![](ramiz03_professor_dino.png)
+![](./images/ramiz03_professor_dino.png)
  
 "teddyoweh_teddydino"
 
-![](teddyoweh_teddydino.png)
+![](./images/teddyoweh_teddydino.png)
 
 "Muhammad_Ahsan_Rasheed_Thug_Dino"
 
-![](Muhammad_Ahsan_Rasheed_Thug_Dino.png)
+![](./images/Muhammad_Ahsan_Rasheed_Thug_Dino.png)
 
 "bcbro_dino_surprised"
 
-![](bcbro_dino.png)
+![](./images/bcbro_dino.png)
 
 "KrishChopra22_dino"
 
-![](KrishChopra22_dino.png)
+![](./images/KrishChopra22_dino.png)
 
 "Wishy_S_dino"
 
-![](Wishy_S_dino.png)
+![](./images/Wishy_S_dino.png)
 
 "slim_shady"
 
-![](Danuragtiwari_slim_shady.png)
+![](./images/Danuragtiwari_slim_shady.png)
 
 "rithulkamesh_sniping_dino"
 
-![](rithulkamesh_sniping_dino.png)
+![](./images/rithulkamesh_sniping_dino.png)
 
 "malakar-soham-dino_smirk"
 
-![](dino_smirk.png)
+![](./images/dino_smirk.png)
 
 "club dinosaur"
 
-![](club_dinosaur.png)
+![](./images/club_dinosaur.png)
 
 "cool dino wearing sunglasses"
 
-![](vedant_kakde_cool_dino.png)
+![](./images/vedant_kakde_cool_dino.png)
 
 "a smart dinosaur reading docs"
 
-![](smart_dinosaur_docs.png)
+![](./images/smart_dinosaur_docs.png)
 
 "a classy dinosaur!"
 
-![](FrenzyExists_ClassyDino.png)
+![](./images/FrenzyExists_ClassyDino.png)
 
 "a dinosaur motivating someone"
 
-![](motivational_dinosaur.png)
+![](./images/motivational_dinosaur.png)
 
 "a dinosaur trying, but failing to get money"
 
-![](money_dinosaur_1.png)
+![](./images/money_dinosaur_1.png)
 
-![](money_dinosaur_2.png)
+![](./images/money_dinosaur_2.png)
 
 "a dinosaur stealing food from a restaurant"
 
-![](restaurant_dinosaur.png)
+![](./images/restaurant_dinosaur.png)
 
 "Mohammad_Sahil_Mohammad_Sahil_dino"
 
-![](Mohammad_Sahil_Mohammad_Sahil_dino.png)
+![](./images/Mohammad_Sahil_Mohammad_Sahil_dino.png)
 
 "dinosaur doing code stuff"
 
-![](code_dinosaur.png)
+![](./images/code_dinosaur.png)
 
 "cool dinosaur with sunglasses"
 
-![](cooll-dino.png)
+![](./images/cooll-dino.png)
 
 "dino teaching"
 
-![](dino_teaching.png)
+![](./images/dino_teaching.png)
 
 "dino_with_a_cap"
 
-![](notandrewdev_dino_with_a_cap.png)
+![](./images/notandrewdev_dino_with_a_cap.png)
 
 "dino handing docs"
 
-![](dino_handing_docs.png)
+![](./images/dino_handing_docs.png)
 
 "cake dino"
 
-![](cake_dino.png)
+![](./images/cake_dino.png)
 
 "birthday dino"
 
-![](birthday_dino.jpg)
+![](./images/birthday_dino.jpg)
 
 "party orpheus"
 
-![](party_orpheus.png)
+![](./images/party_orpheus.png)
 
 "dino winning"
 
-![](dino_winning.png)
+![](./images/dino_winning.png)
 
 "two dinosaurs stacked underneath a trench coat pretending to be a classic
 human. top dinosaur is prophet orpheus about to hit up the club"
 
-![](undercover_dinosaurs.png)
+![](./images/undercover_dinosaurs.png)
 
 "tired dino"
 
-![](tired-dino.png)
+![](./images/tired-dino.png)
 
 "aaaaaaaa dino"
 
-![](aaaaa-dino.png)
+![](./images/aaaaa-dino.png)
 
 "dinosaur trying to contribute to open source but can't because its arms are too
 short"
 
-![](contributing_dinosaur.png)
+![](./images/contributing_dinosaur.png)
 
 "confused dino"
 
-![](confused_dinosaur.png)
+![](./images/confused_dinosaur.png)
 
 "dinosaur coming from the future to destroy humanity"
 
-![](dinosaur_coming_from_the_future_to_destroy_humanity.png)
+![](./images/dinosaur_coming_from_the_future_to_destroy_humanity.png)
 
 "dino sealing letters"
 
-![](dinosaur_sealing_letters_with_wax.png)
+![](./images/dinosaur_sealing_letters_with_wax.png)
 
 "dino waving hello"
 
-![](dinosaur_waving.png)
+![](./images/dinosaur_waving.png)
 
 "dinosaur starting a dino-as-a-service start-up"
 
-![](dinosaur_logo.png)
+![](./images/dinosaur_logo.png)
 
 "what the dino doin'?"
 
-![](dino_in_a_box_v2.png)
+![](./images/dino_in_a_box_v2.png)
 
 "i have failed"
 
-![](i_have_failed.png)
+![](./images/i_have_failed.png)
 
 "you promised me answers duck"
 
-![](dinosaur_holding_rubber_duck.png)
+![](./images/dinosaur_holding_rubber_duck.png)
 
 "hyper dino wave"
 
-![](hyper-dino-wave.gif)
+![](./images/hyper-dino-wave.gif)
 
 "l3gacyb3ta's childhood nightmare"
 
-![](l3gacyb3ta_Piratedino.png)
+![](./images/l3gacyb3ta_Piratedino.png)
 
 "dinosaur dressing up as a teenage mutant ninja turtle"
 
-![](dinosaur_ninja.png)
+![](./images/dinosaur_ninja.png)
 
 "dino from the office"
 
-![](orpheus-ms.png)
+![](./images/orpheus-ms.png)
 
 "dinosaur sweating bullets"
 
-![](dinosaur_sweating_bullets.png)
+![](./images/dinosaur_sweating_bullets.png)
 
 "8-bit"
 
-![](8-bit_dino.png)
+![](./images/8-bit_dino.png)
 
 "pog_dino"
 
-![](qmogh_pog_dino.png)
+![](./images/qmogh_pog_dino.png)
 
 "handstand"
 
-![](handstand.png)
+![](./images/handstand.png)
 
 "Joker Dino"
 
-![](Joker_dino.png)
+![](./images/Joker_dino.png)
 
 "dinosaur trying to draw a dinosaur"
 
-![](jspaint-dino.png)
+![](./images/jspaint-dino.png)
 
 "Old Dino"
 
-![](Ancient&#32;Orpheus.png)
+![](./images/Ancient&#32;Orpheus.png)
 
 "reddit dino"
 
-![](reddit-dino.png)
+![](./images/reddit-dino.png)
 
 "at the arcade"
 
-![](arcade_dino.png)
+![](./images/arcade_dino.png)
 
 "leaping dino"
 
-![](leaping_dino.png)
+![](./images/leaping_dino.png)
 
 "dino drawing a dino
 
-![](drawing-dino.png)
+![](./images/drawing-dino.png)
 
 "confuzzled dino"
 
-![](confuzzled-dino.png)
+![](./images/confuzzled-dino.png)
 
 "nervous dino"
 
-![](nervous_dino.gif)
+![](./images/nervous_dino.gif)
 
 "pirate-dino"
 
-![](pirate-dino.png)
+![](./images/pirate-dino.png)
 
 "oopheus"
 
-![](oopheus.png)
+![](./images/oopheus.png)
 
 "andrewgcodes-bunnydino"
 
-![](andrewgcodes-bunnydino.png)
+![](./images/andrewgcodes-bunnydino.png)
 
 "harry dino"
 
-![](harry-dino.png)
+![](./images/harry-dino.png)
 
 "pokerface dino"
 
-![](poker-face-dino.jpg)
+![](./images/poker-face-dino.jpg)
 
 "iamcpdev-mama-orpheus-and-smol-orpheus"
 
-![](iamcpdev-mama-orpheus-and-smol-orpheus.png)
+![](./images/iamcpdev-mama-orpheus-and-smol-orpheus.png)
 
 "dinosaur coding on an ipad"
 
-![](ipad_dino.JPG)
+![](./images/ipad_dino.JPG)
 
 "polytroper-chick-hat-dino"
 
-![](polytroper-chick-hat-dino.png)
+![](./images/polytroper-chick-hat-dino.png)
 
 "polytroper-bug"
 
-![](polytroper-bug.png)
+![](./images/polytroper-bug.png)
 
 "F1-P1-ARRAY.png"
 
-![](F1-P1-ARRAY.png)
+![](./images/F1-P1-ARRAY.png)
 
 "PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png"
 
-![](PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png)
+![](./images/PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png)
 
 "Sujanram-dino.png"
 
-![](Sujanram-dino.png)
+![](./images/Sujanram-dino.png)
 
 "necrosis2010-chillnibs.png"
 
-![](necrosis2010-chillnibs.png)
+![](./images/necrosis2010-chillnibs.png)
 
 "Piyush-Aneja-dino.png"
 
-![](Piyush-Aneja-dino.png)
+![](./images/Piyush-Aneja-dino.png)
 
 "Resolution-1-King-Dino.png"
 
-![](Resolution-1-King-Dino.png)
+![](./images/Resolution-1-King-Dino.png)
 
 "Prateekg2050-thug-dino.png"
 
-![](Prateekg2050-thug-dino.png)
+![](./images/Prateekg2050-thug-dino.png)
 
 "nikhil-kuma-dino.png"
 
-![](nikhil-kuma-dino.png)
+![](./images/nikhil-kuma-dino.png)
 
 "tanmays1124-super-saiyan-dino.png"
 
-![](tanmays1124-super-saiyan-dino.png)
+![](./images/tanmays1124-super-saiyan-dino.png)
 
 "skd273-rocker-dino.png"
 
-![](skd273-rocker-dino.png)
+![](./images/skd273-rocker-dino.png)
 
 "rishik-m-Sailor-dino.png"
 
-![](rishik-m-Sailor-dino.png)
+![](./images/rishik-m-Sailor-dino.png)
 
 "dino hungry for code"
 
-![](rudyt7-dino.png)
+![](./images/rudyt7-dino.png)
 
 "MihirK018-mkdino.png"
 
-![](MihirK018-mkdino.png)
+![](./images/MihirK018-mkdino.png)
 
 "makuzaverite_dino"
 
-![](makuzaverite_dino.png)
+![](./images/makuzaverite_dino.png)
 
 "mims1234-Hackinorause"
 
-![](mims1234-Hackinorause.png)
+![](./images/mims1234-Hackinorause.png)
 
 "feels bad dino"
 
-![](Blazeleo-Dede-the-dino.png)
+![](./images/Blazeleo-Dede-the-dino.png)
 
 "kshitij-cell-CoderDino.png"
 
-![](kshitij-cell-CoderDino.png)
+![](./images/kshitij-cell-CoderDino.png)
 
 "dino sad without internet"
 
-![](Sammy62613-SAmmy-sed-internet-dino.png)
+![](./images/Sammy62613-SAmmy-sed-internet-dino.png)
 
 "appy9972-dino-in-space-jpg.png"
 
-![](appy9972-dino-in-space-jpg.png)
+![](./images/appy9972-dino-in-space-jpg.png)
 
 "roydeva026-dinohacker.png"
 
-![](roydeva026-dinohacker.png)
+![](./images/roydeva026-dinohacker.png)
 
 "neeshad10feb-dino.png"
 
-![](neeshad10feb-dino.png)
+![](./images/neeshad10feb-dino.png)
 
 "creator-aditya-dino-hackerboi"
 
-![](creator-aditya-dino-hackerboi.png)
+![](./images/creator-aditya-dino-hackerboi.png)
 
 "raghav18482-dino.png"
 
-![](raghav18482-dino.png)
+![](./images/raghav18482-dino.png)
 
 "Dheemanth-gowda-Arpit"
 
-![](Dheemanth-gowda-Arpit.png)
+![](./images/Dheemanth-gowda-Arpit.png)
 
 harshithap2000-dai_deprivation"
 
-![](harshithap2000-dai_deprivation.png)
+![](./images/harshithap2000-dai_deprivation.png)
 
 "damcrazy-dino"
 
-![](damcrazy-dinoxd.png)
+![](./images/damcrazy-dinoxd.png)
 
 "Sathvik2311-dino"
 
-![](Sathvik2311-dino.png)
+![](./images/Sathvik2311-dino.png)
 
 "Rashish1-dino"
 
-![](Rashish1-dino.png)
+![](./images/Rashish1-dino.png)
 
 "SAMURAii-7-Captain-Dino"
 
-![](SAMURAii-7-Captain-Dino.png)
+![](./images/SAMURAii-7-Captain-Dino.png)
 
 "dj dino"
 
-![](HarshilReddy-Dj-Dino.png)
+![](./images/HarshilReddy-Dj-Dino.png)
 
 "Sumi5Dawn-stickerwala"
 
-![](Sumi5Dawn-stickerwala.png)
+![](./images/Sumi5Dawn-stickerwala.png)
 
 "rib44-Yo-Dyno"
 
-![](rib44-Yo-Dyno.png)
+![](./images/rib44-Yo-Dyno.png)
 
 "dino getting a syntax error"
 
-![](techiee619-dino.png)
+![](./images/techiee619-dino.png)
 
 "dino on fire"
 
-![](Enmandligvaesen-Dragon_on_fire.png)
+![](./images/Enmandligvaesen-Dragon_on_fire.png)
 
 "Sumukhy-dino"
 
-![](Sumukhy-dino.png)
+![](./images/Sumukhy-dino.png)
 
 "somyasriv16-dino_attention"
 
-![](somyasriv16-dino_attention.png)
+![](./images/somyasriv16-dino_attention.png)
 
 "harshraj21-mydino"
 
-![](harshraj21-mydino.png)
+![](./images/harshraj21-mydino.png)
 
 "pizza lover"
 
-![](FAIZAHALI-pizzalover.png)
+![](./images/FAIZAHALI-pizzalover.png)
 
 "ironman9945-DINO"
 
-![](ironman9945-DINO.png)
+![](./images/ironman9945-DINO.png)
 
 "F1-P1-FURRY-HACKCLUBNMIT"
 
-![](F1-P1-FURRY.png)
+![](./images/F1-P1-FURRY.png)
 
 "Vasudev-2308-VDX-dino"
 
-![](Vasudev-2308-VDX-dino.png)
+![](./images/Vasudev-2308-VDX-dino.png)
 
 "DarkSchokolade-wildwestdino"
 
-![](DarkSchokolade-wildwestdino.png)
+![](./images/DarkSchokolade-wildwestdino.png)
 
 "pirate dino sailing through the web"
 
-![](DotBlue01-dino.png)
+![](./images/DotBlue01-dino.png)
 
 "scorp-dino"
 
-![](20leunge-scorpdino.png)
+![](./images/20leunge-scorpdino.png)
 
 "SrihanAnand-The-Dino-Dave.png"
 
-![](SrihanAnand-The-Dino-Dave.png)
+![](./images/SrihanAnand-The-Dino-Dave.png)
 
 "Gamborlhini-top-hat-dino"
 
-![](Gamborlhini-top-hat-dino.png)
+![](./images/Gamborlhini-top-hat-dino.png)
 
 "Mr Adiletta"
 
-![](Mr_Adiletta.png)
+![](./images/Mr_Adiletta.png)
 
 "Xravarion-dinoo"
 
-![](Xravarion-dinoo.png)
+![](./images/Xravarion-dinoo.png)
 
 "leanachrist3703-dino.png"
 
-![](leanachrist3703-dino.png)
+![](./images/leanachrist3703-dino.png)
 
 "nukanuka-Zebra-Dino"
 
-![](nukanuka-Zebra-Dino.png)
+![](./images/nukanuka-Zebra-Dino.png)
 
 "confused ~cat~ dino being yelled at"
 
-![](ComradeKrona-Woman-Yelling-at-Dino.png)
+![](./images/ComradeKrona-Woman-Yelling-at-Dino.png)
 
 "Aaronpk47-dino"
 
-![](Aaronpk47-dinodad.png)
+![](./images/Aaronpk47-dinodad.png)
 
 "neelnayar23-dino"
 
-![](neelnayar23-dino.png)
+![](./images/neelnayar23-dino.png)
 
 "Love dino"
 
-![](Pinklady28001-Love-dino.png)
+![](./images/Pinklady28001-Love-dino.png)
 
 "orpheus & rubber duck buddy :D"
 
-![](marsx03-orpheus-&-rubber-duck-buddy.png)
+![](./images/marsx03-orpheus-&-rubber-duck-buddy.png)
 
 "When the dino wants a hug"
 
-![](Catseye124-dino-hugs.png)
+![](./images/Catseye124-dino-hugs.png)
 
 "it's my birthday"
 
-![](emmanueluc322-ItsmyBirthday.png)
+![](./images/emmanueluc322-ItsmyBirthday.png)
 
 "Specimen209-I-cant-spell-tbh"
 
-![](Specimen209-I-cant-spell-tbh.png)
+![](./images/Specimen209-I-cant-spell-tbh.png)
 
 "hkatzdev-Queen-Orpheus"
 
-![](hkatzdev-Queen-Orpheus.png)
+![](./images/hkatzdev-Queen-Orpheus.png)
 
 "cryptid #63"
 
-![](pixelyunicorn-crpytid-63.png)
+![](./images/pixelyunicorn-crpytid-63.png)
 
 "iamcpdev-rasta-dino"
 
-![](iamcpdev-rasta-dino.png)
+![](./images/iamcpdev-rasta-dino.png)
 
 "ReeseBess-You-Dont-Own-Me"
 
-![](ReeseBess-You-Dont-Own-Me.png)
+![](./images/ReeseBess-You-Dont-Own-Me.png)
 
 "orpheus-fixing-bugs"
 
-![](orpheus-fixing-bugs.png)
+![](./images/orpheus-fixing-bugs.png)
 
 "Cursed Dino"
 
-![](cursed-dino.jpg)
+![](./images/cursed-dino.jpg)
 
 "ncase-Thicc-Orpheus"
 
-![](ncase-Thicc-Orpheus.png)
+![](./images/ncase-Thicc-Orpheus.png)
 
 "orpheus-nodemaster"
 
-![](orpheus-nodemaster.png)
+![](./images/orpheus-nodemaster.png)
 
 "adrianoapj_dino_looking_to_a_hc_poster"
 
-![](adrianoapj_dino_looking_to_a_hc_poster.png)
+![](./images/adrianoapj_dino_looking_to_a_hc_poster.png)
 
 "hacktoberfest-dino"
 
-![](hacktoberfest-dino.png)
+![](./images/hacktoberfest-dino.png)
 
 "Baby Dino"
 
-![](baby-dino.png)
+![](./images/baby-dino.png)
 
 "dino and octocat becoming friends"
 
-![](dino_and_octocat_becoming_friends.png)
+![](./images/dino_and_octocat_becoming_friends.png)
 
 "dino-onboarding-call"
 
-![](dino-onboarding-call.png)
+![](./images/dino-onboarding-call.png)
 
 "DaviLhlapakRosa_business_dino"
 
-![](DaviLhlapakRosa_business_dino.png)
+![](./images/DaviLhlapakRosa_business_dino.png)
 
 "sampoder_dino"
 
-![](sampoder_dino.png)
+![](./images/sampoder_dino.png)
 
 "Orpheus Skellington"
 
-![](Orpheus%20Skellington.jpg)
+![](./images/Orpheus%20Skellington.jpg)
 
 "vitruvian dino"
 
-![](vitruvian-dino.png)
+![](./images/vitruvian-dino.png)
 
 "lcy1254_dino_by_cy"
 
-![](lcy1254_dino_by_cy.png)
+![](./images/lcy1254_dino_by_cy.png)
 
 "aksharjinandra_dino"
 
-![](aksharjinandra_dino.png)
+![](./images/aksharjinandra_dino.png)
 
 "ascended dino"
 
-![](matthewlee626_ascended.png)
+![](./images/matthewlee626_ascended.png)
 
 "ifvictr_crying_behind_mask_dino"
 
-![](ifvictr_crying_behind_mask_dino.png)
+![](./images/ifvictr_crying_behind_mask_dino.png)
 
 "elizabethqiu_lizdino"
 
-![](elizabethqiu_lizdino.png)
+![](./images/elizabethqiu_lizdino.png)
 
 "jasonappah_dino"
 
-![](jasonappah_dino.png)
+![](./images/jasonappah_dino.png)
 
 "grandpa dina"
 
-![](grandpa-dino.png)
+![](./images/grandpa-dino.png)
 
 "nzeng8_Cowboy_Dino"
 
-![](nzeng8_Cowboy_Dino.png)
+![](./images/nzeng8_Cowboy_Dino.png)
 
 "nathanbarry474_dino"
 
-![](nathanbarry474_dino.png)
+![](./images/nathanbarry474_dino.png)
 
 "Muirrum_vesseldino"
 
-![](Muirrum_vesseldino.png)
+![](./images/Muirrum_vesseldino.png)
 
 "sarthaktexas_cowboydino"
 
-![](sarthaktexas_cowboydino.png)
+![](./images/sarthaktexas_cowboydino.png)
 
 "phultquist_dino"
 
-![](phultquist_dino.png)
+![](./images/phultquist_dino.png)
 
 "unenthused dino"
 
-![](odensc_unenthused_dino.png)
+![](./images/odensc_unenthused_dino.png)
 
 "blueprint dino"
 
-![](blueprint.png)
+![](./images/blueprint.png)
 
 "TheOnlyGhostwolf_owo_dino"
 
-![](TheOnlyGhostwolf_owo_dino.png)
+![](./images/TheOnlyGhostwolf_owo_dino.png)
 
 "Prithul0218_cute_sleepy_dino"
 
-![](Prithul0218_cute_sleepy_dino.png)
+![](./images/Prithul0218_cute_sleepy_dino.png)
 
 "frencojobs_forkysaur"
 
-![](frencojobs_forkysaur.png)
+![](./images/frencojobs_forkysaur.png)
 
 "Ckbhatia_flying_dino"
 
-![](Ckbhatia_flying_dino.png)
+![](./images/Ckbhatia_flying_dino.png)
 
 "rakshamaloo_dino"
 
-![](PicsArt_06-23-10.39.18.jpg)
+![](./images/PicsArt_06-23-10.39.18.jpg)
 
 "kunalbotla_dino"
 
-![](kunalbotla_dino.png)
+![](./images/kunalbotla_dino.png)
 
 "Orpheus the Riveter Speech Bubble"
-![](orpheus-the-riveter-speechbubble.png)
+![](./images/orpheus-the-riveter-speechbubble.png)
 
 "Orpheus the Riveter Surprised"
-![](orpheus-the-riveter-surprised-bubble.png)
+![](./images/orpheus-the-riveter-surprised-bubble.png)
 
 "Confused Login Orpheus"
-![](confused-login-orpheus.jpg)
+![](./images/confused-login-orpheus.jpg)
 
 "ugh"
 
-![](ugh.png)
+![](./images/ugh.png)
 
 "dino with a pearl earring"
 
-![](dino_with_a_pearl_earring.png)
+![](./images/dino_with_a_pearl_earring.png)
 
 "dinothemino is beging tortured by a hand"
 
-![](NOVA52_dinothemino.png)
+![](./images/NOVA52_dinothemino.png)
 
 "s1ntaxe770r_boomer_dino"
 
-![](s1ntaxe770r_boomer_dino.png)
+![](./images/s1ntaxe770r_boomer_dino.png)
 
 "deathlyface_dino"
 
-![](deathlyface_dino.png)
+![](./images/deathlyface_dino.png)
 
 "winstoniskandar_dino"
 
-![](winstoniskandar_dino.png)
+![](./images/winstoniskandar_dino.png)
 
 "starptr_dino"
 
-![](starptr_dino.png)
+![](./images/starptr_dino.png)
 
 "kayleyseow_OrpheusAndHearts"
 
-![](kayleyseow_OrpheusAndHearts.png)
+![](./images/kayleyseow_OrpheusAndHearts.png)
 
 "Blushing dino with a hairdo and necklace"
 
-![](smarter23_blushing_dino.png)
+![](./images/smarter23_blushing_dino.png)
 
 "arekminajj_smart_dino"
 
-![](arekminajj_smart_dino.png)
+![](./images/arekminajj_smart_dino.png)
 
 "Garrett's Bucktooth Dinosaur"
 
-![](garrett_lane_bucktooth_dino.png)
+![](./images/garrett_lane_bucktooth_dino.png)
 
 "naseeb_dino"
 
-![](naseeb_dino.png)
+![](./images/naseeb_dino.png)
 
 "AkhilGKrishnan_dino"
 
-![](AkhilGKrishnan_dino.png)
+![](./images/AkhilGKrishnan_dino.png)
 
 "Fogeinator_dino"
 
-![](Fogeinator_dino.png)
+![](./images/Fogeinator_dino.png)
 
 "ImJustChew_saddino"
 
-![](ImJustChew_saddino.png)
+![](./images/ImJustChew_saddino.png)
 
 "dino doing the drake template"
 
-![](drake-template-dino.png)
+![](./images/drake-template-dino.png)
 
 "Orpheus making a leap to the Moon!🚀"
 
-![](Orpheus_Sat.png)
+![](./images/Orpheus_Sat.png)
 
 "Orpheus annoyed by too many PRs on GitHub because of Hacktoberfest"
 
-![](dino-reviewing-GitHub-PRs.png)
+![](./images/dino-reviewing-GitHub-PRs.png)
 
 "It's that time of year again! Hacktoberfest, but this time, with wayyy too many PR's"
 
-![](kayleyseow_Orpheus_Hacktober_Edition.png)
+![](./images/kayleyseow_Orpheus_Hacktober_Edition.png)
 
 "rutujak24_rutuja_dino"
 
-![](rutujak24_rutuja_dino.png)
+![](./images/rutujak24_rutuja_dino.png)
 
 "coffee-dino"
 
-![](coffee-dino.jpg)
+![](./images/coffee-dino.jpg)
 
 "tada-dino"
 
-![](tada-dino.jpg)
+![](./images/tada-dino.jpg)
 
 "Nerdy Dino"
 
-![](quackduck_nerdy_dino.png)
+![](./images/quackduck_nerdy_dino.png)
 
 "tanishq_soni_dino_airlines"
 
-![](tanishq_soni_dino_airlines.png)
+![](./images/tanishq_soni_dino_airlines.png)
 
 "vbrns_dino"
 
-![](vbrns_dino.png)
+![](./images/vbrns_dino.png)
 
 "An angel dino"
 
-![](lnabegu_a_better_angel_dino.png)
+![](./images/lnabegu_a_better_angel_dino.png)
 
 "dragon dino"
 
-![](dragon_dino.png)
+![](./images/dragon_dino.png)
 
 "googol88_sad_cowboy_dino"
 
-![](googol88_sad_cowboy_dino.png)
+![](./images/googol88_sad_cowboy_dino.png)
 
 "a sad web dev dino"
 
-![](nythrox-webdev_dino.png)
+![](./images/nythrox-webdev_dino.png)
 
 "blessed scratch dino"
 
-![](nythrox-blessed-scratch-dino.png)
+![](./images/nythrox-blessed-scratch-dino.png)
 
 "xya_sad_dino_in_a_bow_tie"
 
-![](xya_sad_dino_in_a_bow_tie.png)
+![](./images/xya_sad_dino_in_a_bow_tie.png)
 
 "french-dino"
 
-![](french-dino.png)
+![](./images/french-dino.png)
 
 "Evil dino"
 
-![](KhushrajRathod_dino.png)
+![](./images/KhushrajRathod_dino.png)
 
 "Gautam_flash_Swimming_dino"
 
-![](Gautam_flash_Swimming_dino.png)
+![](./images/Gautam_flash_Swimming_dino.png)
 
 "JakeGerber_dino"
 
-![](JakeGerber_dino.png)
+![](./images/JakeGerber_dino.png)
 
 "saneduck_dino"
 
-![](saneduck_dino.png)
+![](./images/saneduck_dino.png)
 
 "tanishq_soni_richie_rich_dino"
 
-![](tanishq_soni_richie_rich_dino.png)
+![](./images/tanishq_soni_richie_rich_dino.png)
 
 "naseeb0_dino"
 
-![](naseeb0_dino.png)
+![](./images/naseeb0_dino.png)
 
 "there is 1 dino among us"
 
-![](dino-emergency-meeting.png)
+![](./images/dino-emergency-meeting.png)
 
 "agarmu_toothy_dino"
 
-![](agarmu_toothy_dino.png)
+![](./images/agarmu_toothy_dino.png)
 
 "Evil Dinosaur >:D"
 
-![](hkatzdev_evil_dino_png.png)
+![](./images/hkatzdev_evil_dino_png.png)
 
 "Dinosaur with an idea"
 
-![](idea-dino.png)
+![](./images/idea-dino.png)
 
 "GurshanBrar_Tank_Dino"
 
-![](GurshanBrar_Tank_Dino.png)
+![](./images/GurshanBrar_Tank_Dino.png)
 
 "Dino the 2nd"
 
-![](radiantly_dinoThe2nd.png)
+![](./images/radiantly_dinoThe2nd.png)
 
 "wollygfx_dino"
 
-![](orph.png)
+![](./images/orph.png)
 
 "aaryanporwal_dino_with_a_crown"
 
-![](aaryanporwal_dino_with_a_crown.png)
+![](./images/aaryanporwal_dino_with_a_crown.png)
 
 "Orpheus Hacks"
 
-![](20200929_125907486_iOS.png)
+![](./images/20200929_125907486_iOS.png)
 
 "jlevy_dev_dino"
 
-![](jlevy_dev_dino.png)
+![](./images/jlevy_dev_dino.png)
 
 "shibam17_Mr_Dino"
 
-![](shibam17_Mr_Dino.png)
+![](./images/shibam17_Mr_Dino.png)
 
 "dino looking back"
 
-![](dino_looking_back.jpg)
+![](./images/dino_looking_back.jpg)
 
 "giridhar7632_rock_age_dino_jpg"
 
-![](giridhar7632_rock_age_dino_jpg.png)
+![](./images/giridhar7632_rock_age_dino_jpg.png)
 
 "riturajjain2000_U_know_him___"
 
-![](riturajjain2000_U_know_him___.png)
+![](./images/riturajjain2000_U_know_him___.png)
 
 "David_Lazaro_Fernandez_dino_worried"
 
-![](David_Lazaro_Fernandez_dino_worried.png)
+![](./images/David_Lazaro_Fernandez_dino_worried.png)
 
 "Dino is your client"
 
-![](dino_is_your_client.png)
+![](./images/dino_is_your_client.png)
 
 "Santa Dino"
 
-![](santa_orpheus.png)
+![](./images/santa_orpheus.png)
 
 "Joyful Orpheus by Ali A. Saleh"
 
-![](alialiwa2005_Joyful_Orpheus.png)
+![](./images/alialiwa2005_Joyful_Orpheus.png)
 
 "Smiling Eyes Orpheus by Ali A. Saleh 😄"
 
-![](alialiwa2005_Smiling_Eyes_Orpheus.png)
+![](./images/alialiwa2005_Smiling_Eyes_Orpheus.png)
 
 "Winking Orpheus by Ali A. Saleh 😉"
 
-![](alialiwa2005_Winking_Orpheus.png)
+![](./images/alialiwa2005_Winking_Orpheus.png)
 
 "Arts and Crafts Orpheus by Ali A. Saleh"
 
-![](alialiwa2005_Arts_and_Crafts_Orpheus.png)
+![](./images/alialiwa2005_Arts_and_Crafts_Orpheus.png)
 
 "dino lost its tail"
 
-![](dino_lost_tail.jpg)
+![](./images/dino_lost_tail.jpg)
 
 "cfanoulis_heckpheus"
 
@@ -958,271 +958,271 @@ harshithap2000-dai_deprivation"
 
 "In Love Orpheus by Ali A. Saleh 😍"
 
-![](In_Love_Orpheus.png)
+![](./images/In_Love_Orpheus.png)
 
 "Star-Struck Orpheus by Ali A. Saleh 🤩"
 
-![](Star-Struck_Orpheus.png)
+![](./images/Star-Struck_Orpheus.png)
 
 "Upside-Down Orpheus by Ali A. Saleh 🙃"
 
-![](Upside-Down_Orpheus.png)
+![](./images/Upside-Down_Orpheus.png)
 
 "Christmas Dino by @Swarnya246"
 
-![](christmas_dino.png)
+![](./images/christmas_dino.png)
 
 "safinsingh_classy_dino"
 
-![](safinsingh_classy_dino.png)
+![](./images/safinsingh_classy_dino.png)
 
 "theAnshulGupta_googly_dragon_dino"
 
-![](theAnshulGupta_googly_dragon_dino.png)
+![](./images/theAnshulGupta_googly_dragon_dino.png)
 
 "atharva21-stack"
 
-![](atharva21-stack.jpg)
+![](./images/atharva21-stack.jpg)
 
 "SConaway_sconaway_dino"
 
-![](SConaway_sconaway_dino.png)
+![](./images/SConaway_sconaway_dino.png)
 
 "dino trying and failing to dab"
 
-![](dabbing_dino.jpg)
+![](./images/dabbing_dino.jpg)
 
 "zfogg_dino_zfo_gg"
 
-![](zfogg_dino_zfo_gg.png)
+![](./images/zfogg_dino_zfo_gg.png)
 
 "jakiki6_jakob"
 
-![](jakiki6_jakob.png)
+![](./images/jakiki6_jakob.png)
 
 "eilla1_dino"
 
-![](eilla1_dino.png)
+![](./images/eilla1_dino.png)
 
 "ricey_dino"
 
-![](ricey_dino.png)
+![](./images/ricey_dino.png)
 
 "sohamb117_dinopogmonstrosity"
 
-![](sohamb117_dinopogmonstrosity.png)
+![](./images/sohamb117_dinopogmonstrosity.png)
 
 "hirschi_savannah_Smudge_dino"
 
-![](hirschi_savannah_Smudge_dino.png)
+![](./images/hirschi_savannah_Smudge_dino.png)
 
 "sporeball_catpheus"
 
-![](sporeball_catpheus.png)
+![](./images/sporeball_catpheus.png)
 
 "ClaireBookworm's Sir Dino, the legendary businessman!"
 
-![](ClaireBookworm_sir_dino.png)
+![](./images/ClaireBookworm_sir_dino.png)
 
 "cmulay_dino_masked"
 
-![](cmulay_dino_masked.png)
+![](./images/cmulay_dino_masked.png)
 
 "rileychou_dino"
 
-![](rileychou_dino.png)
+![](./images/rileychou_dino.png)
 
 "orpheus_playing_hockey"
 
-![](orpheus-playing-hockey.png)
+![](./images/orpheus-playing-hockey.png)
 
 "when the X is just right dino"
 
-![](when_the_dino_is_just_right.png)
+![](./images/when_the_dino_is_just_right.png)
 
 "when the X is just right dino v2"
 
-![](when_the_dino_is_just_right_v2.png)
+![](./images/when_the_dino_is_just_right_v2.png)
 
 "ok dino"
 
-![](ok-dino.jpg)
+![](./images/ok-dino.jpg)
 
 "Beautiful Dino"
 
-![](Dinosaur_image.PNG)
+![](./images/Dinosaur_image.PNG)
 
 "abby9664_comrade_dino"
 
-![](abby9664_comrade_dino.png)
+![](./images/abby9664_comrade_dino.png)
 
 "Oxygemo_that_propeller_hat_thing_dino"
 
-![](Oxygemo_that_propeller_hat_thing_dino.png)
+![](./images/Oxygemo_that_propeller_hat_thing_dino.png)
 
 "akisblack_happii_dino_akis"
 
-![](akisblack_happii_dino_akis.png)
+![](./images/akisblack_happii_dino_akis.png)
 
 "mushahidq_good_t_rex"
 
-![](mushahidq_good_t_rex.png)
+![](./images/mushahidq_good_t_rex.png)
 
 "Midou36O_dino_birthday"
 
-![](Midou36O_dino_birthday.png)
+![](./images/Midou36O_dino_birthday.png)
 
 "juliegoat_flapper"
 
-![](juliegoat_flapper.png)
+![](./images/juliegoat_flapper.png)
 
 "BetsyZhang10_Heartnosed_Dino"
 
-![](Heartnosed_Dino.png)
+![](./images/Heartnosed_Dino.png)
 
 "VanshGehlot_dino"
 
-![](VanshGehlot_dino.png)
+![](./images/VanshGehlot_dino.png)
 
 "jgers32_King_Dino"
 
-![](jgers32_King_Dino.png)
+![](./images/jgers32_King_Dino.png)
 
 "jjywang_chilldino"
 
-![](jjywang_chilldino.png)
+![](./images/jjywang_chilldino.png)
 
 "TejasCreative_dino"
 
-![](TejasCreative_dino.png)
+![](./images/TejasCreative_dino.png)
 
 "nilaRam_DinoToTheRescue"
 
-![](nilaRam_DinoToTheRescue.png)
+![](./images/nilaRam_DinoToTheRescue.png)
 
 "bellesea_smol_brain_dino"
 
-![](bellesea_smol_brain_dino.png)
+![](./images/bellesea_smol_brain_dino.png)
 
 "aidenybai_notlikethis"
 
-![](aidenybai_notlikethis.png)
+![](./images/aidenybai_notlikethis.png)
 
 "umutambyi_gad_tartooin_dino"
 
-![](umutambyi_gad_tartooin_dino.png)
+![](./images/umutambyi_gad_tartooin_dino.png)
 
 "tejasag_dino"
 
-![](tejasag_tejas_hackclub_dino.png)
+![](./images/tejasag_tejas_hackclub_dino.png)
 
 "ririgireddy_dino"
 
-![](ririgireddy_dino.png)
+![](./images/ririgireddy_dino.png)
 
 "stonks orpheus"
 
-![](stonks.png)
+![](./images/stonks.png)
 
 "dino meets MAC"
 
-![](kdgyimah_kdgyimah_2.png)
+![](./images/kdgyimah_kdgyimah_2.png)
 
 "broken_dino"
 
-![](sampoder_dino-2.png)
+![](./images/sampoder_dino-2.png)
 
 "what the hack?"
 
-![](wth.png)
+![](./images/wth.png)
 
 "M4ntis67_dinosus_bro"
 
-![](M4ntis67_dinosus_bro.png)
+![](./images/M4ntis67_dinosus_bro.png)
 
 "anmolsahu2k_happy_dino"
 
-![](anmolsahu2k_happy_dino.png)
+![](./images/anmolsahu2k_happy_dino.png)
 
 "hack blub"
 
-![](juliegoat_hackblub.png)
+![](./images/juliegoat_hackblub.png)
 
 "suubh_dino"
 
-![](suubh_dino.png)
+![](./images/suubh_dino.png)
 
 "Confused dino with tie"
 
-![](Ivicia_dino.png)
+![](./images/Ivicia_dino.png)
 
 "AM1CODES_AM_Dino"
 
-![](AM1CODES_AM_Dino.png)
+![](./images/AM1CODES_AM_Dino.png)
 
 "rampus_bit_dino"
 
-![](rampus_bit_dino.png)
+![](./images/rampus_bit_dino.png)
 
 "Ayush_SR_Dr__Dino___The_Saviour"
 
-![](Ayush_SR_Dr__Dino___The_Saviour.png)
+![](./images/Ayush_SR_Dr__Dino___The_Saviour.png)
 
 "amartesh_Anahata"
 
-![](amartesh_Anahata.png)
+![](./images/amartesh_Anahata.png)
 
 "Shen_Yu_dino"
 
-![](Shen_Yu_dino_png.png)
+![](./images/Shen_Yu_dino_png.png)
 
 "hozansahin_hozdino"
 
-![](hozansahin_hozdino.png)
+![](./images/hozansahin_hozdino.png)
 
 "Musty260_orpheus_blimp"
 
-![](Musty260_orpheus_blimp.png)
+![](./images/Musty260_orpheus_blimp.png)
 
 "blackphoenix42_king_dino"
 
-![](blackphoenix42_king_dino.png)
+![](./images/blackphoenix42_king_dino.png)
 
 "nayakastha_dino_boo"
 
-![](nayakastha_dino_boo.png)
+![](./images/nayakastha_dino_boo.png)
 
 "SriramPatibanda_dino_ShrinkingViolet"
 
-![](SriramPatibanda_dino_ShrinkingViolet.png)
+![](./images/SriramPatibanda_dino_ShrinkingViolet.png)
 
 "CIPHERTron_CIPHERTron_dino"
 
-![](CIPHERTron_CIPHERTron_dino.png)
+![](./images/CIPHERTron_CIPHERTron_dino.png)
 
 "ORKO06_dino"
 
-![](ORKO06_dino.png)
+![](./images/ORKO06_dino.png)
 
 "DesignrKnight_DesignrKnightDino"
 
-![](DesignrKnight_DesignrKnightDino.png)
+![](./images/DesignrKnight_DesignrKnightDino.png)
 
 "riteshsp2000_HappyDino"
 
-![](riteshsp2000_HappyDino.png)
+![](./images/riteshsp2000_HappyDino.png)
 
 "thejaswin123_dino"
 
-![](thejaswin123_dino.png)
+![](./images/thejaswin123_dino.png)
 
 "dino hatching"
 
-![](hatching-pic.png)
+![](./images/hatching-pic.png)
 
 "dino with heart pounding"
 
-![](thump.jpg)
+![](./images/thump.jpg)
 
 "Harry Potter Dino"
 
@@ -1230,1045 +1230,1045 @@ harshithap2000-dai_deprivation"
 
 "frykher_dinocool"
 
-![](frykher_dinocool.png)
+![](./images/frykher_dinocool.png)
 
 "dinoSUS"
 
-![](NebuDev14_dinosus.png)
+![](./images/NebuDev14_dinosus.png)
 
 "ItsMeIshan_dino_hackClub_IshanSoni"
 
-![](ItsMeIshan_dino_hackClub_IshanSoni.png)
+![](./images/ItsMeIshan_dino_hackClub_IshanSoni.png)
 
 "halchester"
 
-![](halchester_dino.png)
+![](./images/halchester_dino.png)
 
 "sad dino"
 
-![](sad-dino.png)
+![](./images/sad-dino.png)
 
 "code_reaper08_dino"
 
-![](code_reaper08_dino.png)
+![](./images/code_reaper08_dino.png)
 
 "Axarva_graduating_dino"
 
-![](Axarva_graduating_dino.png)
+![](./images/Axarva_graduating_dino.png)
 
 "Did my Pull Request get merged yet?"
 
-![](weeklyd3_dino.png)
+![](./images/weeklyd3_dino.png)
 
 "zatch3301_zatch"
 
-![](zatch3301_zatch.png)
+![](./images/zatch3301_zatch.png)
 
 "AbhinavXT_AbhinavXT"
 
-![](AbhinavXT_AbhinavXT(1).png)
+![](./images/AbhinavXT_AbhinavXT(1).png)
 
 "urbanbyte_dino"
 
-![](urbanbyte_dino.png)
+![](./images/urbanbyte_dino.png)
 
 "00p513_dev_dino" - a pretty lame dino
 
-![](00p513_dev_dino.png)
+![](./images/00p513_dev_dino.png)
 
 "Iconic_It_Is_dino"
 
-![](Iconic_It_Is_dino.png)
+![](./images/Iconic_It_Is_dino.png)
 
 "devenjadhav_partyDino"
 
-![](devenjadhav_partyDino.png)
+![](./images/devenjadhav_partyDino.png)
 
 "amireshoon_donocun"
 
-![](amireshoon_donocun.png)
+![](./images/amireshoon_donocun.png)
 
 "ashish_patwal_OLAY"
 
-![](olay.png)
+![](./images/olay.png)
 
 "adityarawat1337x_chiru"
 
-![](chiru.png)
+![](./images/chiru.png)
 
 "arianna_conductor_dino"
 
-![](arianna_conductor_dino.png)
+![](./images/arianna_conductor_dino.png)
 
 "nunu2021_mrs_dino"
 
-![](nunu2021_mrs_dino.png)
+![](./images/nunu2021_mrs_dino.png)
 
 "a random dino"
 
-![](YodaLightsabr_dino.png)
+![](./images/YodaLightsabr_dino.png)
 
 "Smittyvb_longneck"
 
-![](Smittyvb_longneck.png)
+![](./images/Smittyvb_longneck.png)
 
 "Merlin04_improper_posture_dino"
 
-![](Merlin04_improper_posture_dino.png)
+![](./images/Merlin04_improper_posture_dino.png)
 
 "Borrus_sudo_JSGandalf_sDino"
 
-![](Borrus_sudo_JSGandalf_sDino.png)
+![](./images/Borrus_sudo_JSGandalf_sDino.png)
 
 "AliaCai_dino_with_flower"
 
-![](AliaCai_dino_with_flower.png)
+![](./images/AliaCai_dino_with_flower.png)
 
 "ItsTobez_Tobys_Dino"
 
-![](ItsTobez_Tobys_Dino.png)
+![](./images/ItsTobez_Tobys_Dino.png)
 
 "SmokinSpectre_Dino"
 
-![](SmokinSpectre_Dino.jpg)
+![](./images/SmokinSpectre_Dino.jpg)
 
 "Heisendino"
 
-![](acoolstraw_heisendino.png)
+![](./images/acoolstraw_heisendino.png)
 
 "whitedevil_glitch_piratedino"
 
-![](whitedevil_glitch_piratedino.png)
+![](./images/whitedevil_glitch_piratedino.png)
 
 "tarikcoskun_xXx_The_COOL_Dino_xXx"
 
-![](tarikcoskun_xXx_The_COOL_Dino_xXx.png)
+![](./images/tarikcoskun_xXx_The_COOL_Dino_xXx.png)
 
 "ungarmichael_Chad_dino"
 
-![](ungarmichael_Chad_dino.png)
+![](./images/ungarmichael_Chad_dino.png)
 
 "Falguni_M_yuki_s_dino"
 
-![](Falguni_M_yuki_s_dino.png)
+![](./images/Falguni_M_yuki_s_dino.png)
 
 "Terrorboy_dino_basic"
 
-![](Terrorboy_dino_basic.png)
+![](./images/Terrorboy_dino_basic.png)
 
 "KukretiShubham_dino"
 
-![](KukretiShubham_dino.png)
+![](./images/KukretiShubham_dino.png)
 
 "Zeo_shark_study_dino"
 
-![](Zeo_shark_study_dino.png)
+![](./images/Zeo_shark_study_dino.png)
 
 "niilasoika_Niilas_s_Dino"
 
-![](niilasoika_Niilas_s_Dino.png)
+![](./images/niilasoika_Niilas_s_Dino.png)
 
 "AdemCanCertel_dino"
 
-![](AdemCanCertel_dino.png)
+![](./images/AdemCanCertel_dino.png)
 
 "Marcraphael12_codingZorus"
 
-![](Marcraphael12_codingZorus.png)
+![](./images/Marcraphael12_codingZorus.png)
 
 "AnthonyKuang_degerating_retiree"
 
-![](AnthonyKuang_degerating_retiree.png)
+![](./images/AnthonyKuang_degerating_retiree.png)
 
 "itsrajan_businessdino"
 
-![](itsrajan_businessdino.png)
+![](./images/itsrajan_businessdino.png)
 
 "nikiljos_dino"
 
-![](nikiljos_dino.png)
+![](./images/nikiljos_dino.png)
 
 "souvikrajsingh_souvik_s_dino"
 
-![](souvikrajsingh_souvik_s_dino.png)
+![](./images/souvikrajsingh_souvik_s_dino.png)
 
 "tejasag_pumpkin_orpheus"
 
-![](tejasag_pumpkin_orpheus.png)
+![](./images/tejasag_pumpkin_orpheus.png)
 
 "Nilaany26_dino"
 
-![](Nilaany26_dino.png)
+![](./images/Nilaany26_dino.png)
 
 "mosaabg_shokoko"
 
-![](mosaabg_shokoko.png)
+![](./images/mosaabg_shokoko.png)
 
 "gabriellimma_bielssaur"
 
-![](gabriellimma_bielssaur.png)
+![](./images/gabriellimma_bielssaur.png)
 
 "Guchii_VeryNiceDino"
 
-![](Guchii_VeryNiceDino.png)
+![](./images/Guchii_VeryNiceDino.png)
 
 "strange_dino_with_hair"
 
-![](strange_dino_with_hair.png)
+![](./images/strange_dino_with_hair.png)
 
 "citricacid2_buffdino"
 
-![](citricacid2_buffdino.png)
+![](./images/citricacid2_buffdino.png)
 
 "SirQuackyy_dino_horror"
 
-![](SirQuackyy_dino_horror.png)
+![](./images/SirQuackyy_dino_horror.png)
 
 "Robertrover811_dino_rocket"
 
-![](Robertrover811_dino_rocket.png)
+![](./images/Robertrover811_dino_rocket.png)
 
 "lunarwhite_dino"
 
-![](lunarwhite_dino.png)
+![](./images/lunarwhite_dino.png)
 
 "rtewari056_dino"
 
-![](rtewari056_dino.png)
+![](./images/rtewari056_dino.png)
 
 "dhruvsaxena1998_sherif_dino_howdy"
 
-![](dhruvsaxena1998_sherif_dino_howdy.png)
+![](./images/dhruvsaxena1998_sherif_dino_howdy.png)
 
 "cole_wilson_detective_dino"
 
-![](cole_wilson_detective_dino.png)
+![](./images/cole_wilson_detective_dino.png)
 
 "anandabhishek01_dino"
 
-![](anandabhishek01_dino.png)
+![](./images/anandabhishek01_dino.png)
 
 "woo-woo dino"
 
-![](woo-woo-dino.png)
+![](./images/woo-woo-dino.png)
 
 🎵 "Hey! _Bum bum bum_ Got any grapes?" 🎵
 
-![](fundraising.png)
+![](./images/fundraising.png)
 
 "ashwinexe_dinoASH"
 
-![](ashwinexe_dinoASH.png)
+![](./images/ashwinexe_dinoASH.png)
 
 "johan_dino_hacktober"
 
-![](dino-hacktober.png)
+![](./images/dino-hacktober.png)
 
 "Hardly_Human_it_is_a_dino"
 
-![](Hardly_Human_it_is_a_dino.png)
+![](./images/Hardly_Human_it_is_a_dino.png)
 
 "iipranavii_dino"
 
-![](iipranavii_minimalist_dino.png)
+![](./images/iipranavii_minimalist_dino.png)
 
 "tanishq_soni_dinooooooooooo"
 
-![](tanishq_soni_dinooooooooooo.png)
+![](./images/tanishq_soni_dinooooooooooo.png)
 
 "memidhun_dino"
 
-![](memidhun_dino.png)
+![](./images/memidhun_dino.png)
 
 "wh0sumit_dino"
 
-![](WH0SUMIT_dino.png)
+![](./images/WH0SUMIT_dino.png)
 
 "tanishq_soni_Wahooo"
 
-![](tanishq_soni_Wahooo.png)
+![](./images/tanishq_soni_Wahooo.png)
 
 "nabeel_dino"
 
-![](nabilweq_dino_nabeel.png)
+![](./images/nabilweq_dino_nabeel.png)
 
 "JOS_RE_dino_oui"
 
-![](JOS_RE_dino_oui.png)
+![](./images/JOS_RE_dino_oui.png)
 
 "1Yanik3_neutral_cat_o_dino"
 
-![](1Yanik3_neutral_cat_o_dino.png)
+![](./images/1Yanik3_neutral_cat_o_dino.png)
 
 "tanishq_soni_3headed"
 
-![](tanishq_soni_3headed.png)
+![](./images/tanishq_soni_3headed.png)
 
 "melindachang_basedino"
 
-![](melindachang_basedino.png)
+![](./images/melindachang_basedino.png)
 
 "PeterWorakarn_dinolo"
 
-![](PeterWorakarn_dinolo.png)
+![](./images/PeterWorakarn_dinolo.png)
 
 "Furtsy_muscular_but_small_legged"
 
-![](Furtsy_muscular_but_small_legged.png)
+![](./images/Furtsy_muscular_but_small_legged.png)
 
 "HenryBass_KFC_Dino"
 
-![](HenryBass_KFC_Dino.png)
+![](./images/HenryBass_KFC_Dino.png)
 
 "bykevinyang_demon_time_nah"
 
-![](bykevinyang_demon_time_nah.png)
+![](./images/bykevinyang_demon_time_nah.png)
 
 "tildezero_susdino"
 
-![](tildezero_susdino.png)
+![](./images/tildezero_susdino.png)
 
 "thehassantahir_dino"
 
-![](thehassantahir_dino.png)
+![](./images/thehassantahir_dino.png)
 
 "ujjwalsittu_smile_dino"
 
-![](ujjwalsittu_smile_dino.png)
+![](./images/ujjwalsittu_smile_dino.png)
 
 "Brian3647_dino_w_hat"
 
-![](Brian3647_dino_w_hat.png)
+![](./images/Brian3647_dino_w_hat.png)
 
 "aman339_dino"
 
-![](aman339_dino.png)
+![](./images/aman339_dino.png)
 
 "lakerjv_lamp"
 
-![](lakerjv_lamp.png)
+![](./images/lakerjv_lamp.png)
 
 "Princess_dino"
 
-![](Payalsmita_dino.png)
+![](./images/Payalsmita_dino.png)
 
 "Real_VeerSandhu_dino_glasses"
 
-![](Real_VeerSandhu_dino_glasses.png)
+![](./images/Real_VeerSandhu_dino_glasses.png)
 
 "JkDevArg_dino"
 
-![](JkDevArg_dino%20(1).png)
+![](./images/JkDevArg_dino%20(1).png)
 
 "adityagi02_cutie_dino"
 
-![](adityagi02_cutie_dino.png)
+![](./images/adityagi02_cutie_dino.png)
 
 "Jyoti_prakash_rout_dino_jyoti"
 
-![](Jyoti_prakash_rout_dino_jyoti.png)
+![](./images/Jyoti_prakash_rout_dino_jyoti.png)
 
 "jorit_vasconezgerlach_dino_with_hat"
 
-![](jorit_vasconezgerlach_dino_with_hat.png)
+![](./images/jorit_vasconezgerlach_dino_with_hat.png)
 
 "Athul0491_Spy"
 
-![](Athul0491_Spy.png)
+![](./images/Athul0491_Spy.png)
 
 "Bohemianna_The_Bohemianna"
 
-![](Bohemianna_The_Bohemianna.png)
+![](./images/Bohemianna_The_Bohemianna.png)
 
 "ayush_sleeping_Sigma___dino"
 
-![](ayush_sleeping_Sigma___dino.png)
+![](./images/ayush_sleeping_Sigma___dino.png)
 
 "M_Usman_Tahir_Dino_X_Monkey"
 
-![](M_Usman_Tahir_Dino_X_Monkey.png)
+![](./images/M_Usman_Tahir_Dino_X_Monkey.png)
 
 "Sejal_shh_dino"
 
-![](Sejal_shh_dino.png)
+![](./images/Sejal_shh_dino.png)
 
 "Bharadwaj's weird dino"
 
-![](bharadwajduggaraju_dino_.png)
+![](./images/bharadwajduggaraju_dino_.png)
 
 "ravithemore_dinooo"
 
-![](ravithemore_dinooo.png)
+![](./images/ravithemore_dinooo.png)
 
 "Swastyy_Dinooss"
 
-![](Swastyy_Dinooss.png)
+![](./images/Swastyy_Dinooss.png)
 
 "viki4545_dino"
 
-![](viki4545_dino.png)
+![](./images/viki4545_dino.png)
 
 "elouanhaquin_weird_kind_of_harry_potter_dandynosaur"
 
-![](elouanhaquin_weird_kind_of_harry_potter_dandynosaur.png)
+![](./images/elouanhaquin_weird_kind_of_harry_potter_dandynosaur.png)
 
 "thelocococo_cross_dino"
 
-![](cross_dino.png)
+![](./images/cross_dino.png)
 
 "wahoo"
 
-![](wahoo.png)
+![](./images/wahoo.png)
 
 "TheBlapse_chirstmas_dino"
 
-![](TheBlapse_chirstmas_dino.png)
+![](./images/TheBlapse_chirstmas_dino.png)
 
 "QkieMauln_suprised_dino"
 
-![](QkieMauln_suprised_dino.png)
+![](./images/QkieMauln_suprised_dino.png)
 
 "Aang099_low_effort_dino"
 
-![](Aang099_low_effort_dino.png)
+![](./images/Aang099_low_effort_dino.png)
 
 "Pirate Dino"
 
-![](889_dj_pirate_dino.png)
+![](./images/889_dj_pirate_dino.png)
 
 "shashank_indukuri_dinoKing"
 
-![](shashank_indukuri_dinoKing.png)
+![](./images/shashank_indukuri_dinoKing.png)
 
 "Neklaustares_tPtwP_dino"
 
-![](Neklaustares_tPtwP_dino.png)
+![](./images/Neklaustares_tPtwP_dino.png)
 
 "PhantomKnight287_dino"
 
-![](PhantomKnight287_dino.png)
+![](./images/PhantomKnight287_dino.png)
 
 "gitnandini_dino_gitnandini"
 
-![](gitnandini_dino_gitnandini.png)
+![](./images/gitnandini_dino_gitnandini.png)
 
 "Vangmay_javaDino"
 
-![](Vangmay_javaDino.png)
+![](./images/Vangmay_javaDino.png)
 
 "jose_jimmy_dino"
 
-![](jose_jimmy_dino.png)
+![](./images/jose_jimmy_dino.png)
 
 "itsmebirdie_nerd_dino"
 
-![](itsmebirdie_nerd_dino.png)
+![](./images/itsmebirdie_nerd_dino.png)
 
 "justamirror_dino"
 
-![](justamirror_dino.png)
+![](./images/justamirror_dino.png)
 
 "sarweshparajuli_dino"
 
-![](sarweshparajuli_dino.png)
+![](./images/sarweshparajuli_dino.png)
 
 "sreechar_dinocon"
 
-![](sreechar_dinocon.png)
+![](./images/sreechar_dinocon.png)
 
 "HeySkidee_Lil_Skidee_dino"
 
-![](HeySkidee_Lil_Skidee_dino.png)
+![](./images/HeySkidee_Lil_Skidee_dino.png)
 
 "namansachdeva_dino"
 
-![](namansachdeva_dino.png)
+![](./images/namansachdeva_dino.png)
 
 "sudarshansb143_jackz"
 
-![](sudarshansb143_jackz.png)
+![](./images/sudarshansb143_jackz.png)
 
 "Harshkumar62367_harsh_dino"
 
-![](Harshkumar62367_harsh_dino.png)
+![](./images/Harshkumar62367_harsh_dino.png)
 
 "coderosh_dAino"
 
-![](coderosh_dAino.png)
+![](./images/coderosh_dAino.png)
 
 "X3N064_dino"
 
-![](X3N064_dino.png)
+![](./images/X3N064_dino.png)
 
 "Mystery_2_Dev_dino"
 
-![](Mystery_2_Dev_dino.png)
+![](./images/Mystery_2_Dev_dino.png)
 
 "khalby786_femaledinowiththreeeyes"
 
-![](khalby786_femaledinowiththreeeyes.png)
+![](./images/khalby786_femaledinowiththreeeyes.png)
 
 "sunday00_dino_with_serif"
 
-![](sunday00_dino_with_serif.png)
+![](./images/sunday00_dino_with_serif.png)
 
 "roveroniandrea_dinofaur"
 
-![](roveroniandrea_dinofaur.png)
+![](./images/roveroniandrea_dinofaur.png)
 
 "roannav_dino_with_hot_cocoa_and_flower_lei"
 
-![](roannav_dino_with_hot_cocoa_and_flower_lei.png)
+![](./images/roannav_dino_with_hot_cocoa_and_flower_lei.png)
 
 "Jas_Script_dino_by_jaskirat_singh"
 
-![](Jas_Script_dino_by_jaskirat_singh.png)
+![](./images/Jas_Script_dino_by_jaskirat_singh.png)
 
 "Sagar0_0_thug_life_dino"
 
-![](Sagar0_0_thug_life_dino.png)
+![](./images/Sagar0_0_thug_life_dino.png)
 
 "prajwalmali_spiderdino"
 
-![](prajwalmali_spiderdino.png)
+![](./images/prajwalmali_spiderdino.png)
 
 "fal3n_4ngel_dino_learning"
 
-![](fal3n_4ngel_dino_learning.png)
+![](./images/fal3n_4ngel_dino_learning.png)
 
 "synthgami_neko_dino"
 
-![](synthgami_neko_dino.png)
+![](./images/synthgami_neko_dino.png)
 
 "customizable dino"
 
-![](customizable-dino.png)
+![](./images/customizable-dino.png)
 
 "lucasvazq_diegopythonsaurus"
 
-![](lucasvazq_diegopythonsaurus.png)
+![](./images/lucasvazq_diegopythonsaurus.png)
 
 "solomonshalom_dino"
 
-![](solomonshalom_dino.png)
+![](./images/solomonshalom_dino.png)
 
 "code08_ind_Aryan_dino"
 
-![](code08_ind_Aryan_dino.png)
+![](./images/code08_ind_Aryan_dino.png)
 
 "abbyfischler_deno"
 
-![](abbyfischler_deno.png)
+![](./images/abbyfischler_deno.png)
 
 "christinaasquith_dino_reports"
 
-![](christinaasquith_dino_reports.png)
+![](./images/christinaasquith_dino_reports.png)
 
 "karamassie_sweetdino"
 
-![](karamassie_sweetdino.png)
+![](./images/karamassie_sweetdino.png)
 
 "MelSmith104_evil_dino"
 
-![](MelSmith104_evil_dino.png)
+![](./images/MelSmith104_evil_dino.png)
 
 "sorta emo orpheus"
 
-![](hackliv_sorta_emo_orpheus.png)
+![](./images/hackliv_sorta_emo_orpheus.png)
 
 "zachlatta_sock_puppet_orpheus"
 
-![](zachlatta_sock_puppet_orpheus.png)
+![](./images/zachlatta_sock_puppet_orpheus.png)
 
 "jessicard_dinocorn"
 
-![](jessicard_dinocorn.png)
+![](./images/jessicard_dinocorn.png)
 
 "leomcelroy_dogo"
 
-![](leomcelroy_dogo.png)
+![](./images/leomcelroy_dogo.png)
 
 "Mariannafairweather__1"
 
-![](Mariannafairweather_DINOCOP.png)
+![](./images/Mariannafairweather_DINOCOP.png)
 
 "eliasroodrigues_dino_elf_emo"
 
-![](eliasroodrigues_dino_elf_emo.png)
+![](./images/eliasroodrigues_dino_elf_emo.png)
 
 "minion3665_spacedino_orpheus"
 
-![](Minion3665_spacedino_orpheus.png)
+![](./images/Minion3665_spacedino_orpheus.png)
 
 "Vitalik_Hakim_Ispy_Dino"
 
-![](vitalik_dino.png)
+![](./images/vitalik_dino.png)
 
 "mordy_python_Peace_Pirate_Dino"
 
-![](mordy_python_Peace_Pirate_Dino.png)
+![](./images/mordy_python_Peace_Pirate_Dino.png)
 
 "kaal_coder_kaal_dino"
 
-![](kaal_coder_kaal_dino.png)
+![](./images/kaal_coder_kaal_dino.png)
 
 "suryanshmak_dino"
 
-![](suryanshmak_dino.png)
+![](./images/suryanshmak_dino.png)
 
 "adityapanchal10_spartan_dino"
 
-![](adityapanchal10_spartan_dino.png)
+![](./images/adityapanchal10_spartan_dino.png)
 
 "chamanbravo_dino"
 
-![](chamanbravo_dino.png)
+![](./images/chamanbravo_dino.png)
 
 "bat_kryptonnyte_dino"
 
-![](bat_kryptonyte_dino.png)
+![](./images/bat_kryptonyte_dino.png)
 
 "Javierzaleta_dino"
 
-![](Javierzaleta_dino.png)
+![](./images/Javierzaleta_dino.png)
 
 "RedProcessor_pirate_dino"
 
-![](RedProcessor_pirate_dino.png)
+![](./images/RedProcessor_pirate_dino.png)
 
 "nordic minimalistic dino"
 
-![](dubiels_dino.png)
+![](./images/dubiels_dino.png)
 
 "angry dino"
 
-![](angry-dino.jpg)
+![](./images/angry-dino.jpg)
 
 "Llama Dino"
 
-![](PPTide_llamaDino.png)
+![](./images/PPTide_llamaDino.png)
 
 "amandewatnitrr_dino"
 
-![](amandewatnitrr_dino.png)
+![](./images/amandewatnitrr_dino.png)
 
 "davidballezaa_dino"
 
-![](davidballezaa_dino.png)
+![](./images/davidballezaa_dino.png)
 
 "KMJ_007_dino"
 
-![](KMJ_007_dino.png)
+![](./images/KMJ_007_dino.png)
 
 "shikingram_dino"
 
-![](shikingram_dino.png)
+![](./images/shikingram_dino.png)
 
 "berdna_berdino"
 
-![](berdna_berdino.png)
+![](./images/berdna_berdino.png)
 
 "prasanta10_dino1"
 
-![](prasanta10_dino1.png)
+![](./images/prasanta10_dino1.png)
 
 "iamrahul8_rahul_dino"
 
-![](iamrahul8_rahul_dino.png)
+![](./images/iamrahul8_rahul_dino.png)
 
 "firecraftgaming_dino"
 
-![](firecraftgaming_dino.png)
+![](./images/firecraftgaming_dino.png)
 
 "mastercodermerwin_dino"
 
-![](mastercodermerwin_dino.png)
+![](./images/mastercodermerwin_dino.png)
 
 "doamatto_bestdino"
 
-![](doamatto_bestdino.png)
+![](./images/doamatto_bestdino.png)
 
 "reesericci_orph_lite"
 
-![](reesericci_orph_lite.png)
+![](./images/reesericci_orph_lite.png)
 
 "dileepabandara_friday_dino"
 
-![](dileepabandara_friday_dino.png)
+![](./images/dileepabandara_friday_dino.png)
 
 "connordennison_dino"
 
-![](connordennison_dino.png)
+![](./images/connordennison_dino.png)
 
 
 "ganning127_ganning_dino"
 
-![](ganning127_ganning_dino.png)
+![](./images/ganning127_ganning_dino.png)
 
 "NhanAZ_dino"
 
-![](NhanAZ_dino.png)
+![](./images/NhanAZ_dino.png)
 
 "cfanoulis_gandalf_orpheus"
 
-![](cfanoulis_gandalf_orpheus.png)
+![](./images/cfanoulis_gandalf_orpheus.png)
 
 "CoolCoderSJ_dino"
 
-![](CoolCoderSJ_dino.png)
+![](./images/CoolCoderSJ_dino.png)
 
 "kum9748ar_dino"
 
-![](kum9748ar_dino.png)
+![](./images/kum9748ar_dino.png)
 
 "thekyleliao_dino"
 
-![](thekyleliao_dino.png)
+![](./images/thekyleliao_dino.png)
 
 "alexdevz_dino"
 
-![](alexdevz_dino.png)
+![](./images/alexdevz_dino.png)
 
 "zplusfour_dino"
 
-![](zplusfour_dino.png)
+![](./images/zplusfour_dino.png)
 
 "aileecrivera_cool_dino"
 
-![](aileencrivera_cool_dino.png)
+![](./images/aileencrivera_cool_dino.png)
 
 "fuwaa_dino"
 
-![](fuwaa_dino.png)
+![](./images/fuwaa_dino.png)
 
 "PulkitMalhotra161001_dino"
 
-![](PulkitMalhotra161001_dino.png)
+![](./images/PulkitMalhotra161001_dino.png)
 
 "CodeWhiteWeb_dino_thumbs_up"
 
-![](CodeWhiteWeb_dino_thumbs_up.png)
+![](./images/CodeWhiteWeb_dino_thumbs_up.png)
 
 "Peiprjs_imin"
 
-![](Peiprjs_imin.png)
+![](./images/Peiprjs_imin.png)
 
 "Raiyaxi_Ziaoi_happy_dino__3"
 
-![](Raiyaxi_Ziaoi_happy_dino__3.png)
+![](./images/Raiyaxi_Ziaoi_happy_dino__3.png)
 
 "sanj_55_YE_THE_MONSTER"
 
-![](sanj_55_MONSTER.png)
+![](./images/sanj_55_MONSTER.png)
 
 "jadecuriepark_tomatoglassesdino"
 
-![](jadecuriepark_tomatoglassesdino.png)
+![](./images/jadecuriepark_tomatoglassesdino.png)
 
 "burakovec_dino"
 
-![](burakovec_dino.png)
+![](./images/burakovec_dino.png)
 
 "AngleSideAngle_dino_go"
 
-![](AngleSideAngle_dino_go.png)
+![](./images/AngleSideAngle_dino_go.png)
 
 "SamDev_7_yes_dino"
 
-![](SamDev_7_yes_dino.png)
+![](./images/SamDev_7_yes_dino.png)
 
 "hemantwasthere_dino"
 
-![](hemantwasthere_dino.png)
+![](./images/hemantwasthere_dino.png)
 
 "Noir01_Assasin_Dino"
 
-![](Noir01_Assasin_Dino.png)
+![](./images/Noir01_Assasin_Dino.png)
 
 "isayakmondal_dino"
 
-![](isayakmondal_dino.png)
+![](./images/isayakmondal_dino.png)
 
 "LucasHT22_dino"
 
-![](LucasHT22_dino.png)
+![](./images/LucasHT22_dino.png)
 
 "LucasHT22_dino_bald"
 
-![](LucasHT22_dino_bald.png)
+![](./images/LucasHT22_dino_bald.png)
 
 "LucasHT22_dino_bald"
 
-![](LucasHT22_dino_old.png)
+![](./images/LucasHT22_dino_old.png)
 
 "LucasHT22_dino_magic"
 
-![](dino_magic.png)
+![](./images/dino_magic.png)
 
 "Omay238_3d_dino"
 
-![](Omay238_3d_dino.png)
+![](./images/Omay238_3d_dino.png)
 
 "Omay238_hapi"
 
-![](Omay238_hapi.png)
+![](./images/Omay238_hapi.png)
 
 "alixjaffar_DINNOOO"
 
-![](alixjaffar_DINNOOO.png)
+![](./images/alixjaffar_DINNOOO.png)
 
 "ikeyurp_dino"
 
-![](ikeyurp_dino.png)
+![](./images/ikeyurp_dino.png)
 
 "MrKrishnaAgarwal_dino_krishna_swag"
 
-![](MrKrishnaAgarwal_dino_krishna_swag.png)
+![](./images/MrKrishnaAgarwal_dino_krishna_swag.png)
 
 "PleahMaCaka_dinfox"
 
-![](PleahMaCaka_dinfox.png)
+![](./images/PleahMaCaka_dinfox.png)
 
 "Rishav_12_dino_eating_apple"
 
-![](Rishav_12_dino_eating_apple.png)
+![](./images/Rishav_12_dino_eating_apple.png)
 
 "ShubhamPatilsd_shrubbythebubby_dinos"
 
-![](ShubhamPatilsd_shrubbythebubby_dinos.png)
+![](./images/ShubhamPatilsd_shrubbythebubby_dinos.png)
 
 "ikeyurp_no"
 
-![](ikeyurp_no.png)
+![](./images/ikeyurp_no.png)
 
 "Heismanish_dino_swag"
 
-![](Heismanish_dino_swag.png)
+![](./images/Heismanish_dino_swag.png)
 
 "Ashish_khanagwal_dino_ashish"
 
-![](Ashish_khanagwal_dino_ashish.png)
+![](./images/Ashish_khanagwal_dino_ashish.png)
 
 "IgorKowalczyk_happy_dino"
 
-![](IgorKowalczyk_happy_dino.png)
+![](./images/IgorKowalczyk_happy_dino.png)
 
 "LucasHT22_portuguese_dino"
 
-![](LucasHT22_portuguese_dino.png)
+![](./images/LucasHT22_portuguese_dino.png)
 
 "thrzl_dino"
 
-![](thrzl_dino.png)
+![](./images/thrzl_dino.png)
 
 "Saurav50_dino"
 
-![](Saurav50_dino.png)
+![](./images/Saurav50_dino.png)
 
 "Ashutosh_510_firedino_"
 
-![](Ashutosh_510_firedino_.png)
+![](./images/Ashutosh_510_firedino_.png)
 
 "Akshay_Rana_Gujjar_dino"
 
-![](Akshay_Rana_Gujjar_dino.png)
+![](./images/Akshay_Rana_Gujjar_dino.png)
 
 "sahitid_binary_dino"
 
-![](sahitid_binary_dino.png)
+![](./images/sahitid_binary_dino.png)
 
 "chef dino by JulianaSau 👩‍🍳"
 
-![](JulianaSau_chef_dino.png)
+![](./images/JulianaSau_chef_dino.png)
 
 "vita_tran_programmer_dino"
 
-![](vitatran-programmer-dino.png)
+![](./images/vitatran-programmer-dino.png)
 
 "kanika_saini_dino"
 
-![](kanika_saini_dino.png)
+![](./images/kanika_saini_dino.png)
 
 "sahitid_dalle_dino"
 
-![](sahitid_dalle_dino.png)
+![](./images/sahitid_dalle_dino.png)
 
 "duplixx_drunk_Dino"
 
-![](duplixx_drunk_Dino.png)
+![](./images/duplixx_drunk_Dino.png)
 
 "aryanrai2001_dino_t-rick"
 
-![](aryanrai2001_dino_t-rick.png)
+![](./images/aryanrai2001_dino_t-rick.png)
 
 "theDeviser_cute_baby_dino"
 
-![](theDeviser_cute_baby_dino.png)
+![](./images/theDeviser_cute_baby_dino.png)
 
 "palakg12_monster_dino"
 
-![](palakg12_monster_dino.png)
+![](./images/palakg12_monster_dino.png)
 
 "das-amit_weird-dino"
 
-![](weird-dino.png)
+![](./images/weird-dino.png)
 
 "arslanmalik2003_dino-james"
 
-![](arslanmalik2003_dino-james.png)
+![](./images/arslanmalik2003_dino-james.png)
 
 "Akshatkamboj14_dinoking"
 
-![](Akshatkamboj14_dinoking.png)
+![](./images/Akshatkamboj14_dinoking.png)
 
 "Akshatkamboj14_dinoangry"
 
-![](Akshatkamboj14_dinoangry.png)
+![](./images/Akshatkamboj14_dinoangry.png)
 
 "Akshatkamboj14_dinoextreme"
 
-![](Akshatkamboj14_dinoextreme.png)
+![](./images/Akshatkamboj14_dinoextreme.png)
 
 "HIMANSHUATWORK_richdino"
 
-![](HIMANSHUATWORK_richdino.png)
+![](./images/HIMANSHUATWORK_richdino.png)
 
 "lareithen_larei_thumbs_up"
 
-![](lareithen_larei_thumbs_up.png)
+![](./images/lareithen_larei_thumbs_up.png)
 
 "HackClub_JH_dino"
 
-![](HackClub_JH_dino.png)
+![](./images/HackClub_JH_dino.png)
 
 "kavania2002_kavanausauras"
 
-![](kavania2002_kavanausauras.png)
+![](./images/kavania2002_kavanausauras.png)
 
 "aayushimathur6_dinoglasses"
 
-![](aayushimathur6_dinoglasses.png)
+![](./images/aayushimathur6_dinoglasses.png)
 
 "aayushimathur6_dinocutie"
 
-![](aayushimathur6_dinocutie.png)
+![](./images/aayushimathur6_dinocutie.png)
 
 "LucasHT22_inlovedino"
 
-![](LucasHT22_inlovedino.png)
+![](./images/LucasHT22_inlovedino.png)
 
 "LucasHT22_chaosdino"
 
-![](LucasHT22_chaosdino.png)
+![](./images/LucasHT22_chaosdino.png)
 
 "ANSHU10997_one_eye_dino"
 
-![](ANSHU10997_one_eye_dino.png)
+![](./images/ANSHU10997_one_eye_dino.png)
 
 "recursiveforte-dinoysus"
 
-![](recursiveforte-dinoysus.png)
+![](./images/recursiveforte-dinoysus.png)
 
 "LucasHT22_flydino"
 
-![](LucasHT22_flydino.png)
+![](./images/LucasHT22_flydino.png)
 
 "PriyanganaGupta_sillysailordino"
 
-![](PriyanganaGupta_sillysailordino.png)
+![](./images/PriyanganaGupta_sillysailordino.png)
 
 "Faizan00parvez_unicorn_dinosaur"
 
-![](Faizan00parvez_unicorn_dinosaur.png)
+![](./images/Faizan00parvez_unicorn_dinosaur.png)
 
 "yamini210_yamini_dino"
 
-![](yamini210_yamini_dino.png)
+![](./images/yamini210_yamini_dino.png)
 
 "iamkunal9_iamkunal9_s_dino"
 
-![](iamkunal9_iamkunal9_s_dino.png)
+![](./images/iamkunal9_iamkunal9_s_dino.png)
 
 "BRUTALXFROST_moustache_dinosaur"
 
-![](BRUTALXFROST_moustache_dinosaur.png)
+![](./images/BRUTALXFROST_moustache_dinosaur.png)
 
 "rachitag112_happy_dino"
 
-![](rachitag112_happy_dino.png)
+![](./images/rachitag112_happy_dino.png)
 
 "dinasour.png"
 
-![](dinasour.png)
+![](./images/dinasour.png)
 
 "Vamps1975_vamp_dino"
 
-![](Vamps1975_vamp_dino.png)
+![](./images/Vamps1975_vamp_dino.png)
 
 "PriyanganaGupta_dinosunio"
 
-![](PriyanganaGupta_dinosunio.png)
+![](./images/PriyanganaGupta_dinosunio.png)
 
 "UttamBindal_dino_UB"
 
-![](UttamBindal_dino_UB.png)
+![](./images/UttamBindal_dino_UB.png)
 
 "aileencrivera_dino"
 
-![](aileencrivera_dino.png)
+![](./images/aileencrivera_dino.png)
 
 "ashish_gopalika_dino_ash_png"
 
-![](ashish_gopalika_dino_ash_png.png)
+![](./images/ashish_gopalika_dino_ash_png.png)
 
 "manassinghdewari_dino"
 
-![](manassinghdewari_dino.png)
+![](./images/manassinghdewari_dino.png)
 
 "WraitH17_dinoWraitH17"
 
-![](WraitH17_dinoWraitH17.png)
+![](./images/WraitH17_dinoWraitH17.png)
 
 "harshverma1722_dino_png"
 
-![](harshverma1722_dino_png.png)
+![](./images/harshverma1722_dino_png.png)
 
 "LucasHT22_dino_watching"
 
-![](LucasHT22_dino_watching.png)
+![](./images/LucasHT22_dino_watching.png)
 
 "prexio_science_dino"
 
-![](prexio_science_dino.png)
+![](./images/prexio_science_dino.png)
 
 "VelocityDesign_dino"
 
-![](VelocityDesign_dino.png)
+![](./images/VelocityDesign_dino.png)
 
 "hackermondev_strong_muscle_dino"
 
-![](hackermondev_strong_muscle_dino.png)
+![](./images/hackermondev_strong_muscle_dino.png)
 
 "cytronicoder_dino"
 
-![](cytronicoder_dino.png)
+![](./images/cytronicoder_dino.png)
 
 "dibyarupnath_dino"
 
-![](dibyarupnath_dino.png)
+![](./images/dibyarupnath_dino.png)
 
 "Ahkam1225_dino"
 
-![](Ahkam1225_dino.png) 
+![](./images/Ahkam1225_dino.png) 
 
 "sulamanshahbukhari_dino"
 
-![](sulamanshahbukhari_dino.png)
+![](./images/sulamanshahbukhari_dino.png)
 
 "Dino on his way to the Mars"
 
-![](Max_42_dino_to_the_mars.png)
+![](./images/Max_42_dino_to_the_mars.png)
 
 "LuanderFarias_dino_hackclub_fan"
 
-![](LuanderFarias_dino_hackclub_fan.png)
+![](./images/LuanderFarias_dino_hackclub_fan.png)
