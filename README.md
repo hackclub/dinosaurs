@@ -27,7 +27,6 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
-
 "Deno Dino"
 
 ![](deno-dino.jpg)
@@ -2246,9 +2245,17 @@ harshithap2000-dai_deprivation"
 
 ![](VelocityDesign_dino.png)
 
+"hackermondev_strong_muscle_dino"
+
+![](hackermondev_strong_muscle_dino.png)
+
 "cytronicoder_dino"
 
 ![](cytronicoder_dino.png)
+
+"dibyarupnath_dino"
+
+![](dibyarupnath_dino.png)
 
 "Ahkam1225_dino"
 
@@ -2257,3 +2264,45 @@ harshithap2000-dai_deprivation"
 "rushikeshsuryawanshi_dino_happy"
 
 ![](rushikeshsuryawanshi_dino_happy.png)
+
+"sulamanshahbukhari_dino"
+
+![](sulamanshahbukhari_dino.png)
+
+"Dino on his way to the Mars"
+
+![](Max_42_dino_to_the_mars.png)
+
+"LuanderFarias_dino_hackclub_fan"
+
+![](LuanderFarias_dino_hackclub_fan.png)
+
+"NaNshekhar04_dinoBat"
+
+![](NaNshekhar04_dinoBat.png)
+
+"MostlyWhat_dino"
+
+![](MostlyWhat_dino.png)
+
+
+"Priyankar_s_dino"
+
+![](priyankarpal_Priyankar_s_dino.png)
+
+"OptimalBlock489_Nerd_dino"
+
+![](OptimalBlock489_Nerd_dino.png)
+
+"PasinduDushan_le_masterpiece"
+
+![](PasinduDushan_le_masterpiece.png)
+
+"alhardwarehyde_AlDinoDon"
+
+![](alhardwarehyde_AlDinoDon.png)
+
+"SwiftyProgrammer690_prdino"
+
+![](SwiftyProgrammer690_prdino.png)
+
