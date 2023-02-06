@@ -31,6 +31,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](deno-dino.jpg)
 
+"gambhirsharma_dino"
+
+![](gambhirsharma_dino.png)
+
 "Muhammad_Ahsan_Rasheed_hacktoberfest"
 
 ![](Muhammad_Ahsan_Rasheed_hacktoberfest.png)
@@ -2253,6 +2257,18 @@ harshithap2000-dai_deprivation"
 
 ![](cytronicoder_dino.png)
 
+"santhos_13_dino"
+
+![](santhos_13_dino.png)
+
+"fykaa_dino"
+
+![](fykaa_FrolicDino.png)
+
+"asubramanian08__1_dino"
+
+![](asubramanian08__1_dino.png)
+
 "dibyarupnath_dino"
 
 ![](dibyarupnath_dino.png)
@@ -2261,9 +2277,33 @@ harshithap2000-dai_deprivation"
 
 ![](Ahkam1225_dino.png) 
 
+"rushikeshsuryawanshi_dino_happy"
+
+![](rushikeshsuryawanshi_dino_happy.png)
+
 "sulamanshahbukhari_dino"
 
 ![](sulamanshahbukhari_dino.png)
+
+"etendra2501_dino_dino"
+
+![](etendra2501_dino_dino.png)
+
+"The_Saras_dino"
+
+![](The_Saras_dino.png)
+
+"quiint_dino"
+
+![](quiint_dino.png)
+
+"ma1ted_whyno"
+
+![](ma1ted_whyno.png)
+
+"TerribleCodes_dino_exe"
+
+![](TerribleCodes_dino_exe.png)
 
 "Dino on his way to the Mars"
 
@@ -2273,6 +2313,26 @@ harshithap2000-dai_deprivation"
 
 ![](LuanderFarias_dino_hackclub_fan.png)
 
+"Hrushal_Nikhare_dino"
+
+![](Hrushal_Nikhare_dino.png)
+
+"AidenRheem_hecker"
+
+![](AidenRheem_hecker.png)
+
+"coci_dino"
+
+![](coci_dino.png)
+
+"Roizor_tooth"
+
+![](Roizor_tooth.png)
+
+"KoningAbel_Dino_"
+
+![](KoningAbel_Dino_.png)
+
 "NaNshekhar04_dinoBat"
 
 ![](NaNshekhar04_dinoBat.png)
@@ -2281,6 +2341,29 @@ harshithap2000-dai_deprivation"
 
 ![](MostlyWhat_dino.png)
 
+"CatR3kd_dino"
+
+![](CatR3kd_dino.png)
+
+"tiredbread_good_dino"
+
+![](tiredbread_good_dino.png)
+
+"nikkikharkwal_Nik"
+
+![](nikkikharkwal_Nik.png)
+
+"Verisimilitude11_dino"
+
+![](Verisimilitude11_dino.png)
+
+"LimesKey_massage"
+
+![](LimesKey_massage.png)
+
+"adelly13_ballerina_dino"
+
+![](adelly13_ballerina_dino.png)
 
 "Priyankar_s_dino"
 
@@ -2305,3 +2388,27 @@ harshithap2000-dai_deprivation"
 "Mr. Dino (by Odysseus)"
 
 ![](odysseuskir_mr_dino.png)
+
+"Hasala2002_scared_dino"
+
+![](Hasala2002_scared_dino.png)
+
+"audreyolafz_blooming_dino"
+
+![](audreyolafz_blooming_dino.png)
+
+"yazidears_dino"
+
+![](yazidears_dino.png)
+
+"vanar42_hi_dino"
+
+![](vanar42_hi_dino.png)
+
+"B100GH_dino"
+
+![](B100GH_dino.png)
+
+"VTIvanov20_vtivanov20_value_dino"
+
+![](VTIvanov20_vtivanov20_value_dino.png)
