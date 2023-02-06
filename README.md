@@ -2301,3 +2301,7 @@ harshithap2000-dai_deprivation"
 "SwiftyProgrammer690_prdino"
 
 ![](SwiftyProgrammer690_prdino.png)
+
+"Mr. Dino (by Odysseus)"
+
+![](odysseuskir_mr_dino.png)
