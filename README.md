@@ -2462,3 +2462,6 @@ harshithap2000-dai_deprivation"
 
 "kumaraswamy_dino"
 ![](happy-sleeping-dino.png)
+
+"Shreeya's Dino"
+![](DINO_ShreeyaRani.png)
