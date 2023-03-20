@@ -2460,5 +2460,8 @@ harshithap2000-dai_deprivation"
 "nisarga_dino"
 ![](nisarga_dino.png)
 
-"kumaraswamy_dino"
+"kumaraswamy_dino"  
 ![](happy-sleeping-dino.png)
+
+"GalaxyGamingBoy | Out of Box Dino with a Pizza as a hat"  
+![](GalaxyGamingBoy_out_of_box_dino_with_pizza_hat.png)
