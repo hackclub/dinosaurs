@@ -2465,3 +2465,7 @@ harshithap2000-dai_deprivation"
 
 "jayk_gupta_dino"
 ![](jayk_gupta_dino.png)
+
+"HiteshSharma_github_dinoHTB"
+
+![](HiteshSharma_github_dinoHTB.png)
