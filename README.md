@@ -8,7 +8,7 @@ Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosa
 
 [Read the story of Orpheus >>](https://hackclub.com/workshops/orpheus)
 
-_Created by m_
+_Created by http://nathanielthealligator.tumblr.com/_
 
 ---
 
