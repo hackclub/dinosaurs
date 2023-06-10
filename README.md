@@ -123,6 +123,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](money_dinosaur_1.png)
 
+"Dino plant (hippie guy)"
+
+![](dino-plant.png)
+
 ![](money_dinosaur_2.png)
 
 "a dinosaur stealing food from a restaurant"
