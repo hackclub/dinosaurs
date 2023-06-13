@@ -125,6 +125,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](money_dinosaur_2.png)
 
+"Dino Plant (hippie guy)"
+
+![](dino-plant.png)
+
 "a dinosaur stealing food from a restaurant"
 
 ![](restaurant_dinosaur.png)
@@ -2476,3 +2480,7 @@ harshithap2000-dai_deprivation"
 "kyrabercrystal_sockpuppetdino"
 
 ![](kyrabercrystal_sockpuppetdino.png)
+
+"DominusTrax_derp_dinop"
+
+![](DominusTrax_derp_dinop.png)
