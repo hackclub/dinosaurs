@@ -125,6 +125,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](money_dinosaur_2.png)
 
+"Dino Plant (hippie guy)"
+
+![](dino-plant.png)
+
 "a dinosaur stealing food from a restaurant"
 
 ![](restaurant_dinosaur.png)
@@ -2385,6 +2389,10 @@ harshithap2000-dai_deprivation"
 
 ![](SwiftyProgrammer690_prdino.png)
 
+"geeky_sambhav_oi"
+
+![](geeky_sambhav_oi.png)
+
 "unordentlich_dino"
 
 ![](unordentlich_dino.png)
@@ -2463,8 +2471,87 @@ harshithap2000-dai_deprivation"
 "kumaraswamy_dino"
 ![](happy-sleeping-dino.png)
 
+"camdan_me_Dinocorn"
+![](camdan_me_Dinocorn.png)
+
 "jayk_gupta_dino"
 ![](jayk_gupta_dino.png)
 
 "GDSimpson3_dino"
 ![](GDSimpson3_dino.png)
+
+"hems_bhandari_CoolerDino"
+![](hems_bhandari_CoolerDino.png)
+
+"TauqeerAhmad5201_dino"
+![](TauqeerAhmad5201_dino.png)
+
+"oMvhmoud_idk_just_random"
+
+![](oMvhmoud_idk_just_random.png)
+
+"ajosan25_angad_dino"
+![](ajosan25_angad_dino.png)
+
+"Satyxm_dino"
+![](Satyxm_dino.png)
+
+"dino playing sprig"
+![](cott3_efeoz_dinoplayingsprig.png)
+
+"akhil888binoy_dino"
+
+![](akhil888binoy_dino.png)
+
+"mauro_balades_dino"
+![](mauro_balades_dino.png)
+
+"migueltc13_hacking_dino"
+
+![](migueltc13_hacking_dino.png)
+
+"prasarCodes_dieknowsawr"
+![](prasarCodes_dieknowsawr.png)
+
+"Harshal_yadav"
+![](baseball_dino.png)
+
+"unicorndiddy_dino"
+![](unicorndiddy_dino.png)
+
+"03aar_dino"
+![](03aar_dino.png)
+
+"nikos1508_happy_dino"
+![](nikos1508_happy_dino.png)
+
+"Soumya_Kushwaha_dino"
+
+![](Soumya_Kushwaha_dino.png)
+
+"kbdharun_rizzraptor"
+
+![](kbdharun_rizzraptor.png)
+
+"Leo32345_dino"
+![](Leo32345_dino.png)
+
+"timoslater_dino"
+![](timoslater_my_dino.png)
+
+"rakshitdabral_dino"
+![](rakshitdabral_dino.png)
+
+"mrepol742_dino"
+![](mrepol742_dino.png)
+
+"spyeic_dino"
+![](spyeic_dino.png)
+
+"kyrabercrystal_sockpuppetdino"
+
+![](kyrabercrystal_sockpuppetdino.png)
+
+"DominusTrax_derp_dinop"
+
+![](DominusTrax_derp_dinop.png)
