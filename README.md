@@ -2477,6 +2477,9 @@ harshithap2000-dai_deprivation"
 "jayk_gupta_dino"
 ![](jayk_gupta_dino.png)
 
+"all0zavrr_dino_hipster"
+![](allozavrr_dino_hipster.png)
+
 "GDSimpson3_dino"
 ![](GDSimpson3_dino.png)
 
