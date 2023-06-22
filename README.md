@@ -43,6 +43,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](imo-dino.png)
 
+"DomathID_dino"
+
+![](DomathID_dino.png)
+
 "Back Off Dino"
 
 ![](backoff_dino.png)
@@ -50,6 +54,10 @@ _The Dinosaur Who Can Never Look Back_
 "Dragonair Dino"
 
 ![](das_amit_dragonair_dino.png)
+
+"AsherCarneiro_bro_think_he_cool___"
+
+![](AsherCarneiro_bro_think_he_cool___.png)
 
 "das_amit_yoshi_dino"
 
@@ -124,6 +132,10 @@ _The Dinosaur Who Can Never Look Back_
 ![](money_dinosaur_1.png)
 
 ![](money_dinosaur_2.png)
+
+"Dino Plant (hippie guy)"
+
+![](dino-plant.png)
 
 "a dinosaur stealing food from a restaurant"
 
@@ -2385,6 +2397,10 @@ harshithap2000-dai_deprivation"
 
 ![](SwiftyProgrammer690_prdino.png)
 
+"geeky_sambhav_oi"
+
+![](geeky_sambhav_oi.png)
+
 "unordentlich_dino"
 
 ![](unordentlich_dino.png)
@@ -2420,6 +2436,81 @@ harshithap2000-dai_deprivation"
 "Pal_Sandeep_Sandeep_Pal"
 
 ![](Pal_Sandeep_Sandeep_Pal.png)
+
+"iamstepaul_dino"
+
+![](iamstepaul_dino.png)
+
+"realkanavarora_dino"
+
+![](realkanavarora_dino.png)
+
+"agentblack_6000_agentdino"
+
+![](agentblack_6000_agentdino.png)
+
+"Adam_pw_MITS"
+
+![](Adam_pw_MITS.png)
+
+"yveskalume_yveskalume"
+
+![](yveskalume_yveskalume.png)
+
+"charlesyiu_dino"
+
+![](charlesyiu_dino.png)
+
+"mickeydarrenlau_dino_bad"
+
+![](mickeydarrenlau_dino_bad.png)
+
+"azusachino_StarTrek_Dino_MKI"
+
+![](azusachino_StarTrek_Dino_MKI.png)
+
+"hiiruki_punk_dinosaur"
+
+![](hiiruki_punk_dinosaur.png)
+
+"nisarga_dino"
+
+![](nisarga_dino.png)
+
+"briyandyju09_Winking_Face_with_Tongue_dino"
+
+![](briyandyju09_Winking_Face_with_Tongue_dino.png)
+
+"kumaraswamy_dino"
+
+![](happy-sleeping-dino.png)
+
+
+"Ronnit_Nath"
+
+![](Ronnit_Nath_binary_dino.png)
+
+"ToonWannaMoveOn_toonnongaoey_kindaweirddyno"
+![](ToonWannaMoveOn_toonnongaoey_kindaweirddyno.png)
+
+"DestroyerXyz_deno"
+![](DestroyerXyz_deno.png)
+
+"GalaxyGamingBoy | Out of Box Dino with a Pizza as a hat"  
+![](GalaxyGamingBoy_out_of_box_dino_with_pizza_hat.png)
+
+"camdan_me_Dinocorn"
+![](camdan_me_Dinocorn.png)
+
+"jayk_gupta_dino"
+![](jayk_gupta_dino.png)
+
+"kevadesu_dino_on_phone"
+![](kevadesu_dino_on_phone.png)
+
+"Huseyin-Cinar_dino"
+
+![](Huseyin-Cinar_dino.png)
 
 "itsimpeccable_dino"
 
