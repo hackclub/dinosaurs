@@ -2576,3 +2576,7 @@ harshithap2000-dai_deprivation"
 "ap_1_happy_spiked_dino_with_a_tie"
 
 ![](ap_1_happy_spiked_dino_with_a_tie.png)
+
+"OHIO_MAN_troll_dino"
+
+![](OHIO_MAN_troll_dino.png)
