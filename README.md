@@ -2474,9 +2474,11 @@ harshithap2000-dai_deprivation"
 ![](hiiruki_punk_dinosaur.png)
 
 "nisarga_dino"
+
 ![](nisarga_dino.png)
 
 "kumaraswamy_dino"
+
 ![](happy-sleeping-dino.png)
 
 "DestroyerXyz_deno"
@@ -2613,3 +2615,7 @@ harshithap2000-dai_deprivation"
 "OHIO_MAN_troll_dino"
 
 ![](OHIO_MAN_troll_dino.png)
+
+"Getlost01's Dino"
+
+![](getlost01_dino.png)
