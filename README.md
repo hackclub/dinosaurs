@@ -2483,6 +2483,8 @@ harshithap2000-dai_deprivation"
 "jayk_gupta_dino"
 ![](jayk_gupta_dino.png)
 
+"tech_dino"
+![](techdino.png)
 
 "a lil guy who wants you to read instructions"
 ![](lucaspotter_rtfm.png)
