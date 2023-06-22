@@ -51,6 +51,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](das_amit_dragonair_dino.png)
 
+"AsherCarneiro_bro_think_he_cool___"
+
+![](AsherCarneiro_bro_think_he_cool___.png)
+
 "das_amit_yoshi_dino"
 
 ![](das_amit_yoshi_dino.png)
