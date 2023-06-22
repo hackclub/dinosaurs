@@ -43,6 +43,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](imo-dino.png)
 
+"DomathID_dino"
+
+![](DomathID_dino.png)
+
 "Back Off Dino"
 
 ![](backoff_dino.png)
@@ -50,6 +54,10 @@ _The Dinosaur Who Can Never Look Back_
 "Dragonair Dino"
 
 ![](das_amit_dragonair_dino.png)
+
+"AsherCarneiro_bro_think_he_cool___"
+
+![](AsherCarneiro_bro_think_he_cool___.png)
 
 "das_amit_yoshi_dino"
 
@@ -2466,10 +2474,30 @@ harshithap2000-dai_deprivation"
 ![](hiiruki_punk_dinosaur.png)
 
 "nisarga_dino"
+
 ![](nisarga_dino.png)
 
+"briyandyju09_Winking_Face_with_Tongue_dino"
+
+![](briyandyju09_Winking_Face_with_Tongue_dino.png)
+
 "kumaraswamy_dino"
+
 ![](happy-sleeping-dino.png)
+
+
+"Ronnit_Nath"
+
+![](Ronnit_Nath_binary_dino.png)
+
+"ToonWannaMoveOn_toonnongaoey_kindaweirddyno"
+![](ToonWannaMoveOn_toonnongaoey_kindaweirddyno.png)
+
+"DestroyerXyz_deno"
+![](DestroyerXyz_deno.png)
+
+"GalaxyGamingBoy | Out of Box Dino with a Pizza as a hat"  
+![](GalaxyGamingBoy_out_of_box_dino_with_pizza_hat.png)
 
 "camdan_me_Dinocorn"
 ![](camdan_me_Dinocorn.png)
@@ -2477,28 +2505,16 @@ harshithap2000-dai_deprivation"
 "jayk_gupta_dino"
 ![](jayk_gupta_dino.png)
 
-"Leo32345_dino"
-![](Leo32345_dino.png)
+"kevadesu_dino_on_phone"
+![](kevadesu_dino_on_phone.png)
 
-"timoslater_dino"
-![](timoslater_my_dino.png)
+"Huseyin-Cinar_dino"
 
-"rakshitdabral_dino"
-![](rakshitdabral_dino.png)
+![](Huseyin-Cinar_dino.png)
 
-"mrepol742_dino"
-![](mrepol742_dino.png)
+"itsimpeccable_dino"
 
-"spyeic_dino"
-![](spyeic_dino.png)
-
-"kyrabercrystal_sockpuppetdino"
-
-![](kyrabercrystal_sockpuppetdino.png)
-
-"DominusTrax_derp_dinop"
-
-![](DominusTrax_derp_dinop.png)
+![](itsimpeccable.png)
 
 "nitheesh_daram_dino"
 
