@@ -2477,6 +2477,10 @@ harshithap2000-dai_deprivation"
 
 ![](nisarga_dino.png)
 
+"briyandyju09_Winking_Face_with_Tongue_dino"
+
+![](briyandyju09_Winking_Face_with_Tongue_dino.png)
+
 "kumaraswamy_dino"
 
 ![](happy-sleeping-dino.png)
