@@ -43,6 +43,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](imo-dino.png)
 
+"DomathID_dino"
+
+![](DomathID_dino.png)
+
 "Back Off Dino"
 
 ![](backoff_dino.png)
