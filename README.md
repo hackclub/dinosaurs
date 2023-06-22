@@ -2471,6 +2471,12 @@ harshithap2000-dai_deprivation"
 "kumaraswamy_dino"
 ![](happy-sleeping-dino.png)
 
+"DestroyerXyz_deno"
+![](DestroyerXyz_deno.png)
+
+"GalaxyGamingBoy | Out of Box Dino with a Pizza as a hat"  
+![](GalaxyGamingBoy_out_of_box_dino_with_pizza_hat.png)
+
 "camdan_me_Dinocorn"
 ![](camdan_me_Dinocorn.png)
 
@@ -2479,6 +2485,21 @@ harshithap2000-dai_deprivation"
 
 "Dino in a city"
 ![](Vishal1297_dino.png)
+
+"logicalwillow_dino"
+![](logicalwillow_dino.png)
+
+"Cai0n29_FiloDino"
+![](Cai0n29_FiloDino.png)
+
+"tech_dino"
+![](techdino.png)
+
+"a lil guy who wants you to read instructions"
+![](lucaspotter_rtfm.png)
+
+"all0zavrr_dino_hipster"
+![](allozavrr_dino_hipster.png)
 
 "GDSimpson3_dino"
 ![](GDSimpson3_dino.png)
@@ -2558,3 +2579,15 @@ harshithap2000-dai_deprivation"
 "DominusTrax_derp_dinop"
 
 ![](DominusTrax_derp_dinop.png)
+
+"sahilchess_Cool_dino_will_conquer_earth"
+
+![](sahilchess_Cool_dino_will_conquer_earth.png)
+
+"ap_1_happy_spiked_dino_with_a_tie"
+
+![](ap_1_happy_spiked_dino_with_a_tie.png)
+
+"OHIO_MAN_troll_dino"
+
+![](OHIO_MAN_troll_dino.png)
