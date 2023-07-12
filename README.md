@@ -26,6 +26,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"Rishabh1662_dino"
+
+![](Rishabh1662_dino.png)
+
 "club dinosaur"
 
 ![](club_dinosaur.png)
