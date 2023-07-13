@@ -1,8 +1,10 @@
-# dinosaurs
+# Hack Club dinosaurs
 
-![](Dinos.jpg)
+![Cover photo](Dinos.jpg)
 
 Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosaur. Prophet Orpheus is always getting into crazy adventures, from stealing food to going to the moon. She is usually drawn in black and white in limited drawing programs like MS Paint or Pinta.
+
+[Draw your own dino >>](https://hack.af/make-dino)
 
 [Read the story of Orpheus >>](https://hackclub.com/workshops/orpheus)
 
@@ -25,6 +27,85 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"Deno Dino"
+
+![](deno-dino.jpg)
+
+"gambhirsharma_dino"
+
+![](gambhirsharma_dino.png)
+
+"Muhammad_Ahsan_Rasheed_hacktoberfest"
+
+![](Muhammad_Ahsan_Rasheed_hacktoberfest.png)
+
+"Imo Dino"
+
+![](imo-dino.png)
+
+"DomathID_dino"
+
+![](DomathID_dino.png)
+
+"Back Off Dino"
+
+![](backoff_dino.png)
+
+"Dragonair Dino"
+
+![](das_amit_dragonair_dino.png)
+
+"AsherCarneiro_bro_think_he_cool___"
+
+![](AsherCarneiro_bro_think_he_cool___.png)
+
+"das_amit_yoshi_dino"
+
+![](das_amit_yoshi_dino.png)
+
+"Purple Dino"
+
+![](/purple_dino.png)
+
+"A very chill dino"
+
+![](markonije_chill.png)
+
+"ramiz03_professor_dino"
+
+![](ramiz03_professor_dino.png)
+ 
+"teddyoweh_teddydino"
+
+![](teddyoweh_teddydino.png)
+
+"Muhammad_Ahsan_Rasheed_Thug_Dino"
+
+![](Muhammad_Ahsan_Rasheed_Thug_Dino.png)
+
+"bcbro_dino_surprised"
+
+![](bcbro_dino.png)
+
+"KrishChopra22_dino"
+
+![](KrishChopra22_dino.png)
+
+"Wishy_S_dino"
+
+![](Wishy_S_dino.png)
+
+"slim_shady"
+
+![](Danuragtiwari_slim_shady.png)
+
+"rithulkamesh_sniping_dino"
+
+![](rithulkamesh_sniping_dino.png)
+
+"malakar-soham-dino_smirk"
+
+![](dino_smirk.png)
 
 "Rishabh1662_dino"
 
@@ -34,9 +115,17 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](club_dinosaur.png)
 
+"cool dino wearing sunglasses"
+
+![](vedant_kakde_cool_dino.png)
+
 "a smart dinosaur reading docs"
 
 ![](smart_dinosaur_docs.png)
+
+"a classy dinosaur!"
+
+![](FrenzyExists_ClassyDino.png)
 
 "a dinosaur motivating someone"
 
@@ -48,17 +137,33 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](money_dinosaur_2.png)
 
+"Dino Plant (hippie guy)"
+
+![](dino-plant.png)
+
 "a dinosaur stealing food from a restaurant"
 
 ![](restaurant_dinosaur.png)
+
+"Mohammad_Sahil_Mohammad_Sahil_dino"
+
+![](Mohammad_Sahil_Mohammad_Sahil_dino.png)
 
 "dinosaur doing code stuff"
 
 ![](code_dinosaur.png)
 
+"cool dinosaur with sunglasses"
+
+![](cooll-dino.png)
+
 "dino teaching"
 
 ![](dino_teaching.png)
+
+"dino_with_a_cap"
+
+![](notandrewdev_dino_with_a_cap.png)
 
 "dino handing docs"
 
@@ -85,6 +190,14 @@ human. top dinosaur is prophet orpheus about to hit up the club"
 
 ![](undercover_dinosaurs.png)
 
+"tired dino"
+
+![](tired-dino.png)
+
+"aaaaaaaa dino"
+
+![](aaaaa-dino.png)
+
 "dinosaur trying to contribute to open source but can't because its arms are too
 short"
 
@@ -110,6 +223,10 @@ short"
 
 ![](dinosaur_logo.png)
 
+"what the dino doin'?"
+
+![](dino_in_a_box_v2.png)
+
 "i have failed"
 
 ![](i_have_failed.png)
@@ -118,9 +235,21 @@ short"
 
 ![](dinosaur_holding_rubber_duck.png)
 
+"hyper dino wave"
+
+![](hyper-dino-wave.gif)
+
+"l3gacyb3ta's childhood nightmare"
+
+![](l3gacyb3ta_Piratedino.png)
+
 "dinosaur dressing up as a teenage mutant ninja turtle"
 
 ![](dinosaur_ninja.png)
+
+"dino from the office"
+
+![](orpheus-ms.png)
 
 "dinosaur sweating bullets"
 
@@ -130,9 +259,17 @@ short"
 
 ![](8-bit_dino.png)
 
+"pog_dino"
+
+![](qmogh_pog_dino.png)
+
 "handstand"
 
 ![](handstand.png)
+
+"Joker Dino"
+
+![](Joker_dino.png)
 
 "dinosaur trying to draw a dinosaur"
 
@@ -254,6 +391,10 @@ short"
 
 ![](MihirK018-mkdino.png)
 
+"makuzaverite_dino"
+
+![](makuzaverite_dino.png)
+
 "mims1234-Hackinorause"
 
 ![](mims1234-Hackinorause.png)
@@ -370,5 +511,52 @@ harshithap2000-dai_deprivation"
 
 ![](DotBlue01-dino.png)
 
+"scorp-dino"
+
+![](20leunge-scorpdino.png)
+
+"SrihanAnand-The-Dino-Dave.png"
+
+![](SrihanAnand-The-Dino-Dave.png)
+
+"Gamborlhini-top-hat-dino"
+
+![](Gamborlhini-top-hat-dino.png)
+
+"Mr Adiletta"
+
+![](Mr_Adiletta.png)
+
+"Xravarion-dinoo"
+
+![](Xravarion-dinoo.png)
+
+"leanachrist3703-dino.png"
+
+![](leanachrist3703-dino.png)
+
+"nukanuka-Zebra-Dino"
+
+![](nukanuka-Zebra-Dino.png)
+
+"confused ~cat~ dino being yelled at"
+
+![](ComradeKrona-Woman-Yelling-at-Dino.png)
+
+"Aaronpk47-dino"
+
+![](Aaronpk47-dinodad.png)
+
+"neelnayar23-dino"
+
+![](neelnayar23-dino.png)
+
+"Love dino"
+
+![](Pinklady28001-Love-dino.png)
+
+"orpheus & rubber duck buddy :D"
+
+![](marsx03-orpheus-&-rubber-duck-buddy.png)
+
 "When the dino wants a hug"
-![](Catseye124-dino-hugs.png)
