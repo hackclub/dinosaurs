@@ -2544,8 +2544,6 @@ harshithap2000-dai_deprivation"
 
 ![](jimi008_dino.png)
 
-the following lines to the bottom of the file:
-
 "18001767679_dino"
 
 ![](18001767679_dino.png)
@@ -2553,3 +2551,7 @@ the following lines to the bottom of the file:
 "nguyengiabach1201_noble_dino"
 
 ![](nguyengiabach1201_noble_dino.png)
+
+"dino with hair"
+
+![](dino_with_hair.png)
