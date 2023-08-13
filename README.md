@@ -27,6 +27,10 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"anshul606_dino"
+
+![](anshul606_dino.png)
+
 "Deno Dino"
 
 ![](deno-dino.jpg)
