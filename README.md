@@ -28,7 +28,9 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 "Dino Slap Bug"
+
 ![](64Dev_dinoSlapBug.png)
+
 "anshul606_dino"
 
 ![](anshul606_dino.png)
