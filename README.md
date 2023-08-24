@@ -2608,3 +2608,7 @@ harshithap2000-dai_deprivation"
 "flaming_dino_thunder"
 
 ![](Lokendrakushwah12_flaming_dino_thunder.png)
+
+"davi_marangoni_dino_guts_cosplay"
+
+![](davi_marangoni_dino_guts_cosplay.png)
