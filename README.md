@@ -2609,6 +2609,11 @@ harshithap2000-dai_deprivation"
 
 ![](Lokendrakushwah12_flaming_dino_thunder.png)
 
+"davi_marangoni_dino_guts_cosplay"
+
+![](davi_marangoni_dino_guts_cosplay.png)
+
 "itsvenu22_Plantation_dino"
 
 ![](itsvenu22_Plantation_dino.png)
+
