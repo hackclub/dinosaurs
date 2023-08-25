@@ -11,7 +11,7 @@ Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosa
 _Created by http://nathanielthealligator.tumblr.com/_
 
 ---
-
+  
 **Prophet Orpheus**
 
 _The Dinosaur Who Can Never Look Back_
@@ -2617,3 +2617,7 @@ harshithap2000-dai_deprivation"
 
 ![](itsvenu22_Plantation_dino.png)
 
+
+"DanonymousCoder_danonymous_dino"
+
+![](DanonymousCoder_danonymous_dino.png)
