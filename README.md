@@ -53,9 +53,7 @@ _The Dinosaur Who Can Never Look Back_
 
 "DomathID_dino"
 
-![](DomathID_dino.png)
-
-"Back Off Dino"
+c
 
 ![](backoff_dino.png)
 
@@ -2645,3 +2643,19 @@ harshithap2000-dai_deprivation"
 "tinywifi_knife_holding_hack_club_dino"
 
 ![](tinywifi_knife_holding_hack_club_dino.png)
+
+"pradeeptosarkar_dino_pradeepto"
+
+![](pradeeptosarkar_dino_pradeepto.png)
+
+"cskartikey's dino"
+
+![](cskartikey.svg)
+
+"jakjakob_coding_dino.png"
+
+![](jakjakob_coding_dino.png)
+
+"urobot2011_my_lol_dino" 
+
+![]( urobot2011_my_lol_dino.png )
