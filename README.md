@@ -2663,3 +2663,7 @@ harshithap2000-dai_deprivation"
 "Fedoop1_Dino_Sir"
 
 ![](Fedoop1_Dino_Sir.png)
+
+"crizmo_kurizu_dino"
+
+![](crizmo_kurizu_dino.png)
