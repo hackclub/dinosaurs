@@ -2688,3 +2688,7 @@ dd the following lines to the bottom of the file:
 "jdogcoder_jdogdino"
 
 ![](jdogcoder_jdogdino.png)
+
+"Kokonico_repl_dino"
+
+![](Kokonico_repl_dino.png)
