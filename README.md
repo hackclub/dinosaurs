@@ -2692,3 +2692,7 @@ dd the following lines to the bottom of the file:
 "Kokonico_repl_dino"
 
 ![](Kokonico_repl_dino.png)
+
+"jgsimpson15_dino"
+
+![](jgsimpson15_dino.png)
