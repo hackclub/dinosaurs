@@ -27,6 +27,9 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"jack's confused dino"
+![](confused%20dino.jpg)
+
 "mathislajs_dino_happy__"
 
 ![](mathislajs_dino_happy__.png)
