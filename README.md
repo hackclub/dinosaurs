@@ -27,6 +27,10 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"mathislajs_dino_happy__"
+
+![](mathislajs_dino_happy__.png)
+
 "Dino Slap Bug"
 
 ![](64Dev_dinoSlapBug.png)
