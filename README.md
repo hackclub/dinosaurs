@@ -28,7 +28,12 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 "jack's confused dino"
+
 ![](confused%20dino.jpg)
+
+"ethndotsh_dino"
+
+![](ethndotsh_dino.png)
 
 "mathislajs_dino_happy__"
 
