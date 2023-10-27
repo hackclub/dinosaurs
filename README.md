@@ -27,6 +27,18 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"jack's confused dino"
+
+![](confused%20dino.jpg)
+
+"ethndotsh_dino"
+
+![](ethndotsh_dino.png)
+
+"mathislajs_dino_happy__"
+
+![](mathislajs_dino_happy__.png)
+
 "Dino Slap Bug"
 
 ![](64Dev_dinoSlapBug.png)
@@ -2679,7 +2691,6 @@ harshithap2000-dai_deprivation"
 "Nluo923_dinouloo"
 
 ![](Nluo923_dinouloo.png)
-dd the following lines to the bottom of the file:
 
 "chaitanya44444_dino"
 
@@ -2689,3 +2700,24 @@ dd the following lines to the bottom of the file:
 "drvnprgrmr_smile"
 
 ![](drvnprgrmr_smile.png)
+
+"jdogcoder_jdogdino"
+
+![](jdogcoder_jdogdino.png)
+
+"aramshi_dino"
+
+![](aramshi_dino.png)
+
+"Kokonico_repl_dino"
+
+![](Kokonico_repl_dino.png)
+
+"jgsimpson15_dino"
+
+![](jgsimpson15_dino.png)
+
+"jewlexx_locchy"
+
+![](jewlexx_locchy.png)
+
