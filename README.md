@@ -2627,21 +2627,24 @@ harshithap2000-dai_deprivation"
 
 ![](itsvenu22_Plantation_dino.png)
 
-
 "DanonymousCoder_danonymous_dino"
 
 ![](DanonymousCoder_danonymous_dino.png)
 
 "NayanKanaparthi_newdino"
+
 ![](NayanKanaparthi_newdino.png)
 
 "Ehren12_dino"
+
 ![](Ehren12_dinobunny.png)
 
 "BSW_G_D_iph6_dino"
+
 ![](BSW_G_D_iph6_dino.png)
 
 "Shuklaaa_dino"
+
 ![](Shuklaaa_dino.png)
 
 "gotimo2_dino"
@@ -2662,7 +2665,7 @@ harshithap2000-dai_deprivation"
 
 "cskartikey's dino"
 
-![](cskartikey.svg)
+![](cskartikey.png)
 
 "jakjakob_coding_dino.png"
 
@@ -2720,4 +2723,37 @@ harshithap2000-dai_deprivation"
 "jewlexx_locchy"
 
 ![](jewlexx_locchy.png)
+
+
+"ArthurDotSaito_samuraiDino"
+
+![](ArthurDotSaito_samuraiDino.png)
+
+"glitchyfuzzy_binosaur"
+
+![](glitchyfuzzy_binosaur.png)
+
+"electricSoda_dino"
+
+![](electricSoda_dino.png)
+
+"therealdhruv_awesomeDino"
+
+![](therealdhruv_awesomeDino.png)
+
+"sparshmanni_tracos"
+
+![](sparshmanni_tracos.png)
+
+"BrightTheBackpack_brightsdino"
+
+![](BrightTheBackpack_brightsdino.png)
+
+"amuseee_dinotype"
+
+![](amuseee_dinotype.png)
+
+"manik_007_dino"
+
+![](manik_007_dino.png)
 
