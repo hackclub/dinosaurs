@@ -2764,3 +2764,7 @@ harshithap2000-dai_deprivation"
 "Ivanseven_HackClub_Dino"
 
 ![](Ivanseven_HackClub_Dino.png)
+
+"sam1980224_dino"
+
+![](sam1980224_dino.png)
