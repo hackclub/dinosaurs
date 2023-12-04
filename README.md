@@ -27,6 +27,10 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"The Guy Dangerous Dino"
+
+![](TheGuyDangerous_GuyDangerousDino.png)
+
 "jack's confused dino"
 
 ![](confused%20dino.jpg)
