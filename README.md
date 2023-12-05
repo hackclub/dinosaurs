@@ -2783,3 +2783,59 @@ harshithap2000-dai_deprivation"
 "zacharias1219_dino"
 
 ![](zacharias1219_dino.png)
+
+"dinosaur trying but failing to hold hands"
+
+![](dinosaur_trying_but_failing_to_hold_hands.png)
+
+"dinosaur licking a pile of hands"
+
+![](dinosaur_licking_a_pile_of_hands.png)
+
+"dinosaur can't believe there's no code"
+
+![](dinosaur_cant_believe_theres_no_code.png)
+
+"dinosaur with too much coffee"
+
+![](dinosaur_with_too_much_coffee.png)
+
+"dinosaur eating a table"
+
+![](dino_eating_table.png)
+
+"cool glasses dino"
+
+![](cool_glasses_dino.png)
+
+"shocked dino"
+
+![](shock_dino.png)
+
+"anxious dino"
+
+![](anxious_dino.png)
+
+"dino falling in love at first sight"
+
+![](love_at_first_sight_dino.png)
+
+"what is heck?"
+
+![](what_is_heck_dino.png)
+
+"simple dino"
+
+![](simple_dino.png)
+
+"dino drawing tutorial"
+
+![](dino_drawing_tutorial.png)
+
+"dino in an emergency"
+
+![](dino_in_an_emergency.png)
+
+"dino in a teapot"
+
+![](dino_in_a_teapot.png)
