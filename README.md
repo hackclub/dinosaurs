@@ -27,6 +27,47 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+
+"dino being a rad skater girl"
+
+![](rad_skater_dino.png)
+
+"crying dino"
+
+![](crying_dino.png)
+
+"waaaaah"
+
+![](waaaah_dino.png)
+
+"laughing dino"
+
+![](laughing_dino.png)
+
+"needs sleep"
+
+![](dino_needs_sleep.png)
+
+"confused"
+
+![](confused_dino.png)
+
+"hesitating"
+
+![](dino_hesitating.png)
+
+"angy"
+
+![](angry_dino.png)
+
+"sees something she wants"
+
+![](dino_sees_something_she_wants.png)
+
+"don't do this at work!"
+
+![](dino_doing_stuff_not_safe_for_work.png)
+
 "The Guy Dangerous Dino"
 
 ![](TheGuyDangerous_GuyDangerousDino.png)
@@ -2839,3 +2880,43 @@ harshithap2000-dai_deprivation"
 "dino in a teapot"
 
 ![](dino_in_a_teapot.png)
+
+"twin peaks dino"
+
+![](twin_peaks_dino.png)
+
+"truth is, I was poorly drawn from the start"
+
+![](rigged_from_the_start_dino.png)
+
+"dino playing cricket"
+
+![](dino_playing_cricket.png)
+
+"dino drinking ranch dressing"
+
+![](dino_drinking_ranch.png)
+
+"dino driving for an FRC team"
+
+![](dino_driving_a_frc_robot.png)
+
+"dino driving on a robot"
+
+![](dino_driving_a_robot.png)
+
+"engineering dino"
+
+![](engineering_dino.png)
+
+"dino learns about magic white smoke"
+
+![](dino_learning_about_electronics.png)
+
+"dino learns about shapes"
+
+![](dino_learning_about_shapes.png)
+
+"dino dressed as a robot for halloween"
+
+![](dino_dressed_like_robot_for_halloween.png)
