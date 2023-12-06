@@ -2832,6 +2832,7 @@ harshithap2000-dai_deprivation"
 
 ![](dino_drawing_tutorial.png)
 
+
 "dino in an emergency"
 
 ![](dino_in_an_emergency.png)
@@ -2839,3 +2840,7 @@ harshithap2000-dai_deprivation"
 "dino in a teapot"
 
 ![](dino_in_a_teapot.png)
+
+"AdityaBhate_dino_dino"
+
+![](AdityaBhate_dino_dino.png)
