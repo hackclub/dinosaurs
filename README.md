@@ -2925,3 +2925,7 @@ harshithap2000-dai_deprivation"
 "AdityaBhate_dino_dino"
 
 ![](AdityaBhate_dino_dino.png)
+
+"sus..."
+
+![](Aquoria_sus_dino.png)
