@@ -72,6 +72,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](TheGuyDangerous_GuyDangerousDino.png)
 
+"Neutx_dino"
+
+![](Neutx_dino.png)
+
 "jack's confused dino"
 
 ![](confused%20dino.jpg)
