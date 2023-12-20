@@ -72,6 +72,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](TheGuyDangerous_GuyDangerousDino.png)
 
+"Neutx_dino"
+
+![](Neutx_dino.png)
+
 "jack's confused dino"
 
 ![](confused%20dino.jpg)
@@ -2941,3 +2945,11 @@ harshithap2000-dai_deprivation"
 "AyaanT0_dinostein"
 
 ![](AyaanT0_dinostein.png)
+
+"juni37_dino_paul"
+
+![](juni37_dino_paul.png)
+
+"mesaumya_dino_the_producer"
+
+![](mesaumya_dino_the_producer.png)
