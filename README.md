@@ -40,6 +40,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](waaaah_dino.png)
 
+"carlitos"
+
+![](cesar_ayar_carlitos.png)
+
 "laughing dino"
 
 ![](laughing_dino.png)
