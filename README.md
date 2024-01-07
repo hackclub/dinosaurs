@@ -40,6 +40,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](waaaah_dino.png)
 
+"carlitos"
+
+![](cesar_ayar_carlitos.png)
+
 "laughing dino"
 
 ![](laughing_dino.png)
@@ -2962,6 +2966,16 @@ harshithap2000-dai_deprivation"
 
 ![](Sidd_underscore_sidd_s_dino.png)
 
+
 "OgaDavid_dino_star"
 
 ![](OgaDavid_dino_star.png)
+
+"skifli_chonkosaurus"
+
+![](skifli_chonkosaurus.png)
+
+"KshitizRana_dino"
+
+![](KshitizRana_dino.png)
+
