@@ -40,6 +40,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](waaaah_dino.png)
 
+"carlitos"
+
+![](cesar_ayar_carlitos.png)
+
 "laughing dino"
 
 ![](laughing_dino.png)
@@ -2954,6 +2958,44 @@ harshithap2000-dai_deprivation"
 
 ![](mesaumya_dino_the_producer.png)
 
+
 "dino-rks"
 
 ![](dino-rks.png)
+
+"AverseABFun_RAWR"
+
+![](AverseABFun_RAWR.png)
+
+"Sidd_underscore_sidd_s_(party)_dino"
+
+![](Sidd_underscore_sidd_s_dino.png)
+
+
+"OgaDavid_dino_star"
+
+![](OgaDavid_dino_star.png)
+
+"skifli_chonkosaurus"
+
+![](skifli_chonkosaurus.png)
+
+"annoyed and sort of angry dino"
+
+![](sa1l1_dino.png)
+
+"KshitizRana_dino"
+
+![](KshitizRana_dino.png)
+
+
+"FireBreather65_beany_copter"
+
+![](FireBreather65_beany_copter.png)
+
+
+"EnigmaByte7_dino"
+
+![](EnigmaByte7_dino.png)
+
+
