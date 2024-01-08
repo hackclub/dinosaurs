@@ -2975,10 +2975,21 @@ harshithap2000-dai_deprivation"
 
 ![](skifli_chonkosaurus.png)
 
+"annoyed and sort of angry dino"
+
+![](sa1l1_dino.png)
+
 "KshitizRana_dino"
 
 ![](KshitizRana_dino.png)
 
+
 "FireBreather65_beany_copter"
 
 ![](FireBreather65_beany_copter.png)
+
+
+"EnigmaByte7_dino"
+
+![](EnigmaByte7_dino.png)
+
