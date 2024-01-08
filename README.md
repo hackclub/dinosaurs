@@ -2975,6 +2975,10 @@ harshithap2000-dai_deprivation"
 
 ![](skifli_chonkosaurus.png)
 
+"annoyed and sort of angry dino"
+
+![](sa1l1_dino.png)
+
 "KshitizRana_dino"
 
 ![](KshitizRana_dino.png)
