@@ -4,7 +4,7 @@
 
 Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosaur. Prophet Orpheus is always getting into crazy adventures, from stealing food to going to the moon. She is usually drawn in black and white in limited drawing programs like MS Paint or Pinta.
 
-[Draw your own dino >>](https://hack.af/make-dino)
+[Draw our own dino >>](https://hack.af/make-dino)
 
 [Read the story of Orpheus >>](https://hackclub.com/workshops/orpheus)
 
@@ -128,7 +128,7 @@ c
 
 "AsherCarneiro_bro_think_he_cool___"
 
-![](AsherCarneiro_bro_think_he_cool___.png)
+![](            AsherCarneiro_bro_think_he_cool___.png            )
 
 "das_amit_yoshi_dino"
 
@@ -422,9 +422,9 @@ short"
 
 ![](Sujanram-dino.png)
 
-"necrosis2010-chillnibs.png"
+ "necrosis2010-chillnibs.png" 
 
-![](necrosis2010-chillnibs.png)
+![]( necrosis2010-chillnibs.png )
 
 "Piyush-Aneja-dino.png"
 
@@ -554,9 +554,9 @@ harshithap2000-dai_deprivation"
 
 ![](somyasriv16-dino_attention.png)
 
-"harshraj21-mydino"
+"harshraj21- ourdino"
 
-![](harshraj21-mydino.png)
+![](harshraj21-ourdino.png)
 
 "pizza lover"
 
@@ -626,15 +626,15 @@ harshithap2000-dai_deprivation"
 
 ![](Pinklady28001-Love-dino.png)
 
-"orpheus & rubber duck buddy :D"
+"orpheus & rubber duck comrade :D"
 
-![](marsx03-orpheus-&-rubber-duck-buddy.png)
+![](marsx03-orpheus-&-rubber-duck-comrade.png)
 
 "When the dino wants a hug"
 
 ![](Catseye124-dino-hugs.png)
 
-"it's my birthday"
+"it's our birthday"
 
 ![](emmanueluc322-ItsmyBirthday.png)
 
@@ -686,9 +686,9 @@ harshithap2000-dai_deprivation"
 
 ![](baby-dino.png)
 
-"dino and octocat becoming friends"
+"dino and octocat becoming comrades"
 
-![](dino_and_octocat_becoming_friends.png)
+![](dino_and_octocat_becoming_comrades.png)
 
 "dino-onboarding-call"
 
@@ -1011,7 +1011,7 @@ harshithap2000-dai_deprivation"
 
 ![](David_Lazaro_Fernandez_dino_worried.png)
 
-"Dino is your client"
+"Dino is our client"
 
 ![](dino_is_your_client.png)
 
@@ -1347,7 +1347,7 @@ harshithap2000-dai_deprivation"
 
 ![](Axarva_graduating_dino.png)
 
-"Did my Pull Request get merged yet?"
+"Did our Pull Request get merged yet?"
 
 ![](weeklyd3_dino.png)
 
@@ -1791,9 +1791,9 @@ harshithap2000-dai_deprivation"
 
 ![](X3N064_dino.png)
 
-"Mystery_2_Dev_dino"
+" Ourstery_2_Dev_dino"
 
-![](Mystery_2_Dev_dino.png)
+![](Our stery_2_Dev_dino.png)
 
 "khalby786_femaledinowiththreeeyes"
 
@@ -2198,7 +2198,7 @@ harshithap2000-dai_deprivation"
 
 "palakg12_monster_dino"
 
-![](palakg12_monster_dino.png)
+![]( palakg12_monster_dino.png )
 
 "das-amit_weird-dino"
 
@@ -2310,7 +2310,7 @@ harshithap2000-dai_deprivation"
 
 "ashish_gopalika_dino_ash_png"
 
-![](ashish_gopalika_dino_ash_png.png)
+![]( ashish_gopalika_dino_ash_png.png )
 
 "manassinghdewari_dino"
 
@@ -2510,7 +2510,7 @@ harshithap2000-dai_deprivation"
 
 "Pal_Sandeep_Sandeep_Pal"
 
-![](Pal_Sandeep_Sandeep_Pal.png)
+![](Pal_Sandeep_Sandeep_ Comrade .png)
 
 "iamstepaul_dino"
 
@@ -2956,7 +2956,7 @@ harshithap2000-dai_deprivation"
 
 "mesaumya_dino_the_producer"
 
-![](mesaumya_dino_the_producer.png)
+![](  mesaumya_dino_the_producer.png  )
 
 
 "dino-rks"
@@ -3016,3 +3016,9 @@ harshithap2000-dai_deprivation"
 "v1peridae_roblox_dino__looks_like_the_roblox_meme_"
 
 ![](v1peridae_roblox_dino__looks_like_the_roblox_meme_.png)
+
+"Dino boi wiv spky teeth"
+
+![](ruben)
+
+
