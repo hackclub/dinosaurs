@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"Dino with his buddy"
+![buddy's_dino](https://github.com/shyakachaste/dinosaurs/assets/121980393/6b93d409-3d94-4236-9321-67307a8ac9a6)
+
+
 "dino being a rad skater girl"
 
 ![](rad_skater_dino.png)
