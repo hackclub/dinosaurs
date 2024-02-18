@@ -3052,3 +3052,7 @@ harshithap2000-dai_deprivation"
 
 "Rizz dino" 
 ![](rizz_dino.png)
+
+"Dino playing Ibanez E. Guitar"
+
+![](Jonak_Adipta_Kalita_dino_playing_electric_guitar.png)
