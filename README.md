@@ -3056,3 +3056,8 @@ harshithap2000-dai_deprivation"
 "Dino playing Ibanez E. Guitar"
 
 ![](Jonak_Adipta_Kalita_dino_playing_electric_guitar.png)
+
+
+"JosiasAurel_rocky_dino"
+
+![](JosiasAurel_rocky_dino.png)
