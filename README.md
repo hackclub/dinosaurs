@@ -3091,4 +3091,4 @@ harshithap2000-dai_deprivation"
 
 "hugging_dino"
 
-![](hugging_dino.png)
+![](hugging_dino.jpg)
