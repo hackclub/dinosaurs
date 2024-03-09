@@ -27,7 +27,9 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"eshangonemad_denu"
 
+![](eshangonemad_denu.png)
 "Dino with his buddy"
 ![buddy's_dino](https://github.com/shyakachaste/dinosaurs/assets/121980393/6b93d409-3d94-4236-9321-67307a8ac9a6)
 
