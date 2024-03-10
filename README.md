@@ -28,9 +28,6 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
-"Dino with his buddy"
-![buddy's_dino](https://github.com/shyakachaste/dinosaurs/assets/121980393/6b93d409-3d94-4236-9321-67307a8ac9a6)
-
 
 "dino being a rad skater girl"
 
@@ -3097,6 +3094,10 @@ harshithap2000-dai_deprivation"
 
 ![](Mohd_Sultan_dino.png)
 
+
+"denu party's with his hand out"
+![](eshangonemad_denu.png)
+
 "Niko1234567890987654321_Dinosaul"
 
 ![](Niko1234567890987654321_Dinosaul.png)
@@ -3104,3 +3105,4 @@ harshithap2000-dai_deprivation"
 "Josepywz_smirking_dino"
 
 ![](Josepywz_smirking_dino.png)
+
