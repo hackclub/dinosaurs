@@ -3109,3 +3109,7 @@ harshithap2000-dai_deprivation"
 "Pranjal_singh_dino"
 
 ![](pranjalsingh03_dino(l).png)
+
+"TheOtherTridentGuy's dino_plane"
+
+![](TheOtherTridentGuy_dino_plane.png)
