@@ -3113,3 +3113,7 @@ harshithap2000-dai_deprivation"
 "TheOtherTridentGuy's dino_plane"
 
 ![](TheOtherTridentGuy_dino_plane.png)
+
+"lucasplcorrea - Ozzysaur"
+
+![](lucasplcorrea_ozzysaur.png)
