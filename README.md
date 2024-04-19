@@ -3165,6 +3165,10 @@ harshithap2000-dai_deprivation"
 
 ![](ArjunDandagi_aisaurus.png)
 
+"readme.md was hard to find_dino"
+
+![](bowie_dev_dino__OR_1___1_____1.png)
+
 "aaditya_paul_dino"
 
 ![](aaditya_paul_dino.png)
