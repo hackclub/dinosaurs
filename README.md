@@ -3172,4 +3172,4 @@ harshithap2000-dai_deprivation"
 
 "AnuOluwatomiwa_dino"
 
-![](AnuOluwatomiwa_dino.png)
+![](AnuOluwatomiwa_dino.heic)
