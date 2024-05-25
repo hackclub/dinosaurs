@@ -37,6 +37,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](crying_dino.png)
 
+"nav9v_dino"
+
+![](nav9v_dino.png)
+
 "waaaaah"
 
 ![](waaaah_dino.png)
