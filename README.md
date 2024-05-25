@@ -3183,7 +3183,6 @@ harshithap2000-dai_deprivation"
 
 ![](Luna5379_orpheus_orpheus_orpheus___.png)
 
-
 "DaInfLoop_orpheus_but_better"
 
 ![](DaInfLoop_orpheus_but_better.png)
@@ -3195,3 +3194,16 @@ harshithap2000-dai_deprivation"
 "trusebass jokester dino"
 
 ![](trusebass_dino.png)
+
+"akpi816218_tux_dino"
+
+![](akpi816218_tux_dino.png)
+
+"john_kelsey_dino"
+
+![](john_kelsey_dino.png)
+
+"jzaleta_dino"
+
+![](jzaleta_dino.png)
+
