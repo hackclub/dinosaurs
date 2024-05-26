@@ -37,10 +37,6 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](crying_dino.png)
 
-"nav9v_dino"
-
-![](nav9v_dino.png)
-
 "waaaaah"
 
 ![](waaaah_dino.png)
@@ -3207,3 +3203,7 @@ harshithap2000-dai_deprivation"
 "jzaleta_dino"
 
 ![](jzaleta_dino.png)
+
+"nav9v_dino"
+
+![](nav9v_dino.png)
