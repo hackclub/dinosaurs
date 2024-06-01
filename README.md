@@ -3183,7 +3183,6 @@ harshithap2000-dai_deprivation"
 
 ![](Luna5379_orpheus_orpheus_orpheus___.png)
 
-
 "DaInfLoop_orpheus_but_better"
 
 ![](DaInfLoop_orpheus_but_better.png)
@@ -3191,6 +3190,10 @@ harshithap2000-dai_deprivation"
 "ZigaoWang_dino_king"
 
 ![](ZigaoWang_dino_king.png)
+
+"trusebass jokester dino"
+
+![](trusebass_dino.png)
 
 "akpi816218_tux_dino"
 
@@ -3237,6 +3240,7 @@ harshithap2000-dai_deprivation"
 "BrighamHileman_Gerard_III"
 
 ![](BrighamHileman_Gerard_III.png)
+
 
 
 
