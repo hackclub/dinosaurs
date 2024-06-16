@@ -3259,4 +3259,7 @@ harshithap2000-dai_deprivation"
 ![](CreativityShark_orpheus_glowup.png)
 
 
+![Owlfx_notlikusoraus](https://github.com/Owlfx/dinosaurs/assets/136026268/394e47b0-886e-48fc-88ca-ce3c6504bc2a)
+
+"anti-drizzyasorus a.k.a notlikusoraus"
 
