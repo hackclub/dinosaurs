@@ -3057,17 +3057,13 @@ harshithap2000-dai_deprivation"
 
 ![](Jonak_Adipta_Kalita_dino_playing_electric_guitar.png)
 
-
 "JosiasAurel_rocky_dino"
 
 ![](JosiasAurel_rocky_dino.png)
 
-
 "T4533N_dino"
 
 ![](T4533N_dino.png)
-
-
 
 "shivaninuji_minmi"
 
@@ -3208,11 +3204,9 @@ harshithap2000-dai_deprivation"
 
 ![](john_kelsey_dino.png)
 
-
 "PlurrYT_Kolama_dino"
 
 ![](PlurrYT_Kolama_dino.png)
-
 
 "parkingTurkeys_dino_vampire"
 
@@ -3222,11 +3216,9 @@ harshithap2000-dai_deprivation"
 
 ![](jzaleta_dino.png)
 
-
 "NimitVijayvargee_giraf"
 
 ![](NimitVijayvargee_giraf.png)
-
 
 "Firepup6500_irritated_on_fire_dino"
 
@@ -3240,11 +3232,9 @@ harshithap2000-dai_deprivation"
 
 ![](pepedino.png)
 
-
 "SarthakSKumar_whisker_dino"
 
 ![](SarthakSKumar_whisker_dino.png)
-
 
 "BrighamHileman_Gerard_III"
 
@@ -3257,6 +3247,10 @@ harshithap2000-dai_deprivation"
 "CreativityShark_orpheus_glowup"
 
 ![](CreativityShark_orpheus_glowup.png)
+
+"Happy dino"
+
+![](trwy7_dino.png)
 
 "creeperlulu_chilling_dino"
 
