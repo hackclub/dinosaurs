@@ -81,6 +81,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](Neutx_dino.png)
 
+"Yoshigamer360_Yoshisauras"
+
+![](Yoshigamer360_Yoshisauras.png)
+
 "jack's confused dino"
 
 ![](confused%20dino.jpg)
