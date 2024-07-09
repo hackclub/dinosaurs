@@ -3360,4 +3360,7 @@ harshithap2000-dai_deprivation"
 ![](KamilloDev_Pygame_Dino_.png)
 
 
+"curtainteddy_flowery_dino"
+
+![](curtainteddy_flowery_dino.png)
 
