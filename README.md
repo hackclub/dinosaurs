@@ -3377,6 +3377,10 @@ harshithap2000-dai_deprivation"
 
 ![](EmreKadirTiren_smyiling_dino.png)
 
+"Shibedev12's eepy dino"
+
+![](Shibedev12_sleepyboi.png)
+
 "curtainteddy_flowery_dino"
 
 ![](curtainteddy_flowery_dino.png)
