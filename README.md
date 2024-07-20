@@ -3437,8 +3437,9 @@ harshithap2000-dai_deprivation"
 
 ![](AlanDoesCS_Dino_programmer.png)
 
+"Irtaza2009_pleased_dino"
 
-
+![](Irtaza2009_pleased_dino.png)
 
 
 
