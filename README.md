@@ -3377,6 +3377,10 @@ harshithap2000-dai_deprivation"
 
 ![](EmreKadirTiren_smyiling_dino.png)
 
+"Shibedev12's eepy dino"
+
+![](Shibedev12_sleepyboi.png)
+
 "curtainteddy_flowery_dino"
 
 ![](curtainteddy_flowery_dino.png)
@@ -3420,8 +3424,13 @@ harshithap2000-dai_deprivation"
 
 ![](Brickbloke_one_piece_dino.png)
 
+"William5553_dino"
+
 
 "AlanDoesCS_Dino_programmer"
 
 ![](AlanDoesCS_Dino_programmer.png)
+
+
+![](William5553_dino.png)
 
