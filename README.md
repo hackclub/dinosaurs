@@ -315,6 +315,10 @@ short"
 
 ![](l3gacyb3ta_Piratedino.png)
 
+"dino moment"
+
+![](EnyCode_dino.png)
+
 "dinosaur dressing up as a teenage mutant ninja turtle"
 
 ![](dinosaur_ninja.png)
