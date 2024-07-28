@@ -3445,6 +3445,9 @@ harshithap2000-dai_deprivation"
 
 ![](Irtaza2009_pleased_dino.png)
 
+"Luke_Oldenburg_lukie_pookie"
+
+![](Luke_Oldenburg_lukie_pookie.png)
 
 "leowilkin_nerdy_dino"
 
