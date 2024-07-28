@@ -315,6 +315,10 @@ short"
 
 ![](l3gacyb3ta_Piratedino.png)
 
+"dino moment"
+
+![](EnyCode_dino.png)
+
 "dinosaur dressing up as a teenage mutant ninja turtle"
 
 ![](dinosaur_ninja.png)
@@ -3441,6 +3445,24 @@ harshithap2000-dai_deprivation"
 
 ![](Irtaza2009_pleased_dino.png)
 
+
 "leowilkin_nerdy_dino"
 
 ![](leowilkin_nerdy_dino.png)
+
+"SidharthBhatt_sad_dino"
+
+
+![](SidharthBhatt_sad_dino.png)
+
+"Anik2812_dino"
+
+![](Anik2812_dino.png)
+
+"meAyushSharma_dino_san"
+
+![](meAyushSharma_dino_san.png)
+
+
+
+
