@@ -3071,7 +3071,7 @@ harshithap2000-dai_deprivation"
 
 "sapientabdullah_abdullah_s_dino"
 
-![]("Abdullah's_Dino.png")
+![]("Abdullah_Dino.png")
 
 "hugging_dino"
 
