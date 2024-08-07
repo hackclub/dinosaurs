@@ -3039,7 +3039,7 @@ harshithap2000-dai_deprivation"
 
 "Ranjan1231231_dino"
 
-![](Ranjan1231231_dino%20(1).png)
+![](Ranjan1231231_dino_(1).png)
 
 "Rizz dino"
 
@@ -3071,7 +3071,7 @@ harshithap2000-dai_deprivation"
 
 "sapientabdullah_abdullah_s_dino"
 
-![]("Abdullah's%20Dino.png")
+![]("Abdullah's_Dino.png")
 
 "hugging_dino"
 
@@ -3165,9 +3165,9 @@ harshithap2000-dai_deprivation"
 
 ![](Luna5379_orpheus_orpheus_orpheus___.png)
 
-"SerenityUX_dino (1).png"
+"SerenityUX_dino.png"
 
-![](SerenityUX_dino%20(1).png)
+![](SerenityUX_dino.png)
 
 "DaInfLoop_orpheus_but_better"
 
