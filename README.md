@@ -3474,3 +3474,7 @@ harshithap2000-dai_deprivation"
 
 ![](itsmeadarsh2008_dino_cap.png)
 
+"thelegendofmario_socky_dino"
+
+![](thelegendofmario_socky_dino.png)
+
