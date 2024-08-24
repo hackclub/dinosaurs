@@ -3505,3 +3505,7 @@ harshithap2000-dai_deprivation"
 "mattsoh_dino"
 
 ![](mattsoh_dino.png)
+
+"MichaelK_F_dino_with_sun_glasses"
+
+![](MichaelK_F_dino_with_sun_glasses.png)
