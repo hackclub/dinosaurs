@@ -11,7 +11,7 @@ Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosa
 _Created by http://nathanielthealligator.tumblr.com/_
 
 ---
-  
+
 **Prophet Orpheus**
 
 _The Dinosaur Who Can Never Look Back_
@@ -27,7 +27,6 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
-
 
 "dino being a rad skater girl"
 
@@ -89,7 +88,7 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](ethndotsh_dino.png)
 
-"mathislajs_dino_happy__"
+"mathislajs_dino_happy\_\_"
 
 ![](mathislajs_dino_happy__.png)
 
@@ -127,7 +126,7 @@ c
 
 ![](das_amit_dragonair_dino.png)
 
-"AsherCarneiro_bro_think_he_cool___"
+"AsherCarneiro_bro_think_he_cool\_\_\_"
 
 ![](AsherCarneiro_bro_think_he_cool___.png)
 
@@ -146,7 +145,7 @@ c
 "ramiz03_professor_dino"
 
 ![](ramiz03_professor_dino.png)
- 
+
 "teddyoweh_teddydino"
 
 ![](teddyoweh_teddydino.png)
@@ -353,7 +352,7 @@ short"
 
 "Old Dino"
 
-![](Ancient&#32;Orpheus.png)
+![](<Ancient Orpheus.png>)
 
 "reddit dino"
 
@@ -419,7 +418,7 @@ short"
 
 ![](F1-P1-ARRAY.png)
 
-"PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png"
+"PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING\_.png"
 
 ![](PRATIKNALAWADE-DINO-JOEY-HOW-U-DOING_.png)
 
@@ -1008,7 +1007,7 @@ harshithap2000-dai_deprivation"
 
 ![](giridhar7632_rock_age_dino_jpg.png)
 
-"riturajjain2000_U_know_him___"
+"riturajjain2000_U_know_him\_\_\_"
 
 ![](riturajjain2000_U_know_him___.png)
 
@@ -1260,7 +1259,7 @@ harshithap2000-dai_deprivation"
 
 ![](rampus_bit_dino.png)
 
-"Ayush_SR_Dr__Dino___The_Saviour"
+"Ayush_SR_Dr**Dino\_**The_Saviour"
 
 ![](Ayush_SR_Dr__Dino___The_Saviour.png)
 
@@ -1362,7 +1361,7 @@ harshithap2000-dai_deprivation"
 
 "AbhinavXT_AbhinavXT"
 
-![](AbhinavXT_AbhinavXT(1).png)
+![](<AbhinavXT_AbhinavXT(1).png>)
 
 "urbanbyte_dino"
 
@@ -1654,7 +1653,7 @@ harshithap2000-dai_deprivation"
 
 "JkDevArg_dino"
 
-![](JkDevArg_dino%20(1).png)
+![](<JkDevArg_dino%20(1).png>)
 
 "adityagi02_cutie_dino"
 
@@ -1676,7 +1675,7 @@ harshithap2000-dai_deprivation"
 
 ![](Bohemianna_The_Bohemianna.png)
 
-"ayush_sleeping_Sigma___dino"
+"ayush_sleeping_Sigma\_\_\_dino"
 
 ![](ayush_sleeping_Sigma___dino.png)
 
@@ -1884,7 +1883,7 @@ harshithap2000-dai_deprivation"
 
 ![](leomcelroy_dogo.png)
 
-"Mariannafairweather__1"
+"Mariannafairweather\_\_1"
 
 ![](Mariannafairweather_DINOCOP.png)
 
@@ -1996,7 +1995,6 @@ harshithap2000-dai_deprivation"
 
 ![](connordennison_dino.png)
 
-
 "ganning127_ganning_dino"
 
 ![](ganning127_ganning_dino.png)
@@ -2049,7 +2047,7 @@ harshithap2000-dai_deprivation"
 
 ![](Peiprjs_imin.png)
 
-"Raiyaxi_Ziaoi_happy_dino__3"
+"Raiyaxi_Ziaoi_happy_dino\_\_3"
 
 ![](Raiyaxi_Ziaoi_happy_dino__3.png)
 
@@ -2161,7 +2159,7 @@ harshithap2000-dai_deprivation"
 
 ![](Saurav50_dino.png)
 
-"Ashutosh_510_firedino_"
+"Ashutosh*510_firedino*"
 
 ![](Ashutosh_510_firedino_.png)
 
@@ -2357,7 +2355,7 @@ harshithap2000-dai_deprivation"
 
 ![](fykaa_FrolicDino.png)
 
-"asubramanian08__1_dino"
+"asubramanian08\_\_1_dino"
 
 ![](asubramanian08__1_dino.png)
 
@@ -2367,7 +2365,7 @@ harshithap2000-dai_deprivation"
 
 "Ahkam1225_dino"
 
-![](Ahkam1225_dino.png) 
+![](Ahkam1225_dino.png)
 
 "rushikeshsuryawanshi_dino_happy"
 
@@ -2421,7 +2419,7 @@ harshithap2000-dai_deprivation"
 
 ![](Roizor_tooth.png)
 
-"KoningAbel_Dino_"
+"KoningAbel*Dino*"
 
 ![](KoningAbel_Dino_.png)
 
@@ -2729,15 +2727,15 @@ harshithap2000-dai_deprivation"
 
 ![](jakjakob_coding_dino.png)
 
-"urobot2011_my_lol_dino" 
+"urobot2011_my_lol_dino"
 
-![]( urobot2011_my_lol_dino.png )
+![](urobot2011_my_lol_dino.png)
 
 "Fedoop1_Dino_Sir"
 
 ![](Fedoop1_Dino_Sir.png)
 
-"crizmo_kurizu_dino" 
+"crizmo_kurizu_dino"
 
 ![](crizmo_kurizu_dino.png)
 
@@ -2756,7 +2754,6 @@ harshithap2000-dai_deprivation"
 "chaitanya44444_dino"
 
 ![](chaitanya44444_dino.png)
-
 
 "drvnprgrmr_smile"
 
@@ -2781,7 +2778,6 @@ harshithap2000-dai_deprivation"
 "jewlexx_locchy"
 
 ![](jewlexx_locchy.png)
-
 
 "ArthurDotSaito_samuraiDino"
 
@@ -2886,7 +2882,6 @@ harshithap2000-dai_deprivation"
 
 ![](dino_drawing_tutorial.png)
 
-
 "dino in an emergency"
 
 ![](dino_in_an_emergency.png)
@@ -2957,14 +2952,11 @@ harshithap2000-dai_deprivation"
 
 "juni37_dino_paul"
 
-
-
 ![](juni37_dino_paul.png)
 
 "mesaumya_dino_the_producer"
 
 ![](mesaumya_dino_the_producer.png)
-
 
 "dino-rks"
 
@@ -2974,10 +2966,9 @@ harshithap2000-dai_deprivation"
 
 ![](AverseABFun_RAWR.png)
 
-"Sidd_underscore_sidd_s_(party)_dino"
+"Sidd*underscore_sidd_s*(party)\_dino"
 
 ![](Sidd_underscore_sidd_s_dino.png)
-
 
 "OgaDavid_dino_star"
 
@@ -2995,16 +2986,13 @@ harshithap2000-dai_deprivation"
 
 ![](KshitizRana_dino.png)
 
-
 "FireBreather65_beany_copter"
 
 ![](FireBreather65_beany_copter.png)
 
-
 "EnigmaByte7_dino"
 
 ![](EnigmaByte7_dino.png)
-
 
 "kirby_b_kirby_b_dino"
 
@@ -3014,20 +3002,17 @@ harshithap2000-dai_deprivation"
 
 ![](kevinjosethomas_coquette_dino.png)
 
-
 "wesleybertipaglia_the_happy_dino"
 
 ![](wesleybertipaglia_the_happy_dino.png)
 
-
-"v1peridae_roblox_dino__looks_like_the_roblox_meme_"
+"v1peridae*roblox_dino\_\_looks_like_the_roblox_meme*"
 
 ![](v1peridae_roblox_dino__looks_like_the_roblox_meme_.png)
 
-
 "snipchu_dino"
 
-![](snipchu_dino(1).png)
+![](<snipchu_dino(1).png>)
 
 "taixiyubisb_Dino_for_cs"
 
@@ -3073,16 +3058,13 @@ harshithap2000-dai_deprivation"
 
 ![](shivaninuji_minmi.png)
 
-
 "Sheepy3_catdino"
 
 ![](Sheepy3_catdino.png)
 
-
 "khuramgill_Dino_Agile"
 
 ![](khuramgill_Dino_Agile.png)
-
 
 "sapientabdullah_abdullah_s_dino"
 
@@ -3095,7 +3077,6 @@ harshithap2000-dai_deprivation"
 "Mohd_Sultan_dino"
 
 ![](Mohd_Sultan_dino.png)
-
 
 "denu party's with his hand out"
 ![](eshangonemad_denu.png)
@@ -3110,7 +3091,7 @@ harshithap2000-dai_deprivation"
 
 "Pranjal_singh_dino"
 
-![](pranjalsingh03_dino(l).png)
+![](<pranjalsingh03_dino(l).png>)
 
 "TheOtherTridentGuy's dino_plane"
 
@@ -3128,10 +3109,9 @@ harshithap2000-dai_deprivation"
 
 ![](Rajashekhar_Reddy_graduated_dino_crying.png)
 
-"FlipMods__P_dino"
+"FlipMods\_\_P_dino"
 
 ![](FlipMods__P_dino.png)
-
 
 "IntegerAlex_carzy_dino"
 
@@ -3169,20 +3149,17 @@ harshithap2000-dai_deprivation"
 
 ![](aaditya_paul_dino.png)
 
-
 "vracton_sideeyedino"
 
 ![](vracton_sideeyedino.png)
-
 
 "hazelwoodA_dino"
 
 ![](hazelwoodA_dino.png)
 
-"Luna5379_orpheus_orpheus_orpheus___"
+"Luna5379_orpheus_orpheus_orpheus\_\_\_"
 
 ![](Luna5379_orpheus_orpheus_orpheus___.png)
-
 
 "SerenityUX_dino (1).png"
 
@@ -3346,8 +3323,6 @@ harshithap2000-dai_deprivation"
 
 ![](AlanikREDAWN_dino.png)
 
-
-
 "dawoodb7869_dawood_s_dino"
 
 ![](dawoodb7869_dawood_s_dino.png)
@@ -3368,12 +3343,11 @@ harshithap2000-dai_deprivation"
 
 ![](dmcegan_dino.png)
 
-
 "manuthecoder_dino"
 
 ![](manuthecoder_dino.png)
 
-"KamilloDev_Pygame_Dino_"
+"KamilloDev*Pygame_Dino*"
 
 ![](KamilloDev_Pygame_Dino_.png)
 
@@ -3393,46 +3367,38 @@ harshithap2000-dai_deprivation"
 
 ![](potter_dino.png)
 
-
 "ikrishagarwal_dino"
 
 ![](ikrishagarwal_dino.png)
-
 
 "HelloSanskruti_Lil_Dino"
 
 ![](HelloSanskruti_Lil_Dino.png)
 
-
 "mr_Pheus"
 
 ![](mr_Pheus.png)
-
 
 "Somebud0180_dinoHmm"
 
 ![](Somebud0180_dinoHmm.png)
 
-
 "alexfrnn_dino_on_the_go"
 
 ![](alexfrnn_dino_on_the_go.png)
-
 
 "defrein_working_dino"
 
 ![](defrein_working_dino.png)
 
-
 "Brickbloke_one_piece_dino"
 
 ![](Brickbloke_one_piece_dino.png)
 
-
 "Aradhya_Shaswat_dino"
 
-![](Aradhya_Shaswat_dino.png)
-=======
+# ![](Aradhya_Shaswat_dino.png)
+
 "William5553_dino"
 
 ![](William5553_dino.png)
@@ -3454,7 +3420,6 @@ harshithap2000-dai_deprivation"
 ![](leowilkin_nerdy_dino.png)
 
 "SidharthBhatt_sad_dino"
-
 
 ![](SidharthBhatt_sad_dino.png)
 
