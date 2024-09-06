@@ -28,6 +28,11 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+
+"Silly :3 dino"
+
+![](FireEntity1__3.png)
+
 "dino being a rad skater girl"
 
 ![](rad_skater_dino.png)
@@ -3435,6 +3440,10 @@ harshithap2000-dai_deprivation"
 
 ![](Zihann73_dino.png)
 
+"PabRubio_dino_chicken"
+
+![](PabRubio_dino_chicken.png)
+
 "bineshpoudel_dino"
 
 ![](bineshpoudel_dino.png)
@@ -3463,6 +3472,34 @@ harshithap2000-dai_deprivation"
 
 ![](itsmeadarsh2008_dino_cap.png)
 
+"WolfGamer2_dino"
+
+![](WolfGamer2_dino.png)
+
+"SujalAgre_uncle_dino"
+
+![](SujalAgre_uncle_dino.png)
+
+"noibs_dino"
+
+![](noibs_dino.png)
+
+"s_saanvi_dino"
+
+![](s_saanvi_dino.png)
+
+"AdyaS2010_Orpheus_the_Hackasaurus_"
+
+![](AdyaS2010_Orpheus_the_Hackasaurus_.png)
+
+"Shuflduf_hell_yeah"
+
+![](Shuflduf_hell_yeah.png)
+
+"xHector1337_Big_Dino"
+
+![](xHector1337_Big_Dino.png)
+
 "AmNotAGoose_amongusdino"
 
 ![](AmNotAGoose_amongusdino.png)
@@ -3474,3 +3511,10 @@ harshithap2000-dai_deprivation"
 "NeonGamerBot_QK_dino_jpg"
 
 ![](NeonGamerBot_QK_dino_jpg.png)
+"CarlosYazid presents 🦖 with 🎩"
+
+![](CarlosYazid_dino_with_hat.png)
+
+"louspringer_dino"
+
+![](louspringer_dino.png)
