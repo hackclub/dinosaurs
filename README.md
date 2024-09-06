@@ -3506,6 +3506,10 @@ harshithap2000-dai_deprivation"
 
 ![](itsmeadarsh2008_dino_cap.png)
 
+"AdyaS2010_Orpheus_the_Hackasaurus_"
+
+![](AdyaS2010_Orpheus_the_Hackasaurus_.png)
+
 "Shuflduf_hell_yeah"
 
 ![](Shuflduf_hell_yeah.png)
