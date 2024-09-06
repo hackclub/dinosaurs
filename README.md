@@ -29,6 +29,10 @@ _The Dinosaur Who Can Never Look Back_
 ---
 
 
+"Silly :3 dino"
+
+![](FireEntity1__3.png)
+
 "dino being a rad skater girl"
 
 ![](rad_skater_dino.png)
