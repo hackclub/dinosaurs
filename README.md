@@ -3505,3 +3505,7 @@ harshithap2000-dai_deprivation"
 "mattsoh_dino"
 
 ![](mattsoh_dino.png)
+
+"CarlosYazid presents 🦖 with 🎩"
+
+![](CarlosYazid_dino_with_hat.png)
