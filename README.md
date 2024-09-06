@@ -3572,6 +3572,10 @@ harshithap2000-dai_deprivation"
 
 ![](mattsoh_dino.png)
 
+"NewSmoke38_Dino_s_heart"
+
+![](NewSmoke38_Dino_s_heart.png)
+
 "xriiitox_all_seeing_orpheus"
 
 ![](xriiitox_all_seeing_orpheus.png)
