@@ -27,7 +27,13 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"Ronnie5562_Ronnie_s_Dino"
 
+![](Ronnie5562_Ronnie_s_Dino.png)
+
+"Silly :3 dino"
+
+![](FireEntity1__3.png)
 
 "dino being a rad skater girl"
 
@@ -2415,7 +2421,7 @@ harshithap2000-dai_deprivation"
 
 "coci_dino"
 
-![](coci_dino.png)
+![](83117E03-F343_4eBD-A19E-B16F02C98294.png)
 
 "Roizor_tooth"
 
@@ -2577,7 +2583,7 @@ harshithap2000-dai_deprivation"
 
 ![](DestroyerXyz_deno.png)
 
-"GalaxyGamingBoy | Out of Box Dino with a Pizza as a hat"
+"GalaxyGamingBoy - Out of Box Dino with a Pizza as a hat"
 
 ![](GalaxyGamingBoy_out_of_box_dino_with_pizza_hat.png)
 
@@ -2757,7 +2763,6 @@ harshithap2000-dai_deprivation"
 
 ![](chaitanya44444_dino.png)
 
-
 "drvnprgrmr_smile"
 
 ![](drvnprgrmr_smile.png)
@@ -2781,7 +2786,6 @@ harshithap2000-dai_deprivation"
 "jewlexx_locchy"
 
 ![](jewlexx_locchy.png)
-
 
 "ArthurDotSaito_samuraiDino"
 
@@ -2830,6 +2834,7 @@ harshithap2000-dai_deprivation"
 "Shivag23_MoneyDino"
 
 ![](Shivag23_MoneyDino.png)
+
 "NightisFade_super_dino"
 
 ![](NightisFade_super_dino.png)
@@ -2885,7 +2890,6 @@ harshithap2000-dai_deprivation"
 "dino drawing tutorial"
 
 ![](dino_drawing_tutorial.png)
-
 
 "dino in an emergency"
 
@@ -2957,14 +2961,11 @@ harshithap2000-dai_deprivation"
 
 "juni37_dino_paul"
 
-
-
 ![](juni37_dino_paul.png)
 
 "mesaumya_dino_the_producer"
 
 ![](mesaumya_dino_the_producer.png)
-
 
 "dino-rks"
 
@@ -2977,7 +2978,6 @@ harshithap2000-dai_deprivation"
 "Sidd_underscore_sidd_s_(party)_dino"
 
 ![](Sidd_underscore_sidd_s_dino.png)
-
 
 "OgaDavid_dino_star"
 
@@ -2995,16 +2995,13 @@ harshithap2000-dai_deprivation"
 
 ![](KshitizRana_dino.png)
 
-
 "FireBreather65_beany_copter"
 
 ![](FireBreather65_beany_copter.png)
 
-
 "EnigmaByte7_dino"
 
 ![](EnigmaByte7_dino.png)
-
 
 "kirby_b_kirby_b_dino"
 
@@ -3014,16 +3011,13 @@ harshithap2000-dai_deprivation"
 
 ![](kevinjosethomas_coquette_dino.png)
 
-
 "wesleybertipaglia_the_happy_dino"
 
 ![](wesleybertipaglia_the_happy_dino.png)
 
-
 "v1peridae_roblox_dino__looks_like_the_roblox_meme_"
 
 ![](v1peridae_roblox_dino__looks_like_the_roblox_meme_.png)
-
 
 "snipchu_dino"
 
@@ -3051,7 +3045,7 @@ harshithap2000-dai_deprivation"
 
 "Ranjan1231231_dino"
 
-![](Ranjan1231231_dino.png)
+![](Ranjan1231231_dino_(1).png)
 
 "Rizz dino"
 
@@ -3073,20 +3067,17 @@ harshithap2000-dai_deprivation"
 
 ![](shivaninuji_minmi.png)
 
-
 "Sheepy3_catdino"
 
 ![](Sheepy3_catdino.png)
-
 
 "khuramgill_Dino_Agile"
 
 ![](khuramgill_Dino_Agile.png)
 
-
 "sapientabdullah_abdullah_s_dino"
 
-![](sapientabdullah_abdullah_s_dino.png)
+![]("Abdullah_Dino.png")
 
 "hugging_dino"
 
@@ -3096,8 +3087,8 @@ harshithap2000-dai_deprivation"
 
 ![](Mohd_Sultan_dino.png)
 
-
 "denu party's with his hand out"
+
 ![](eshangonemad_denu.png)
 
 "Niko1234567890987654321_Dinosaul"
@@ -3110,7 +3101,7 @@ harshithap2000-dai_deprivation"
 
 "Pranjal_singh_dino"
 
-![](pranjalsingh03_dino(l).png)
+![](pranjalsingh03_dino(1).png)
 
 "TheOtherTridentGuy's dino_plane"
 
@@ -3131,7 +3122,6 @@ harshithap2000-dai_deprivation"
 "FlipMods__P_dino"
 
 ![](FlipMods__P_dino.png)
-
 
 "IntegerAlex_carzy_dino"
 
@@ -3169,11 +3159,9 @@ harshithap2000-dai_deprivation"
 
 ![](aaditya_paul_dino.png)
 
-
 "vracton_sideeyedino"
 
 ![](vracton_sideeyedino.png)
-
 
 "hazelwoodA_dino"
 
@@ -3183,10 +3171,9 @@ harshithap2000-dai_deprivation"
 
 ![](Luna5379_orpheus_orpheus_orpheus___.png)
 
+"SerenityUX_dino.png"
 
-"SerenityUX_dino (1).png"
-
-![](SerenityUX_dino (1).png)
+![](SerenityUX_dino.png)
 
 "DaInfLoop_orpheus_but_better"
 
@@ -3282,6 +3269,8 @@ harshithap2000-dai_deprivation"
 
 "dhanushs3366_dinozilla"
 
+![](dhanushs3366_dinozilla.png)
+
 "saumilthecode_dino"
 
 ![](saumilthecode_dino.png)
@@ -3333,9 +3322,11 @@ harshithap2000-dai_deprivation"
 ![](TRXAlpha_dino.png)
 
 "LuneDeMiniut_dinodino"
+
 ![](LuneDeMiniut_dinodino.png)
 
 "kcoderhtml_dino"
+
 ![](kcoderhtml_dino.png)
 
 "Cral_Cactus_Flat_head_dino"
@@ -3345,8 +3336,6 @@ harshithap2000-dai_deprivation"
 "AlanikREDAWN_dino"
 
 ![](AlanikREDAWN_dino.png)
-
-
 
 "dawoodb7869_dawood_s_dino"
 
@@ -3367,7 +3356,6 @@ harshithap2000-dai_deprivation"
 "dmcegan_dino"
 
 ![](dmcegan_dino.png)
-
 
 "manuthecoder_dino"
 
@@ -3393,46 +3381,38 @@ harshithap2000-dai_deprivation"
 
 ![](potter_dino.png)
 
-
 "ikrishagarwal_dino"
 
 ![](ikrishagarwal_dino.png)
-
 
 "HelloSanskruti_Lil_Dino"
 
 ![](HelloSanskruti_Lil_Dino.png)
 
-
 "mr_Pheus"
 
 ![](mr_Pheus.png)
-
 
 "Somebud0180_dinoHmm"
 
 ![](Somebud0180_dinoHmm.png)
 
-
 "alexfrnn_dino_on_the_go"
 
 ![](alexfrnn_dino_on_the_go.png)
-
 
 "defrein_working_dino"
 
 ![](defrein_working_dino.png)
 
-
 "Brickbloke_one_piece_dino"
 
 ![](Brickbloke_one_piece_dino.png)
 
-
 "Aradhya_Shaswat_dino"
 
 ![](Aradhya_Shaswat_dino.png)
-=======
+
 "William5553_dino"
 
 ![](William5553_dino.png)
@@ -3455,7 +3435,6 @@ harshithap2000-dai_deprivation"
 
 "SidharthBhatt_sad_dino"
 
-
 ![](SidharthBhatt_sad_dino.png)
 
 "Anik2812_dino"
@@ -3469,6 +3448,10 @@ harshithap2000-dai_deprivation"
 "Zihann73_dino"
 
 ![](Zihann73_dino.png)
+
+"PabRubio_dino_chicken"
+
+![](PabRubio_dino_chicken.png)
 
 "bineshpoudel_dino"
 
@@ -3498,6 +3481,62 @@ harshithap2000-dai_deprivation"
 
 ![](itsmeadarsh2008_dino_cap.png)
 
+"DakshRocks21_dino"
+
+![](DakshRocks21_dino.png)
+
+"SahandSoleimani_Arsenic"
+
+![](SahandSoleimani_Arsenic.png)
+
+"SpeedyGo55_dino"
+
+![](speedygo55_dino.png)
+
+"BingleyPro_dino"
+
+![](BingleyPro_dino.png)
+
+"SunnyFloppyDiskStudios_dino__3"
+
+![](SunnyFloppyDiskStudios_dino__3.png)
+
+"thelegendofmario_socky_dino"
+
+![](thelegendofmario_socky_dino.png)
+
+"shim_sham_top_hat_dino"
+
+![](shim_sham_top_hat_dino.png)
+
+"WolfGamer2_dino"
+
+![](WolfGamer2_dino.png)
+
+"SujalAgre_uncle_dino"
+
+![](SujalAgre_uncle_dino.png)
+
+"noibs_dino"
+
+![](noibs_dino.png)
+
+"s_saanvi_dino"
+
+![](s_saanvi_dino.png)
+
+"AdyaS2010_Orpheus_the_Hackasaurus_"
+
+![](AdyaS2010_Orpheus_the_Hackasaurus_.png)
+
+"Shuflduf_hell_yeah"
+
+![](Shuflduf_hell_yeah.png)
+
+"xHector1337_Big_Dino"
+
+![](xHector1337_Big_Dino.png)
+
 "AmNotAGoose_amongusdino"
 
 ![](AmNotAGoose_amongusdino.png)
@@ -3506,9 +3545,73 @@ harshithap2000-dai_deprivation"
 
 ![](mattsoh_dino.png)
 
-Add the following lines to the bottom of the file:
-
 "JackatDJL_Honnngrey_Dino"
 
 ![](JackatDJL_Honnngrey_Dino.png)
 
+"Portable_Certified_Dino_with_suit_epic_man"
+
+![](Portable_Certified_Dino_with_suit_epic_man.png)
+
+"Freddyjay7_DINO_MAN__1"
+
+![](Freddyjay7_DINO_MAN__1.png)
+
+"Jaelyn08_dino"
+
+![](Jaelyn08_dino.png)
+
+"julimarc_dino"
+
+![](julimarc_dino.png)
+
+"binbang12_Fancy_Dino"
+
+![](binbang12_Fancy_Dino.png)
+
+"NewSmoke38_Dino_s_heart"
+
+![](NewSmoke38_Dino_s_heart.png)
+
+"xriiitox_all_seeing_orpheus"
+
+![](xriiitox_all_seeing_orpheus.png)
+
+"MichaelK_F_dino_with_sun_glasses"
+
+![](MichaelK_F_dino_with_sun_glasses.png)
+
+"GizziXZ_dino"
+
+![](GizziXZ_dino.png)
+
+"saransh619_dino_saransh"
+
+![](saransh619_dino_saransh.png)
+
+"CarlosYazid presents 🦖 with 🎩"
+
+![](CarlosYazid_dino_with_hat.png)
+
+"louspringer_dino"
+
+![](louspringer_dino.png)
+
+"NeonGamerBot_QK_dino_jpg"
+
+![](NeonGamerBot_QK_dino_jpg.png)
+
+"joshpinto6_dino"
+
+![](joshpinto6_dino.png)
+
+"adrirubio_dino"
+
+![](adrirubio_dino.png)
+
+"HimanshiTomer_90_s_rich_smoker_dino"
+
+![](HimanshiTomer_90_s_rich_smoker_dino.png)
+
+"hayleyso07_dino"
+![](hayleyso07_dino.png)
