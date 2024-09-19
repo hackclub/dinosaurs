@@ -27,9 +27,6 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
-"yazdanhaider's LOKISAURUS"
-
-![](yazdanhaider_dino.png)
 
 "dino being a rad skater girl"
 
@@ -3507,3 +3504,7 @@ harshithap2000-dai_deprivation"
 "mattsoh_dino"
 
 ![](mattsoh_dino.png)
+
+"yazdanhaider's LOKISAURUS"
+
+![](yazdanhaider_dino.png)
