@@ -29,11 +29,13 @@ _The Dinosaur Who Can Never Look Back_
 ---
 "Ronnie5562_Ronnie_s_Dino"
 
+
 ![](Ronnie5562_Ronnie_s_Dino.png)
 
 "Silly :3 dino"
 
 ![](FireEntity1__3.png)
+
 
 "dino being a rad skater girl"
 
@@ -3544,6 +3546,11 @@ harshithap2000-dai_deprivation"
 
 ![](mattsoh_dino.png)
 
+
+"yazdanhaider's LOKISAURUS"
+
+![](yazdanhaider_dino.png)
+=======
 "gh_bako_bako_dino"
 
 ![](gh_bako_bako_dino.png)
@@ -3631,3 +3638,4 @@ harshithap2000-dai_deprivation"
 "arctixdevs_super_cool_dino"
 
 ![](arctixdevs_super_cool_dino.png)
+
