@@ -97,6 +97,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](ethndotsh_dino.png)
 
+"Spirtual Dragon with dragon mask"
+
+![](pa1narendra_dino.png)
+
 "mathislajs_dino_happy__"
 
 ![](mathislajs_dino_happy__.png)
