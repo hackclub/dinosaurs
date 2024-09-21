@@ -97,6 +97,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](ethndotsh_dino.png)
 
+"Spirtual Dragon with dragon mask"
+
+![](pa1narendra_dino.png)
+
 "mathislajs_dino_happy__"
 
 ![](mathislajs_dino_happy__.png)
@@ -3638,6 +3642,9 @@ harshithap2000-dai_deprivation"
 "arctixdevs_super_cool_dino"
 
 ![](arctixdevs_super_cool_dino.png)
+
+"codyane_manga_dino"
+![](codyane_manga_dino.png)
 
 "souptik_samanta_dino.png"
 ![](souptik_samanta_dino.png)
