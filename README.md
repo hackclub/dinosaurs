@@ -3660,4 +3660,4 @@ harshithap2000-dai_deprivation"
 
 "genr234_Dinoesse"
 
-![](genr234_Dinoesse.png)
+![](Dinoesse.png)
