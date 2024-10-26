@@ -27,9 +27,6 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
-"CoderLogy_dino"
-
-![](CoderLogy_dino.png)
 
 
 "Ronnie5562_Ronnie_s_Dino"
@@ -3735,3 +3732,7 @@ harshithap2000-dai_deprivation"
 "mati22124_dinusy"
 
 ![](mati22124_dinusy.png)
+
+"CoderLogy_dino"
+
+![](CoderLogy_dino.png)
