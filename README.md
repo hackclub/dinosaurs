@@ -73,6 +73,10 @@ _The Dinosaur Who Can Never Look Back_
 
 "angy"
 
+![](Heramb0x1_sheriff-dino.png)
+
+"sheriff-dino🤠🎠"
+
 ![](angry_dino.png)
 
 "sees something she wants"
