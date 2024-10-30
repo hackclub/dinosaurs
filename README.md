@@ -2,6 +2,8 @@
 
 ![Cover photo](Dinos.jpg)
 
+The Unique tail of the dinosaurs and fun facts.
+
 Prophet Orpheus is Hack Club's mascot who takes the form of a nondescript dinosaur. Prophet Orpheus is always getting into crazy adventures, from stealing food to going to the moon. She is usually drawn in black and white in limited drawing programs like MS Paint or Pinta.
 
 [Draw your own dino >>](https://hack.af/make-dino)
@@ -3748,3 +3750,7 @@ harshithap2000-dai_deprivation"
 "top was here"
 
 ![](ThatOnePers0n_top_was_here.png)
+
+"Hafeezco75_dino"
+
+![](Hafeezco75_dino.png)
