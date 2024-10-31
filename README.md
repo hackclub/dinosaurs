@@ -3748,3 +3748,7 @@ harshithap2000-dai_deprivation"
 "top was here"
 
 ![](ThatOnePers0n_top_was_here.png)
+
+"Not bad for a day in the life of a dog food company"
+
+![](Mhytos_the_dino.png)
