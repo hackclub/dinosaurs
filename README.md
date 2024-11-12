@@ -3819,3 +3819,7 @@ harshithap2000-dai_deprivation"
 "yoshisaac_dino made with gimp :P"
 
 ![](yoshisaac_dino.png)
+
+"sophia0805_dino"
+
+![](sophia0805_dino.png)
