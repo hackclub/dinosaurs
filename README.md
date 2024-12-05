@@ -3919,3 +3919,7 @@ harshithap2000-dai_deprivation"
 "GingerGigiCat_upside_dino"
 
 ![](GingerGigiCat_upside_dino.png)
+
+"Marcus5408_hopeful_dino"
+
+![](Marcus5408_hopeful_dino.png)
