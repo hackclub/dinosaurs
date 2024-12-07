@@ -3906,7 +3906,7 @@ harshithap2000-dai_deprivation"
 
 "dinosaur-debug-chat"
 
-![dinosaur-debug-chat, by @TKanX](dinosaur-debug-chat.png)
+![](dinosaur-debug-chat.png)
 
 "AbstractMelon_dino"
 
@@ -3923,6 +3923,10 @@ harshithap2000-dai_deprivation"
 "Marcus5408_hopeful_dino"
 
 ![](Marcus5408_hopeful_dino.png)
+
+"ms7ru_headphone_dino"
+
+![](ms7ru_headphone_dino.png)
 
 "Sparr0w0_dying_dyno"
 
