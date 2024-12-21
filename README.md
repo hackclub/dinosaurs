@@ -3968,3 +3968,7 @@ harshithap2000-dai_deprivation"
 "raghav_karn_not_f_rex"
 
 ![](raghav_karn_not_f_rex.png)
+
+"this is what you get when im on trackpad lmao"
+
+![](CooperDActor_bytes_Cooper_Dino.png)
