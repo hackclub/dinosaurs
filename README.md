@@ -3972,3 +3972,7 @@ harshithap2000-dai_deprivation"
 "this is what you get when im on trackpad lmao"
 
 ![](CooperDActor_bytes_Cooper_Dino.png)
+
+"wish13yt_Dinomyte"
+
+![](wish13yt_Dinomyte.png)
