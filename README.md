@@ -3980,3 +3980,7 @@ harshithap2000-dai_deprivation"
 "MadAvidCoder_dino"
 
 ![](MadAvidCoder_dino.png)
+
+"luna's dino :3"
+
+![](ellipticobj_luna_s_dino.png)
