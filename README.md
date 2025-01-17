@@ -4004,3 +4004,7 @@ harshithap2000-dai_deprivation"
 "informatiky_chilling_after_the_effort"
 
 ![](informatiky_chilling_after_the_effort.png)
+
+"shayaan_d_sock"
+
+![](shayaan_d_sock.png)
