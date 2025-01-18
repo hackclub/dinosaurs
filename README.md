@@ -28,10 +28,6 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
-"su_jin1425_dino"
-
-![](su_jin1425_dino.png)
-
 "Ronnie5562_Ronnie_s_Dino"
 
 
@@ -4011,3 +4007,7 @@ harshithap2000-dai_deprivation"
 "shayaan_d_sock"
 
 ![](shayaan_d_sock.png)
+
+"su_jin1425_dino"
+
+![](su_jin1425_dino.png)
