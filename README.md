@@ -27,7 +27,10 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"Sujith_Dino"
 
+
+![](Sujith_dino.png)
 
 "Ronnie5562_Ronnie_s_Dino"
 
