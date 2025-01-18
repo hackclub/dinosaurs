@@ -28,6 +28,9 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"su_jin1425_dino"
+
+![](su_jin1425_dino.png)
 
 "Ronnie5562_Ronnie_s_Dino"
 
