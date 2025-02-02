@@ -4026,3 +4026,7 @@ harshithap2000-dai_deprivation"
 "EwoudVV_grimace_dino"
 
 ![](EwoudVV_grimace_dino.png)
+
+"Tinkering-Townsperson_pi_dino"
+
+![](Tinkering_Townsperson_pi_dino.png)
