@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"DefinetlyNotAI_dd"
+
+![](DefinetlyNotAI_dino.png)
+
 "Ronnie5562_Ronnie_s_Dino"
 
 ![](Ronnie5562_Ronnie_s_Dino.png)
