@@ -4042,3 +4042,7 @@ harshithap2000-dai_deprivation"
 "nulladmin1_sad_crying_dino"
 
 ![](nulladmin1_sad_crying_dino.png)
+
+"IntelCoreI6_dino"
+
+![](IntelCoreI6_dino.png)
