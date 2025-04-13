@@ -4114,3 +4114,18 @@ harshithap2000-dai_deprivation"
 "Controlba-di"
 
 ![](Controlba-di.png)
+
+"Sad orpheus"
+
+![](ItsFelix5_sad_orpheus.png)
+
+"Party dino"
+![](ItsFelix5_Party_dino.png)
+
+"Happy dino"
+
+![](ItsFelix5_happy_dino.png)
+
+"Compressed dino"
+
+![](ItsFelix5_compressed_dino.png)
