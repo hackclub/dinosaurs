@@ -4120,7 +4120,7 @@ harshithap2000-dai_deprivation"
 ![](ItsFelix5_sad_orpheus.png)
 
 "Party dino"
-![](ItsFelix5_Party_dino.png)
+![](ItsFelix5_Party_dino.gif)
 
 "Happy dino"
 
@@ -4128,4 +4128,4 @@ harshithap2000-dai_deprivation"
 
 "Compressed dino"
 
-![](ItsFelix5_compressed_dino.png)
+![](ItsFelix5_compressed_dino.jpg)
