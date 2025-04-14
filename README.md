@@ -4118,3 +4118,18 @@ harshithap2000-dai_deprivation"
 "flamesoo_helcat"
 
 ![](flamesoo_helcat.png)
+
+"Sad orpheus"
+
+![](ItsFelix5_sad_orpheus.png)
+
+"Party dino"
+![](ItsFelix5_Party_dino.gif)
+
+"Happy dino"
+
+![](ItsFelix5_happy_dino.png)
+
+"Compressed dino"
+
+![](ItsFelix5_compressed_dino.jpg)
