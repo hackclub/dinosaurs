@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"mcl_playz_dino"
+
+![](mcl_playz_dino.png)
+
 "DefinetlyNotAI_dd"
 
 ![](DefinetlyNotAI_dino.png)
