@@ -28,6 +28,9 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"ASCII DINO"
+![](https://github.com/user-attachments/assets/4c43c12d-2d36-441f-95a4-c2ac7164d98d)
+
 "mcl_playz_dino"
 
 ![](mcl_playz_dino.png)
