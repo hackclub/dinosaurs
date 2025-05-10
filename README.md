@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"Artist_MOBAI_dino"
+
+![](Artist_MOBAI_dino.png)
+
 "mcl_playz_dino"
 
 ![](mcl_playz_dino.png)
