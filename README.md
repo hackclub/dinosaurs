@@ -4162,6 +4162,10 @@ harshithap2000-dai_deprivation"
 
 ![](Steven24K_O_and_X_dino.png)
 
+"noneofyourbusiness1415252_dino"
+
+![A dinosaur featuring chemistry molecular patterns representing its scales, a DNA double helix, and legs shaped like geometric figures. Binary code runs along its body. It wears glasses.](noneofyourbusiness1415252_dino.png)
+
 "aelithron_beret_dino"
 
 ![](aelithron_beret_dino.png)
