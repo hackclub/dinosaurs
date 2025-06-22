@@ -28,6 +28,11 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"MohitTiwariBytes_dino_mohit_absolute_cinema"
+
+![](MohitTiwariBytes_dino_mohit_absolute_cinema.png)
+
+
 "Artist_MOBAI_dino"
 
 ![](Artist_MOBAI_dino.png)
