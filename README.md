@@ -4212,6 +4212,12 @@ harshithap2000-dai_deprivation"
 
 ![](shrimp_18_dino_eating.png)
 
+<<<<<<< J_Meow_terminal_dino
 "Jmeow's terminal dino"
 
 ![](J_Meow_terminal_dino.png)
+=======
+"DaBlower_dino"
+
+![](DaBlower_dino.png)
+>>>>>>> main
