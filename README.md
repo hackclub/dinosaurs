@@ -4215,3 +4215,23 @@ harshithap2000-dai_deprivation"
 "Brianali_codes_Luke"
 
 ![](Brianali_codes_Luke.png)
+
+"Jmeow's terminal dino"
+
+![](J_Meow_terminal_dino.png)
+
+"DaBlower_dino"
+
+![](DaBlower_dino.png)
+
+"makrcat_dino"
+
+![](makrcat_dino.png) 
+
+"angelazheng96_dino"
+
+![](angelazheng96_dino.png)
+
+"turtle_key_dino_trilo"
+
+![](turtle_key_dino_trilo.png)
