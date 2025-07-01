@@ -4212,11 +4212,10 @@ harshithap2000-dai_deprivation"
 
 ![](shrimp_18_dino_eating.png)
 
-<<<<<<< J_Meow_terminal_dino
 "Jmeow's terminal dino"
 
 ![](J_Meow_terminal_dino.png)
-=======
+
 "DaBlower_dino"
 
 ![](DaBlower_dino.png)
@@ -4225,3 +4224,10 @@ harshithap2000-dai_deprivation"
 
 ![](makrcat_dino.png) 
 
+"angelazheng96_dino"
+
+![](angelazheng96_dino.png)
+
+"turtle_key_dino_trilo"
+
+![](turtle_key_dino_trilo.png)
