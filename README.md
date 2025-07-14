@@ -4251,3 +4251,7 @@ harshithap2000-dai_deprivation"
 "aadishsamir123's dino"
 
 ![](9%999a_aadishsamir123's dino.png)
+
+"Rohan V-F's 'wow!' Jumpstart dino"
+
+![](rohan_vf_dino_wow.png)
