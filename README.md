@@ -4279,3 +4279,8 @@ harshithap2000-dai_deprivation"
 "GlassyBridge_confused_dino"
 
 ![](GlassyBridge_confused_dino.png)
+
+"Orpheus has an idea"
+
+![](MMK21_Orpheus_has_an_idea.png)
+
