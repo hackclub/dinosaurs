@@ -4324,3 +4324,6 @@ harshithap2000-dai_deprivation"
 
 ![](BananaJeanss_richdino.png)
 
+"J4ve_idiot_dino_gunner"
+
+![](J4ve_idiot_dino_gunner.png)
