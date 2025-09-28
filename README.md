@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"KOEGlike_emodino"
+
+![](KOEGlike_emodino.png)
+
 "Artist_MOBAI_dino"
 
 ![](Artist_MOBAI_dino.png)
