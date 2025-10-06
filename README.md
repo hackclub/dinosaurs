@@ -28,10 +28,6 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
-"KOEGlike_emodino"
-
-![](KOEGlike_emodino.png)
-
 "Artist_MOBAI_dino"
 
 ![](Artist_MOBAI_dino.png)
@@ -4331,3 +4327,7 @@ harshithap2000-dai_deprivation"
 "J4ve_idiot_dino_gunner"
 
 ![](J4ve_idiot_dino_gunner.png)
+
+"KOEGlike_emodino"
+
+![](KOEGlike_emodino.png)
