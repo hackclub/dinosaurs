@@ -4031,6 +4031,10 @@ harshithap2000-dai_deprivation"
 "TetieWasTaken_bob"
 
 ![](TetieWasTaken_bob.png)
+"peme969_dino"
+#4035 :D
+aka peme969...
+![](peme969_dino.png)
 
 "qrxnz_qrxnzdawg"
 
@@ -4299,35 +4303,3 @@ harshithap2000-dai_deprivation"
 "abhinavramanan_hungry_dino"
 
 ![](abhinavramanan_hungry_dino.png)
-
-"Yet another DINO"
-
-![](oreopot_theRealDino.png)
-
-"OIIAI dino"
-
-![](Leo2126_dino.png)
-
-"amekonnen30_AmenM_FromGCS"
-
-![](amekonnen30_AmenM_FromGCS.png)
-
-"cepipecepipec_rosa"
-
-![rosa](cepipecepipec_rosa.png)
-
-"AnkushRoy_code_amgry_dino"
-
-![](AnkushRoy_code_amgry_dino.png)
-
-"BananaJeanss_richdino"
-
-![](BananaJeanss_richdino.png)
-
-"J4ve_idiot_dino_gunner"
-
-![](J4ve_idiot_dino_gunner.png)
-
-"KOEGlike_emodino"
-
-![](KOEGlike_emodino.png)
