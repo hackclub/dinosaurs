@@ -4335,3 +4335,11 @@ harshithap2000-dai_deprivation"
 "shubhxho_cooldino"
 
 ![](shubhxho_cooldino.png)
+
+"Dino in bucket hat"
+
+![](heelas_uk_dino_buckethet.png)
+
+"Yeehaw Dino"
+
+![](shr_dino.png)
