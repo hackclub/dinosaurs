@@ -4332,6 +4332,22 @@ harshithap2000-dai_deprivation"
 
 ![](KOEGlike_emodino.png)
 
+"hippogriff101_dino_cece_anna (got help from freidns as I'm a rubish artist)"
+
+![](hippogriff101_dino_cece_anna.png)
+
+"CrazyCat911_crazydino"
+
+![](CrazyCat911_crazydino.png)
+
+"Dekoder_py_dino"
+
+![](Dekoder_py_dino.png)
+
+"shubhxho_cooldino"
+
+![](shubhxho_cooldino.png)
+
 "Dino in bucket hat"
 
 ![](heelas_uk_dino_buckethet.png)
@@ -4339,3 +4355,15 @@ harshithap2000-dai_deprivation"
 "Castawhat_uhhhhm_dino"
 
 ![](Castawhat_uhhhhm_dino.png)
+
+"ConsciousBone_rawrrboii"
+
+![](ConsciousBone_rawrrboii.png)
+
+"BoarderGamez_frog"
+
+![](BoarderGamez_frog.png)
+
+"Yeehaw Dino"
+
+![](shr_dino.png)
