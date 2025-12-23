@@ -4374,4 +4374,4 @@ harshithap2000-dai_deprivation"
 
 "whentheystrike_spigeneo"
 
-![](whentheystrike_spigeneo)
+![](whentheystrike_spigeneo.png)
