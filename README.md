@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"flabbbergasted"
+
+![](MatthiasLubbertsen_flabbbergasted.png)
+
 "Artist_MOBAI_dino"
 
 ![](Artist_MOBAI_dino.png)
