@@ -4375,3 +4375,9 @@ harshithap2000-dai_deprivation"
 "Yeehaw Dino"
 
 ![](shr_dino.png)
+
+"Amazed dino: yehorscode_dino_laptop_amazed"
+
+![](yehorscode_dino_laptop_amazed.png)"
+
+![](yehorscode_dino_laptop_amazed.png)
