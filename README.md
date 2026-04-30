@@ -4388,6 +4388,8 @@ harshithap2000-dai_deprivation"
 
 ![](shr_dino.png)
 
+"obviously the best dino"
+![](theinfamousben_dino.png)
 "deltea_sheriff"
 
 ![](deltea_sheriff.png)
