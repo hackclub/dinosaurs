@@ -4388,6 +4388,9 @@ harshithap2000-dai_deprivation"
 
 ![](shr_dino.png)
 
+"whentheystrike_spigeneo"
+
+![](whentheystrike_spigeneo.png)
 "numycode_pizza_dino"
 
 ![](numycode_pizza_dino.png)
