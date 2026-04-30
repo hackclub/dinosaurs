@@ -4388,6 +4388,9 @@ harshithap2000-dai_deprivation"
 
 ![](shr_dino.png)
 
+"deltea_sheriff"
+
+![](deltea_sheriff.png)
 "tarun_preet_magician_dino"
 
 ![](tarun_preet_magician_dino.png)
