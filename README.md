@@ -28,6 +28,11 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"MohitTiwariBytes_dino_mohit_absolute_cinema"
+
+![](MohitTiwariBytes_dino_mohit_absolute_cinema.png)
+
+
 "Artist_MOBAI_dino"
 
 ![](Artist_MOBAI_dino.png)
@@ -4200,6 +4205,10 @@ harshithap2000-dai_deprivation"
 
 ![](Lumethra_dino.png)
 
+"GameLord2011_GameLord2011_s_horrid_dino"
+
+![](GameLord2011_GameLord2011_s_horrid_dino.png)
+
 "ok_coder1_coding_a_dino"
 
 ![](ok_coder1_coding_a_dino.png)
@@ -4332,9 +4341,48 @@ harshithap2000-dai_deprivation"
 
 ![](KOEGlike_emodino.png)
 
+"hippogriff101_dino_cece_anna (got help from freidns as I'm a rubish artist)"
+
+![](hippogriff101_dino_cece_anna.png)
+
+"CrazyCat911_crazydino"
+
+![](CrazyCat911_crazydino.png)
+
+"Dekoder_py_dino"
+
+![](Dekoder_py_dino.png)
+
+"shubhxho_cooldino"
+
+![](shubhxho_cooldino.png)
+
 "Dino in bucket hat"
 
 ![](heelas_uk_dino_buckethet.png)
+
+"Meshtastical_meshtastical"
+
+![](Meshtastical_meshtastical.png)
+"AshutoshThings_dino"
+
+![](AshutoshThings_dino.png)
+
+"Th1n0_I_dino"
+
+![](Th1n0_I_dino.png)
+
+"Castawhat_uhhhhm_dino"
+
+![](Castawhat_uhhhhm_dino.png)
+
+"ConsciousBone_rawrrboii"
+
+![](ConsciousBone_rawrrboii.png)
+
+"BoarderGamez_frog"
+
+![](BoarderGamez_frog.png)
 
 "Yeehaw Dino"
 
@@ -4345,3 +4393,20 @@ harshithap2000-dai_deprivation"
 
 ![](aditya_dino.png)
 
+"Roushan_kr_dino"
+
+![](Roushan_kr_dino.png)
+"Pratiksuii7"
+
+![](itsadino777.png)
+
+
+
+"PapunBand_deer"
+![](PapunBand_deer.png)
+"ayaskant007_dinotrex"
+
+![](ayaskant007_dinotrex.png)
+"maxstellar_dino"
+
+![](maxstellar_dino.png)
