@@ -4392,6 +4392,9 @@ harshithap2000-dai_deprivation"
 
 ![](shr_dino.png)
 
+"dinowhitecentered.png"
+
+![](dinowhitecentered.png)
 "ry_gr_dino"
 
 ![](ry_gr_dino.png)
