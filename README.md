@@ -4392,6 +4392,9 @@ harshithap2000-dai_deprivation"
 
 ![](shr_dino.png)
 
+"ry_gr_dino"
+
+![](ry_gr_dino.png)
 "rx76d_dinio"
 
 ![](rx76d_dinio.png)
