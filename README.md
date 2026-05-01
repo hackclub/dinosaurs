@@ -4456,3 +4456,7 @@ harshithap2000-dai_deprivation"
 "isaaclau888_dino"
 
 ![](isaaclau888_helplessdino.png)
+
+"zsobix_dino_buying_cookies_at_lidl"
+
+![](zsobix_dino_buying_cookies_at_lidl.png)
