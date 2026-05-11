@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"bhatrichit10_ux_ice_cream_dino"
+
+![](bhatrichit10_ux_ice_cream_dino.png)
+
 "flabbbergasted"
 
 ![](MatthiasLubbertsen_flabbbergasted.png)
