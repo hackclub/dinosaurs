@@ -4392,6 +4392,9 @@ harshithap2000-dai_deprivation"
 
 ![](shr_dino.png)
 
+"hiralsinghal_dino"
+
+![](hiralsinghal_dino.png)
 "Orpheus in my PC!"
 
 ![](kiyarose_OrpheusinmyPC.png)
@@ -4460,3 +4463,7 @@ harshithap2000-dai_deprivation"
 "zsobix_dino_buying_cookies_at_lidl"
 
 ![](zsobix_dino_buying_cookies_at_lidl.png)
+
+"LiterallyEverything_Emorpheus"
+
+![](LiterallyEverything_Emorpheus.png)
