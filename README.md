@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"bhatrichit10_ux_ice_cream_dino"
+
+![](bhatrichit10_ux_ice_cream_dino.png)
+
 "flabbbergasted"
 
 ![](MatthiasLubbertsen_flabbbergasted.png)
@@ -4392,6 +4396,9 @@ harshithap2000-dai_deprivation"
 
 ![](shr_dino.png)
 
+"hiralsinghal_dino"
+
+![](hiralsinghal_dino.png)
 "Orpheus in my PC!"
 
 ![](kiyarose_OrpheusinmyPC.png)
@@ -4460,6 +4467,16 @@ harshithap2000-dai_deprivation"
 "Drwhomust_dino"
 
 ![](Drwhomust_dino.png)
+"aoi2010_foody_orph"
+
+![](aoi2010_foody_orph.png)
+"Jah_yee_dino"
+
+![](Jah_yee_dino.png)
+"zsobix_dino_buying_cookies_at_lidl"
+
+![](zsobix_dino_buying_cookies_at_lidl.png)
+
 "LiterallyEverything_Emorpheus"
 
 ![](LiterallyEverything_Emorpheus.png)
