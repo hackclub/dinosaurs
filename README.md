@@ -1,4 +1,4 @@
-# Hack Club dinosaurs
+ # Hack Club dinosaurs
 
 ![Cover photo](Dinos.jpg)
 
@@ -4477,3 +4477,7 @@ harshithap2000-dai_deprivation"
 "LiterallyEverything_Emorpheus"
 
 ![](LiterallyEverything_Emorpheus.png)
+
+"tanjim's calculus dino (the dino is supposed to be an integral symbol ∫)
+
+![](calculus_dino.png)
