@@ -4478,6 +4478,6 @@ harshithap2000-dai_deprivation"
 
 ![](LiterallyEverything_Emorpheus.png)
 
-"The gental man dino.
+"The_gental_man_dino."
 
 ![](fussdeek-del_gentleman_dino.png-1.png) 
