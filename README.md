@@ -4481,6 +4481,9 @@ harshithap2000-dai_deprivation"
 "The_gental_man_dino."
 
 ![](fussdeek-del_gentleman_dino.png.png) 
+"smkillerz777_star_dino"
+
+![](smkillerz777_star_dino.png)
 
 "Facticee_BlueChicken"
 
