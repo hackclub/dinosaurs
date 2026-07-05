@@ -4478,6 +4478,9 @@ harshithap2000-dai_deprivation"
 
 ![](LiterallyEverything_Emorpheus.png)
 
+"The_gental_man_dino."
+
+![](fussdeek-del_gentleman_dino.png.png) 
 "smkillerz777_star_dino"
 
 ![](smkillerz777_star_dino.png)
@@ -4485,7 +4488,6 @@ harshithap2000-dai_deprivation"
 "Facticee_BlueChicken"
 
 ![](Facticee_BlueChicken.png)
-
 "Noga-Levy_dino_f_of_x"
 
 ![](Noga-Levy_dino_f_of_x.png)
