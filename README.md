@@ -27,6 +27,9 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"pixelcrisscross"
+
+![](pixelcrisscross_pixel.png)
 
 "bhatrichit10_ux_ice_cream_dino"
 
@@ -4464,6 +4467,13 @@ harshithap2000-dai_deprivation"
 
 ![](isaaclau888_helplessdino.png)
 
+"code2344_business_dino"
+
+![](code2344_business_dino.png)
+
+"Drwhomust_dino"
+
+![](Drwhomust_dino.png)
 
 "00ooomagad_dino.jpg"
 
@@ -4488,6 +4498,22 @@ harshithap2000-dai_deprivation"
 "cap_pee_dino_pee"
 
 ![](cap_pee_dino_pee.png)
+
+"TGA25dev_seems_like_a_dino"
+
+![](TGA25dev_seems_like_a_dino.png)
+
+"jonasvanleeuwen19_dino"
+
+![](jonasvanleeuwen19_dino.png)
+
+"Pixorpheus"
+
+![](Gabouin_pixorpheus__non_pixelated_mb_.png)
+
+"crislazy_mad_dino"
+
+![](crislazy_mad_dino.png)
 
 "Fungichi_dinotty"
 
