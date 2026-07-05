@@ -27,6 +27,13 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"pixelcrisscross"
+
+![](pixelcrisscross_pixel.png)
+
+"bhatrichit10_ux_ice_cream_dino"
+
+![](bhatrichit10_ux_ice_cream_dino.png)
 
 "flabbbergasted"
 
@@ -4392,6 +4399,9 @@ harshithap2000-dai_deprivation"
 
 ![](shr_dino.png)
 
+"hiralsinghal_dino"
+
+![](hiralsinghal_dino.png)
 "Orpheus in my PC!"
 
 ![](kiyarose_OrpheusinmyPC.png)
@@ -4460,3 +4470,77 @@ harshithap2000-dai_deprivation"
 "karmjeet_dino.png"
 
 ![](karmjeet_dino.png)
+"code2344_business_dino"
+
+![](code2344_business_dino.png)
+
+"Drwhomust_dino"
+
+![](Drwhomust_dino.png)
+
+"00ooomagad_dino.jpg"
+
+![](00ooomagad_dino.jpg)
+
+"aoi2010_foody_orph"
+
+![](aoi2010_foody_orph.png)
+
+"Jah_yee_dino"
+
+![](Jah_yee_dino.png)
+
+"zsobix_dino_buying_cookies_at_lidl"
+
+![](zsobix_dino_buying_cookies_at_lidl.png)
+
+"LiterallyEverything_Emorpheus"
+
+![](LiterallyEverything_Emorpheus.png)
+
+"Adding my dino to the collection"
+
+![utkarsh094](utkarsh's grizzy dino.jpg)
+"cap_pee_dino_pee"
+
+![](cap_pee_dino_pee.png)
+
+"TGA25dev_seems_like_a_dino"
+
+![](TGA25dev_seems_like_a_dino.png)
+
+"jonasvanleeuwen19_dino"
+
+![](jonasvanleeuwen19_dino.png)
+
+"Pixorpheus"
+
+![](Gabouin_pixorpheus__non_pixelated_mb_.png)
+
+"crislazy_mad_dino"
+
+![](crislazy_mad_dino.png)
+
+"Fungichi_dinotty"
+
+![](Fungichi_dinotty.png)
+
+"The_gental_man_dino."
+
+![](fussdeek-del_gentleman_dino.png.png) 
+
+"smkillerz777_star_dino"
+
+![](smkillerz777_star_dino.png)
+
+"Facticee_BlueChicken"
+
+![](Facticee_BlueChicken.png)
+
+"Noga-Levy_dino_f_of_x"
+
+![](Noga-Levy_dino_f_of_x.png)
+
+"THEbluefirestudios_dinnoisseur"
+
+![](THEbluefirestudios_dinnoisseur.png)
