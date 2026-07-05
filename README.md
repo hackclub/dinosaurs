@@ -4472,9 +4472,11 @@ harshithap2000-dai_deprivation"
 "aoi2010_foody_orph"
 
 ![](aoi2010_foody_orph.png)
+
 "Jah_yee_dino"
 
 ![](Jah_yee_dino.png)
+
 "zsobix_dino_buying_cookies_at_lidl"
 
 ![](zsobix_dino_buying_cookies_at_lidl.png)
@@ -4483,3 +4485,21 @@ harshithap2000-dai_deprivation"
 
 ![](LiterallyEverything_Emorpheus.png)
 
+"The_gental_man_dino."
+
+![](fussdeek-del_gentleman_dino.png.png) 
+"smkillerz777_star_dino"
+
+![](smkillerz777_star_dino.png)
+
+"Facticee_BlueChicken"
+
+![](Facticee_BlueChicken.png)
+
+"Noga-Levy_dino_f_of_x"
+
+![](Noga-Levy_dino_f_of_x.png)
+
+"THEbluefirestudios_dinnoisseur"
+
+![](THEbluefirestudios_dinnoisseur.png)
