@@ -27,6 +27,9 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"pixelcrisscross"
+
+![](pixelcrisscross_pixel.png)
 
 "bhatrichit10_ux_ice_cream_dino"
 
