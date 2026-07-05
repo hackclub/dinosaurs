@@ -4480,4 +4480,4 @@ harshithap2000-dai_deprivation"
 
 "Adding my dino to the collection"
 
-![utkarsh094](utkarsh's grizzy dino.jpg)
+![](utkarsh's grizzy dino.jpg)
