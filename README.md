@@ -1,4 +1,4 @@
- # Hack Club dinosaurs
+# Hack Club dinosaurs
 
 ![Cover photo](Dinos.jpg)
 
