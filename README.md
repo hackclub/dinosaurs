@@ -4498,6 +4498,9 @@ harshithap2000-dai_deprivation"
 
 ![](LiterallyEverything_Emorpheus.png)
 
+"tanjim's calculus dino (the dino is supposed to be an integral symbol ∫)
+
+![](calculus_dino.png)
 "Adding my dino to the collection"
 
 ![utkarsh094](utkarsh's grizzy dino.jpg)
