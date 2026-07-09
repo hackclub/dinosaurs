@@ -27,6 +27,26 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"pixelcrisscross"
+
+![](pixelcrisscross_pixel.png)
+
+"bhatrichit10_ux_ice_cream_dino"
+
+![](bhatrichit10_ux_ice_cream_dino.png)
+
+"flabbbergasted"
+
+![](MatthiasLubbertsen_flabbbergasted.png)
+
+"MohitTiwariBytes_dino_mohit_absolute_cinema"
+
+![](MohitTiwariBytes_dino_mohit_absolute_cinema.png)
+
+
+"KavyanshKhaitan2_confused_chasing_dino"
+
+![](KavyanshKhaitan2_confused_chasing_dino.png)
 
 "Artist_MOBAI_dino"
 
@@ -4200,6 +4220,10 @@ harshithap2000-dai_deprivation"
 
 ![](Lumethra_dino.png)
 
+"GameLord2011_GameLord2011_s_horrid_dino"
+
+![](GameLord2011_GameLord2011_s_horrid_dino.png)
+
 "ok_coder1_coding_a_dino"
 
 ![](ok_coder1_coding_a_dino.png)
@@ -4332,6 +4356,18 @@ harshithap2000-dai_deprivation"
 
 ![](KOEGlike_emodino.png)
 
+"hippogriff101_dino_cece_anna (got help from freidns as I'm a rubish artist)"
+
+![](hippogriff101_dino_cece_anna.png)
+
+"CrazyCat911_crazydino"
+
+![](CrazyCat911_crazydino.png)
+
+"Dekoder_py_dino"
+
+![](Dekoder_py_dino.png)
+
 "shubhxho_cooldino"
 
 ![](shubhxho_cooldino.png)
@@ -4340,6 +4376,29 @@ harshithap2000-dai_deprivation"
 
 ![](heelas_uk_dino_buckethet.png)
 
+"Meshtastical_meshtastical"
+
+![](Meshtastical_meshtastical.png)
+"AshutoshThings_dino"
+
+![](AshutoshThings_dino.png)
+
+"Th1n0_I_dino"
+
+![](Th1n0_I_dino.png)
+
+"Castawhat_uhhhhm_dino"
+
+![](Castawhat_uhhhhm_dino.png)
+
+"ConsciousBone_rawrrboii"
+
+![](ConsciousBone_rawrrboii.png)
+
+"BoarderGamez_frog"
+
+![](BoarderGamez_frog.png)
+
 "Yeehaw Dino"
 
 ![](shr_dino.png)
@@ -4347,3 +4406,159 @@ harshithap2000-dai_deprivation"
 "fabianovich dino"
 
 ![](fabianovich_dino.png)
+"hiralsinghal_dino"
+
+![](hiralsinghal_dino.png)
+"Orpheus in my PC!"
+
+![](kiyarose_OrpheusinmyPC.png)
+"dinowhitecentered.png"
+
+![](dinowhitecentered.png)
+"ry_gr_dino"
+
+![](ry_gr_dino.png)
+"rx76d_dinio"
+
+![](rx76d_dinio.png)
+"whentheystrike_spigeneo"
+
+![](whentheystrike_spigeneo.png)
+"numycode_pizza_dino"
+
+![](numycode_pizza_dino.png)
+"TheEpicStudent_what_is_this_code_dino"
+
+![](TheEpicStudent_what_is_this_code_dino.png)
+";) dino"
+
+![](gnahiak2____dino.png)
+"obviously the best dino"
+![](theinfamousben_dino.png)
+"deltea_sheriff"
+
+![](deltea_sheriff.png)
+"tarun_preet_magician_dino"
+
+![](tarun_preet_magician_dino.png)
+"PriyanshuPz_dina"
+
+![](PriyanshuPz_dina.png)
+"angrypig555_angry_dino"
+
+![](angrypig555_angry_dino.png)
+
+"Aditya Dino"
+
+![](aditya_dino.png)
+
+"Roushan_kr_dino"
+
+![](Roushan_kr_dino.png)
+"Pratiksuii7"
+
+![](itsadino777.png)
+
+
+
+"PapunBand_deer"
+![](PapunBand_deer.png)
+"ayaskant007_dinotrex"
+
+![](ayaskant007_dinotrex.png)
+"maxstellar_dino"
+
+![](maxstellar_dino.png)
+
+"isaaclau888_dino"
+
+![](isaaclau888_helplessdino.png)
+
+"karmjeet_dino.png"
+
+![](karmjeet_dino.png)
+"code2344_business_dino"
+
+![](code2344_business_dino.png)
+
+"Drwhomust_dino"
+
+![](Drwhomust_dino.png)
+
+"00ooomagad_dino.jpg"
+
+![](00ooomagad_dino.jpg)
+
+"aoi2010_foody_orph"
+
+![](aoi2010_foody_orph.png)
+
+"Jah_yee_dino"
+
+![](Jah_yee_dino.png)
+
+"zsobix_dino_buying_cookies_at_lidl"
+
+![](zsobix_dino_buying_cookies_at_lidl.png)
+
+"LiterallyEverything_Emorpheus"
+
+![](LiterallyEverything_Emorpheus.png)
+
+"tanjim's calculus dino (the dino is supposed to be an integral symbol ∫)
+
+![](calculus_dino.png)
+"Adding my dino to the collection"
+
+![utkarsh094](utkarsh's grizzy dino.jpg)
+"cap_pee_dino_pee"
+
+![](cap_pee_dino_pee.png)
+
+"TGA25dev_seems_like_a_dino"
+
+![](TGA25dev_seems_like_a_dino.png)
+
+"jonasvanleeuwen19_dino"
+
+![](jonasvanleeuwen19_dino.png)
+
+"Pixorpheus"
+
+![](Gabouin_pixorpheus__non_pixelated_mb_.png)
+
+"crislazy_mad_dino"
+
+![](crislazy_mad_dino.png)
+
+"Fungichi_dinotty"
+
+![](Fungichi_dinotty.png)
+
+"The_gental_man_dino."
+
+![](fussdeek-del_gentleman_dino.png.png) 
+
+"smkillerz777_star_dino"
+
+![](smkillerz777_star_dino.png)
+
+"Facticee_BlueChicken"
+
+![](Facticee_BlueChicken.png)
+
+"Noga-Levy_dino_f_of_x"
+
+![](Noga-Levy_dino_f_of_x.png)
+
+"THEbluefirestudios_dinnoisseur"
+
+![](THEbluefirestudios_dinnoisseur.png)
+
+"MegaCode111REAL_traumatized_dino"
+
+![](MegaCode111REAL_traumatized_dino.png)
+
+"Tax evasion pixorpheus pixl"
+
+![](tax_evasion_pixorpheus_pixl_ricky.png)
