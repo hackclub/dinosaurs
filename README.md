@@ -44,6 +44,10 @@ _The Dinosaur Who Can Never Look Back_
 ![](MohitTiwariBytes_dino_mohit_absolute_cinema.png)
 
 
+"KavyanshKhaitan2_confused_chasing_dino"
+
+![](KavyanshKhaitan2_confused_chasing_dino.png)
+
 "Artist_MOBAI_dino"
 
 ![](Artist_MOBAI_dino.png)
@@ -4399,6 +4403,9 @@ harshithap2000-dai_deprivation"
 
 ![](shr_dino.png)
 
+"fabianovich dino"
+
+![](fabianovich_dino.png)
 "hiralsinghal_dino"
 
 ![](hiralsinghal_dino.png)
@@ -4502,6 +4509,9 @@ harshithap2000-dai_deprivation"
 
 ![](LiterallyEverything_Emorpheus.png)
 
+"tanjim's calculus dino (the dino is supposed to be an integral symbol ∫)
+
+![](calculus_dino.png)
 "Adding my dino to the collection"
 
 ![utkarsh094](utkarsh's grizzy dino.jpg)
@@ -4548,3 +4558,19 @@ harshithap2000-dai_deprivation"
 "THEbluefirestudios_dinnoisseur"
 
 ![](THEbluefirestudios_dinnoisseur.png)
+
+"MegaCode111REAL_traumatized_dino"
+
+![](MegaCode111REAL_traumatized_dino.png)
+
+"Tax evasion pixorpheus pixl"
+
+![](tax_evasion_pixorpheus_pixl_ricky.png)
+
+"vincentchen18_smileydino"
+
+![](vincentchen18_smileydino.png)
+
+"a silly dino by batybat"
+
+![](PTB_0_silly_dino.png)
