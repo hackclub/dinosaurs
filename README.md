@@ -4491,7 +4491,7 @@ harshithap2000-dai_deprivation"
 
 "00ooomagad_dino.jpg"
 
-![](00ooomagad_dino.jpg)
+![](00ooomagad_dino.jpg)
 
 "aoi2010_foody_orph"
 
