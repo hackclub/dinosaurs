@@ -4574,3 +4574,7 @@ harshithap2000-dai_deprivation"
 "a silly dino by batybat"
 
 ![](PTB_0_silly_dino.png)
+
+"Triceratops"
+
+![](triceratops_dino.png)
