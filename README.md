@@ -4600,8 +4600,8 @@ harshithap2000-dai_deprivation"
 
 "Triceratops"
 
-![](triceratops_dino.png)
+![](2026/July/triceratops_dino.png)
 
 "Dinocodes"
 
-![](DinoCodes.png)
+![](2026/July/DinoCodes.png)
