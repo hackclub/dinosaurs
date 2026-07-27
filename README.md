@@ -31,6 +31,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ![](pixelcrisscross_pixel.png)
 
+"tharejarehan0_a11y_dinocool"
+
+![](tharejarehan0_a11y_dinocool.png)
+
 "bhatrichit10_ux_ice_cream_dino"
 
 ![](bhatrichit10_ux_ice_cream_dino.png)
