@@ -27,6 +27,26 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+"pixelcrisscross"
+
+![](pixelcrisscross_pixel.png)
+
+"bhatrichit10_ux_ice_cream_dino"
+
+![](bhatrichit10_ux_ice_cream_dino.png)
+
+"flabbbergasted"
+
+![](MatthiasLubbertsen_flabbbergasted.png)
+
+"MohitTiwariBytes_dino_mohit_absolute_cinema"
+
+![](MohitTiwariBytes_dino_mohit_absolute_cinema.png)
+
+
+"KavyanshKhaitan2_confused_chasing_dino"
+
+![](KavyanshKhaitan2_confused_chasing_dino.png)
 
 "Artist_MOBAI_dino"
 
@@ -4355,6 +4375,13 @@ harshithap2000-dai_deprivation"
 "Dino in bucket hat"
 
 ![](heelas_uk_dino_buckethet.png)
+
+"Meshtastical_meshtastical"
+
+![](Meshtastical_meshtastical.png)
+"AshutoshThings_dino"
+
+![](AshutoshThings_dino.png)
 
 "Th1n0_I_dino"
 
