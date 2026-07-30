@@ -27,6 +27,11 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+
+"Reshabh_Ohall_dino_saur_rawr"
+
+![](Reshabh_Ohall_dino_saur_rawr.png)
+
 "pixelcrisscross"
 
 ![](pixelcrisscross_pixel.png)
