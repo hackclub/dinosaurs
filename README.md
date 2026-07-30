@@ -27,6 +27,11 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+
+"Reshabh_Ohall_dino_saur_rawr"
+
+![](Reshabh_Ohall_dino_saur_rawr.png)
+
 "pixelcrisscross"
 
 ![](pixelcrisscross_pixel.png)
@@ -4602,3 +4607,15 @@ harshithap2000-dai_deprivation"
 "ManabBiswas_corporate_dino"
 
 ![](ManabBiswas_corporate_dino.png)
+
+"NotDoodlez_alberto"
+
+![](NotDoodlez_alberto.png)
+
+"Little_Jeffy_Joe_Orpheus_maybe"
+
+![](Little_Jeffy_Joe_Orpheus_maybe.png)
+
+"userr73_lol_dino"
+
+![](userr73_lol_dino.png)
