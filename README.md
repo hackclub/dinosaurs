@@ -4634,4 +4634,4 @@ harshithap2000-dai_deprivation"
 
 "Broseph9972_psychicdino"
 
-![](Broseph9972_psychicdino.png)
+![](Broseph9972_psychic.png)
