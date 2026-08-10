@@ -27,6 +27,11 @@ _The Dinosaur Who Can Never Look Back_
 -- <cite>nathanielthealligator</cite>
 
 ---
+
+"Reshabh_Ohall_dino_saur_rawr"
+
+![](2026/July/Reshabh_Ohall_dino_saur_rawr.png)
+
 "pixelcrisscross"
 
 ![](2026/July/pixelcrisscross_pixel.png)
@@ -4617,3 +4622,51 @@ harshithap2000-dai_deprivation"
 "tharejarehan0_a11y_dinocool"
 
 ![](2026/July/tharejarehan0_a11y_dinocool.png)
+
+"heliodex_herbivore"
+
+![](2026/July/heliodex_herbivore.png)
+
+"ManabBiswas_corporate_dino"
+
+![](2026/August/ManabBiswas_corporate_dino.png)
+
+"NotDoodlez_alberto"
+
+![](2026/July/NotDoodlez_alberto.png)
+
+"Little_Jeffy_Joe_Orpheus_maybe"
+
+![](2026/July/Little_Jeffy_Joe_Orpheus_maybe.png)
+
+"userr73_lol_dino"
+
+![](2026/July/userr73_lol_dino.png)
+
+"Creative_Difficulty_dino"
+
+![](2026/July/Creative_Difficulty_dino.png)
+
+"amathefurry_transdino"
+
+![](2026/July/amathefurry_transdino.png)
+
+"Orph-spidey"
+
+![](2026/August/ToeKnee_top_orph_spidey.png)
+
+"Broseph9972_psychicdino"
+
+![](2026/August/Broseph9972_psychic.png)
+
+"Saanvi4800_dinoinlove"
+
+![](2026/August/Saanvi4800_dinoinlove.png)
+
+"daniel-odulate22_King_dino"
+
+![](2026/August/daniel-odulate22_King_dino.png)
+
+"AngelCMHxD_dinocorn"
+
+![](2026/August/AngelCMHxD_dinocorn.png)
