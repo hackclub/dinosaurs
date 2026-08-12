@@ -19,3 +19,6 @@
 "dinosaur starting a dino-as-a-service start-up"
 
 ![](dinosaur_logo.png)
+
+---
+### _Need help? Ask a question in the [slack channel](https://hackclub.enterprise.slack.com/archives/C0B0XQHPNSW)._

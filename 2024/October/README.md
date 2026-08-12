@@ -79,3 +79,6 @@
 "Not bad for a day in the life of a dog food company"
 
 ![](Mhytos_the_dino.png)
+
+---
+### _Need help? Ask a question in the [slack channel](https://hackclub.enterprise.slack.com/archives/C0B0XQHPNSW)._
