@@ -37,3 +37,23 @@ _The Dinosaur Who Can Never Look Back_
 "AngelCMHxD_dinocorn"
 
 ![](2026/August/AngelCMHxD_dinocorn.png)
+
+"github_user_dino"
+
+![](2026/August/github_user_dino.png)
+
+"github_user_face_hair_dino"
+
+![](2026/August/github_user_face_hair_dino.png)
+
+"github_user_Angry_Orpheus"
+
+![](2026/August/github_user_Angry_Orpheus.png)
+
+"a BOTATO"
+
+![](2026/August/github_user_BOTATO__.png)
+
+"tobycm_toby_dino"
+
+![](2026/August/tobycm_toby_dino.png)
