@@ -4670,4 +4670,4 @@ harshithap2000-dai_deprivation"
 
 "devwez pterodactyl dino"
 
-![](svg/cuqz_hackclub_dino.svg)
+![](cuqz_hackclub_dino.svg)
