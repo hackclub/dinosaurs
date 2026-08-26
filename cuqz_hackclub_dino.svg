@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 40" width="192" height="160">
+  <!-- body -->
+  <rect x="18" y="14" width="8" height="10" fill="#1a1a2e"/>
+  <!-- head -->
+  <rect x="22" y="6" width="8" height="8" fill="#1a1a2e"/>
+  <!-- beak -->
+  <rect x="30" y="8" width="4" height="2" fill="#1a1a2e"/>
+  <rect x="30" y="10" width="3" height="1" fill="#1a1a2e"/>
+  <!-- eye -->
+  <rect x="26" y="8" width="2" height="2" fill="#fff"/>
+  <rect x="27" y="8" width="1" height="2" fill="#000"/>
+  <!-- crest -->
+  <rect x="20" y="4" width="3" height="3" fill="#1a1a2e"/>
+  <rect x="19" y="3" width="2" height="2" fill="#1a1a2e"/>
+  <!-- left wing -->
+  <rect x="8" y="12" width="10" height="2" fill="#1a1a2e"/>
+  <rect x="6" y="14" width="12" height="2" fill="#1a1a2e"/>
+  <rect x="4" y="16" width="14" height="2" fill="#1a1a2e"/>
+  <rect x="4" y="18" width="10" height="1" fill="#1a1a2e"/>
+  <!-- right wing -->
+  <rect x="30" y="12" width="10" height="2" fill="#1a1a2e"/>
+  <rect x="30" y="14" width="12" height="2" fill="#1a1a2e"/>
+  <rect x="30" y="16" width="14" height="2" fill="#1a1a2e"/>
+  <rect x="34" y="18" width="10" height="1" fill="#1a1a2e"/>
+  <!-- legs -->
+  <rect x="20" y="24" width="2" height="4" fill="#1a1a2e"/>
+  <rect x="26" y="24" width="2" height="4" fill="#1a1a2e"/>
+  <!-- feet -->
+  <rect x="19" y="28" width="4" height="1" fill="#1a1a2e"/>
+  <rect x="25" y="28" width="4" height="1" fill="#1a1a2e"/>
+  <!-- name label -->
+  <text x="24" y="37" text-anchor="middle" font-family="monospace" font-size="4" fill="#1a1a2e" font-weight="bold">devwez</text>
+</svg>
