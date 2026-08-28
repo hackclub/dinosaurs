@@ -4675,3 +4675,7 @@ harshithap2000-dai_deprivation"
 "devwez pterodactyl dino"
 
 ![](cuqz_hackclub_dino.svg)
+
+"dangarv_arepadinohat"
+
+![](dangarv_arepadinohat.png)
