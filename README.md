@@ -4679,3 +4679,7 @@ harshithap2000-dai_deprivation"
 "dangarv_arepadinohat"
 
 ![](dangarv_arepadinohat.png)
+
+"A cute little dino by Kira Kohler"
+
+![Kira's dino](kira-kohler_dino.png)
