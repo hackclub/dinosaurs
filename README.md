@@ -33,3 +33,19 @@ _The Dinosaur Who Can Never Look Back_
 "tobycm_toby_dino"
 
 ![](2026/August/tobycm_toby_dino.png)
+
+"github_user_dino_spitting"
+
+![](2026/August/github_user_dino_spitting.png)
+
+"devwez pterodactyl dino"
+
+![](2026/August/cuqz_hackclub_dino.svg)
+
+"dangarv_arepadinohat"
+
+![](2026/August/dangarv_arepadinohat.png)
+
+"A cute little dino by Kira Kohler"
+
+![Kira's dino](2026/August/kira-kohler_dino.png)
