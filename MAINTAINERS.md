@@ -2,7 +2,7 @@
 
 ![](https://cloud-p70xub1ai-hack-club-bot.vercel.app/0screenshot_2023-06-22_at_11.01.38.png)
 
-`hackclub/dinosaurs` is maintained by a crack team of internation pull request mergers fulfilling a tour of duty for 2 months. The current tour of duty is scheduled to end on **Aug 31st**.
+`hackclub/dinosaurs` is maintained by a crack team of international pull request mergers fulfilling a tour of duty for 2 months. The current tour of duty is scheduled to end on **Aug 31st**.
 
 Maintainers fulfill the following role:
 
