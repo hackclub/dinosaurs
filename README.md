@@ -4706,3 +4706,7 @@ harshithap2000-dai_deprivation"
 "A waving Orpheus by locngphuc12"
 
 ![](locngphuc12_waving_orpheus.png)
+
+"shreyanshlakra724_sketch_dino"
+
+![](shreyanshlakra724_sketch_dino.png)
