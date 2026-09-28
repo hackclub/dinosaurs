@@ -419,6 +419,10 @@ short"
 
 ![](arcade_dino.png)
 
+"ashyyhere_dino"
+
+![](ashyyhere_dino.png)
+
 "leaping dino"
 
 ![](leaping_dino.png)
