@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"ooowillexistsooo_realistic_dino"
+
+![](ooowillexistsooo_realistic_dino.png)
+
 "Reshabh_Ohall_dino_saur_rawr"
 
 ![](Reshabh_Ohall_dino_saur_rawr.png)
