@@ -187,6 +187,10 @@ c
 
 ![](das_amit_dragonair_dino.png)
 
+"NivedhGovil_dino_nivedh"
+
+![](NivedhGovil_dino_nivedh.png)
+
 "AsherCarneiro_bro_think_he_cool\_\_\_"
 
 ![](AsherCarneiro_bro_think_he_cool___.png)
