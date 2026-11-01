@@ -4764,3 +4764,7 @@ harshithap2000-dai_deprivation"
 "SSoggyTacoMan_dino_boi"
 
 ![](SSoggyTacoMan_dino_boi.png)
+
+"2urleft_ribbon_dino"
+
+![](2urleft_ribbon_dino.png)
