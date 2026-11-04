@@ -40,5 +40,25 @@
 
 ![](github_user_BOTATO__.png)
 
+"tobycm_toby_dino"
+
+![](tobycm_toby_dino.png)
+
+"github_user_dino_spitting"
+
+![](github_user_dino_spitting.png)
+
+"devwez pterodactyl dino"
+
+![](cuqz_hackclub_dino.svg)
+
+"dangarv_arepadinohat"
+
+![](dangarv_arepadinohat.png)
+
+"A cute little dino by Kira Kohler"
+
+![Kira's dino](kira-kohler_dino.png)
+
 ---
 ### _Need help? Ask a question in the [slack channel](https://hackclub.enterprise.slack.com/archives/C0B0XQHPNSW)._
