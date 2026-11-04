@@ -12,7 +12,8 @@
 
 ![](github_user_epic_face_dino.png)
 
-"I'm absolutely not a snake" 
+"I'm absolutely not a snake"
+
 ![what are you doing here?](I'm_absolutely_not_a_snake.png)
 
 "skueee_m_dino"
@@ -52,6 +53,7 @@
 ![](alrikkk_dino.png)
 
 "fathia_20omar_dino_fathia"
+
 ![](fathia_20omar_dino_fathia.png)
 
 "ashyyhere_dino"
