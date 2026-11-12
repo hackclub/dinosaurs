@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"MSDataHub58_dino_new_chap"
+
+![](MSDataHub58_dino_new_chap.png)
+
 "ooowillexistsooo_realistic_dino"
 
 ![](ooowillexistsooo_realistic_dino.png)
