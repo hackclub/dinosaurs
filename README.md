@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"casperfeehily_dino"
+
+![](/Users/casper/Downloads/dinosaurs/Casper_Feehily_itsadinobro.png)
+
 "MSDataHub58_dino_new_chap"
 
 ![](MSDataHub58_dino_new_chap.png)
