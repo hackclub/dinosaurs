@@ -28,6 +28,9 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"rawri"
+![](blankelol_dino.png)
+
 "onetwothird_dino"
 
 ![](onetwothird_dino.png)
