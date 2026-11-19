@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"rawri"
+
+![](blankelol_dino.png)
+
 "casperfeehily_dino"
 
 ![](Casper_Feehily_itsadinobro.png)
