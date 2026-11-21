@@ -28,6 +28,10 @@ _The Dinosaur Who Can Never Look Back_
 
 ---
 
+"orakzai_dino"
+
+![](orakzai-io_dino.png)
+
 "rawri"
 
 ![](blankelol_dino.png)
